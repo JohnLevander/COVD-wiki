@@ -8,4 +8,6 @@
 * [(Mandarin) Monitoring and early warning - National Health Commission - PRC](http://www.nhc.gov.cn/yjb/s2907/new_list.shtml)
 * [(Korean) KCDC Press Releases](https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015)
 * [(English) KCDC Press Releases](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030) - Note: English and Korean reports may have different content
+* [(Chinese) Hong Kong DOH Press Releases](https://www.dh.gov.hk/tc_chi/press/press.html)
+* [(English) Hong Kong DOH Press Releases](https://www.dh.gov.hk/english/press/press.html)
 * [WHO Novel Coronavirus - Disease Outbreak News](https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/)
