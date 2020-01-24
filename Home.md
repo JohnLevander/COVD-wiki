@@ -1,6 +1,6 @@
 # Data
 * [Data for: Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions](https://livelancsac-my.sharepoint.com/personal/readj2_lancaster_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Freadj2%5Flancaster%5Fac%5Fuk%2FDocuments%2Fpublic%2F2019%2DnCoV%20early%20modelling%20paper&originalPath=aHR0cHM6Ly9saXZlbGFuY3NhYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9yZWFkajJfbGFuY2FzdGVyX2FjX3VrL0VyTU1QS1ZIaGExSG9DZXlqZHcxUTNFQmVYemlJd2czVW56Z0d4WHZ1X0ZrQnc_cnRpbWU9MTJ4czA5ZWcxMGc) -- [Article](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1)
-* [Extracted Data, Source: Imperial College London](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=0)
+* [Data from DXY.cn](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=0)
 * [Line List, Source: Moritz Kraemer/virological.org](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)
 
 # Sequencing Resources
