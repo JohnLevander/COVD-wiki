@@ -15,3 +15,4 @@
 * [(English) Hong Kong DOH Press Releases](https://www.dh.gov.hk/english/press/press.html)
 * [(Thai) Thailand MOPH Press Releases](https://pr.moph.go.th/?url=pr/index/2/02/1)
 * [WHO Novel Coronavirus - Disease Outbreak News](https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/)
+* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
