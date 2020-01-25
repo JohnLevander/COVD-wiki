@@ -3,6 +3,8 @@
 * [Data from DXY.cn](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=0)
 * [Line List, Source: Moritz Kraemer/virological.org](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)
 * [Case Map, Source: JHU CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+* [Dashboard, Risk of International Dissemination, Source: Michele Tizzoni](https://datastudio.google.com/u/0/reporting/e693c1f9-13fa-42f6-86e6-c637b159a742/page/CIXCB)
+
 
 # Sequencing Resources
 * [Nextstrain - nCoV 2019-20](https://nextstrain.org/ncov)
