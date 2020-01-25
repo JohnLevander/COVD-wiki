@@ -11,6 +11,7 @@
 * [NCBI - Genbank - Wuhan seafood market pneumonia virus isolate Wuhan-Hu-1, complete genome](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
 
 # Other Collaborations
+* [Outbreak Science's Rapid PREreview Platform](https://outbreaksci.prereview.org)
 * [2019 Novel Coronavirus section on virological.org](http://virological.org/c/novel-2019-coronavirus/33)
 
 # Official Reports
