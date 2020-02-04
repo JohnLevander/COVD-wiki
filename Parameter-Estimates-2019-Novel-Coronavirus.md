@@ -1,0 +1,5 @@
+[Data Guide for Parameter Estimates](https://github.com/midas-network/2019-ncov/blob/master/information_for_contributors/parameter_estimates_data_guide_v1_4Feb2020.csv)
+
+|ID|Name|Abbreviation|Units|Country|Location|Location Type|Start date|End date|Value|Uncertainty Type|Lower Bound|Upper Bound|Population|Method Description|Data Description|Publication Date|Publication Title|Authors|Entry Date|Entry Name|Entry Email|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ncov1|cumulative case count|-|persons|China|Wuhan City|City|2020-01-18|2020-01-18|4000|-|1000|9700|-|-|7 imported cases internationally as of  9:00 GMT 22nd January, flight patterns|2020-01-22|Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China |Natsuko Imai, Ilaria Dorigatti, Anne Cori, Christl Donnelly, Steven Riley, Neil M. Ferguson|2020-01-24|Cécile Viboud|viboudc@mail.nih.gov|
