@@ -1,9 +1,12 @@
 # Reports
 ## Outbreak updates
+### WHO Disease Outbreak News
+14 January, 2020 - [World Health Organization (WHO). (2020). Novel Coronavirus – Thailand (ex-China). Geneva.]()
+
 
 ## Model reports
 ### China
-[Imai, N., Dorigatti, I., Cori, A., Riley, S., & Ferguson, N. M. (2020). Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China. London.](https://github.com/midas-network/2019-ncov/blob/master/Documents/reports/model_reports/china/2019-nCoV-outbreak-report-17-01-2020.pdf) 
+17 January, 2020 - [Imai, N., Dorigatti, I., Cori, A., Riley, S., & Ferguson, N. M. (2020). Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China. London.](https://github.com/midas-network/2019-ncov/blob/master/Documents/reports/model_reports/china/2019-nCoV-outbreak-report-17-01-2020.pdf) 
 
 
 # Pre-prints & Peer-Reviewed Papers
