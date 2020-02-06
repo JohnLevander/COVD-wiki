@@ -1,7 +1,7 @@
 # Reports
 ## Outbreak updates
 ### Global
-#### [WHO Disease Outbreak News](https://github.com/midas-network/2019-ncov/tree/master/cases/who/disease_outbreak_news) (Collection [metadata](https://github.com/midas-network/2019-ncov/blob/master/cases/who/disease_outbreak_news/collection_metadata.csv))
+#### [WHO Disease Outbreak News](https://github.com/midas-network/2019-ncov/tree/master/cases/who/disease_outbreak_news) ([metadata](https://github.com/midas-network/2019-ncov/blob/master/cases/who/disease_outbreak_news/collection_metadata.csv))
 * 14 January, 2020 - [World Health Organization (WHO). (2020). Novel Coronavirus – Thailand (ex-China). Geneva.](https://github.com/midas-network/2019-ncov/blob/master/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Thailand%20(ex-China)_20200114.pdf)
 * 16 January, 2020 - [World Health Organization (WHO). (2020). Emergencies preparedness, response Novel Coronavirus – China. Geneva.](https://github.com/midas-network/2019-ncov/blob/master/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Japan%20(ex-China)_20200116.pdf)
 * 17 January, 2020 - [World Health Organization (WHO). (2020). Emergencies preparedness, response Novel Coronavirus – China. Geneva.](https://github.com/midas-network/2019-ncov/blob/master/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Japan%20(ex-China)_20200117.pdf)
