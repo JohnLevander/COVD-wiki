@@ -28,6 +28,8 @@
 
 28 January 2020 - [Shao P, Shan Y. Beware of asymptomatic transmission: Study on 2019-nCoV prevention and control measures based on extended SEIR model. bioRxiv. 2020:2020.01.28.923169.](https://doi.org/10.1101/2020.01.28.923169)
 
+01 February 2020 - [Errett NA, Sauer LM, Rutkow L. An integrative review of the limited evidence on international travel bans as an emerging infectious disease disaster control measure. J Emerg Manag (Weston, Mass). 2020;18(1):7-14.](https://doi.org/10.5055/jem.2020.0446)
+
 02 February 2020 - [Quilty B, Clifford S, Flasche S, Eggo RM. Effectiveness of airport screening at detecting travellers infected with 2019-nCoV. medRxiv. 2020:2020.01.31.20019265.](https://doi.org/10.1101/2020.01.31.20019265)
 
 02 February 2020 - [Tian H, Li Y, Liu Y, et al. Early evaluation of the Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. 2020:2020.01.30.20019844.](https://doi.org/10.1101/2020.01.30.20019844)
