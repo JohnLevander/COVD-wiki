@@ -22,6 +22,21 @@
 ## Scenario Projections & Forecasting
 
 ## Impact of Interventions
+18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
+
+28 January 2020 - [Lodge EK, Schatz AM, Drake JM. Protective Population Behavior Change in Outbreaks of Emerging Infectious Disease. bioRxiv. 2020:2020.01.27.921536.](https://doi.org/10.1101/2020.01.27.921536)
+
+28 January 2020 - [Shao P, Shan Y. Beware of asymptomatic transmission: Study on 2019-nCoV prevention and control measures based on extended SEIR model. bioRxiv. 2020:2020.01.28.923169.](https://doi.org/10.1101/2020.01.28.923169)
+
+02 February 2020 - [Quilty B, Clifford S, Flasche S, Eggo RM. Effectiveness of airport screening at detecting travellers infected with 2019-nCoV. medRxiv. 2020:2020.01.31.20019265.](https://doi.org/10.1101/2020.01.31.20019265)
+
+02 February 2020 - [Tian H, Li Y, Liu Y, et al. Early evaluation of the Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. 2020:2020.01.30.20019844.](https://doi.org/10.1101/2020.01.30.20019844)
+
+03 February 2020 - [Gostic K, Gomez ACR, Mummah RO, Kucharski AJ, Lloyd-Smith JO. Estimated effectiveness of traveller screening to prevent international spread of 2019 novel coronavirus (2019-nCoV). medRxiv. 2020:2020.01.28.20019224.](https://doi.org/10.1101/2020.01.28.20019224)
+
+5 February 2020 - [Ai S, Zhu G, Tian F, et al. Population movement, city closure and spatial transmission of the 2019-nCoV infection in China. medRxiv. 2020:2020.02.04.20020339.](https://doi.org/10.1101/2020.02.04.20020339)
+
+07 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
 
 ## Virus Evolution
 
