@@ -377,7 +377,71 @@
 5 February 2020 - [Zhou Y, Hou Y, Shen J, Huang Y, Martin W, Cheng F. Network-based Drug Repurposing for Human Coronavirus. medRxiv. 2020:2020.02.03.20020263.](https://doi.org/10.1101/2020.02.03.20020263)
 
 ## Other studies
+14 January 2020 - [Hui DS, I Azhar E, Madani TA, et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China. Int J Infect Dis. 2020;91:264-266.](https://doi.org/10.1016/j.ijid.2020.01.009)
 
+22 January 2020 - [Liu S-L, Saif L. Emerging Viruses without Borders: The Wuhan Coronavirus. Viruses. 2020;12(2):E130.](https://doi.org/10.3390/v12020130)
+
+24 January 2020 - [Heymann DL. Data sharing and outbreaks: best practice exemplified. Lancet.](https://doi.org/10.1016/S0140-6736(20)30184-7)
+
+24 January 2020 - [Munster VJ, Koopmans M, van Doremalen N, van Riel D, de Wit E. A Novel Coronavirus Emerging in China — Key Questions for Impact Assessment. N Engl J Med. January 2020:NEJMp2000929.](https://doi.org/10.1056/NEJMp2000929)
+
+24 January 2020 - [The L. Emerging understandings of 2019-nCoV. Lancet.](https://doi.org/10.1016/S0140-6736(20)30186-0)
+
+24 January 2020 - [Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. Lancet (London, England). January 2020:S0140-6736(20)30185-9.](https://doi.org/10.1016/S0140-6736(20)30185-9)
+
+24 January 2020 - [Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020:10.1056/NEJMoa2001017.](https://doi.org/10.1056/NEJMoa2001017)
+
+30 January 2020 - [Bonilla-Aldana DK, Quintero-Rada K, Montoya-Posada JP, et al. SARS-CoV, MERS-CoV and now the 2019-novel CoV: Have we investigated enough about coronaviruses? - A bibliometric analysis. Travel Med Infect Dis. 2020:101566.](https://doi.org/10.1016/j.tmaid.2020.101566)
+
+30 January 2020 - [Phan T. Novel coronavirus: From discovery to clinical diagnostics. Infect Genet Evol. 2020:104211.](https://doi.org/10.1016/j.meegid.2020.104211)
+
+30 January 2020 - [Wang R, Zhang X, Irwin DM, Shen Y. Emergence of SARS-like coronavirus poses new challenge in China. J Infect. January 2020:S0163-4453(20)30057-8.](https://doi.org/10.1016/j.jinf.2020.01.017)
+
+1 February 2020 - [Rodriguez-Morales AJ, Bonilla-Aldana DK, Balbin-Ramon GJ, et al. History is repeating itself, a probable zoonotic spillover as a cause of an epidemic: the case of 2019 novel Coronavirus. Le Infez Med. 2020;28(1):3-5.](https://www.ncbi.nlm.nih.gov/pubmed/32009128.)
+
+2 February 2020 - [Cleemput S, Dumon W, Fonseca V, et al. Genome Detective Coronavirus Typing Tool for rapid identification and characterization of novel coronavirus genomes. bioRxiv. 2020:2020.01.31.928796.](https://doi.org/10.1101/2020.01.31.928796)
+
+2 February 2020 - [Fang F, Luo XP. _Facing the pandemic of 2019 novel coronavirus infections: the pediatric perspectives_. Zhonghua Er Ke Za Zhi. 2020;58(0):E001.](https://doi.org/10.3760/cma.j.issn.0578-1310.2020.0001)
+
+2 February 2020 - [Xu K, Lai XQ, Liu Z. _Suggestions for prevention of 2019 novel coronavirus infection in otolaryngology head and neck surgery medical staff_. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2020;55(0):E001.](https://doi.org/10.3760/cma.j.issn.1673-0860.2020.0001)
+
+3 February 2020 - [Wu F, Zhao S, Yu B, et al. A new coronavirus associated with human respiratory disease in China. Nature. 2020:10.1038/s41586-020-2008-3.](https://doi.org/10.1038/s41586-020-2008-3)
+
+4 February 2020 - [Calling all coronavirus researchers: keep sharing, stay open. Nature. 2020;578(7793):7.](https://doi.org/10.1038/d41586-020-00307-x)
+
+4 February 2020 - [Chen J. Pathogenicity and Transmissibility of 2019-nCoV-A Quick Overview and Comparison with Other Emerging Viruses. Microbes Infect. February 2020:S1286-4579(20)30026-5.](https://www.sciencedirect.com/science/article/pii/S1286457920300265)
+
+4 February 2020 - [Long JB, Ehrenfeld JM. The Role of Augmented Intelligence (AI) in Detecting and Preventing the Spread of Novel Coronavirus. J Med Syst. 2020;44(3):59.](https://doi.org/10.1007/s10916-020-1536-6)
+
+4 February 2020 - [Working Group of 2019 Novel Coronavirus PUMCH. _Diagnosis and clinical management of 2019 novel coronavirus infection: an operational recommendation of Peking Union Medical College Hospital (V2.0)_. Zhonghua nei ke za zhi. 2020;59(3):186-188.](https://doi.org/10.3760/cma.j.issn.0578-1426.2020.03.003)
+
+5 February 2020 - [del Rio C, Malani PN. 2019 Novel Coronavirus—Important Information for Clinicians. JAMA. February 2020.](https://doi.org/10.1001/jama.2020.1490)
+
+5 February 2020 - [Duarte R, Furtado I, Sousa L, Carvalho CFA. The 2019 Novel Coronavirus (2019-nCoV): Novel Virus, Old Challenges. Acta Med Port. 2020;33(13).](https://doi.org/10.20344/amp.13547)
+
+5 February 2020 - [Gao ZC. _Efficient management of novel coronavirus pneumonia by efficient prevention and control in scientific manner_. Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E001.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0001)
+
+5 February 2020 - [McCloskey B, Heymann DL. SARS to novel coronavirus - old lessons and new lessons. Epidemiol Infect. 2020;148:e22.](https://doi.org/10.1017/s0950268820000254)
+
+5 February 2020 - [Subspecialty Group of Gastroenterology, the Society of Pediatrics CMA. _Prevention and control program on 2019 novel coronavirus infection in Children’s digestive endoscopy center_. Zhonghua er ke za zhi = Chinese J Pediatr. 2020;58(0):E003.](https://doi.org/10.3760/cma.j.issn.0578-1310.2020.0003)
+
+5 February 2020 - [Yang F, Liu N, Wu JY, Hu LL, Su GS, Zheng NS. _Pulmonary rehabilitation guidelines in the principle of 4S for patients infected with 2019 novel coronavirus (2019-nCoV)_. Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E004.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0004)
+
+5 February 2020 - [Zhou L, Liu HG. _Early detection and disease assessment of patients with novel coronavirus pneumonia_. Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E003.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0003)
+
+6 February 2020 - [Eurosurveillance Editorial T. Note from the editors: World Health Organization declares novel coronavirus (2019-nCoV) sixth public health emergency of international concern. Euro Surveill. 2020.](https://doi.org/10.2807/1560-7917.ES.2020.25.5.200131e)
+
+6 February 2020 - [Jin Y-H, Cai L, Cheng Z-S, et al. A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version). Mil Med Res. 2020;7(1):4.](https://doi.org/10.1186/s40779-020-0233-6)
+
+7 February 2020 - [Battegay M, Kuehl R, Tschudin-Sutter S, Hirsch HH, Widmer AF, Neher RA. 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate - a word of caution. Swiss Med Wkly. 2020;150:w20203-w20203.](https://doi.org/10.4414/smw.2020.20203)
+
+7 February 2020 - [Lin L, Li TS. Interpretation of “Guidelines for the Diagnosis and Treatment of Novel Coronavirus (2019-nCoV) Infection by the National Health Commission (Trial Version 5).” Zhonghua Yi Xue Za Zhi. 2020;100(0):E001-E001.](https://doi.org/10.3760/cma.j.issn.0376-2491.2020.0001)
+
+7 February 2020 - [Patel A, Jernigan DB. Initial Public Health Response and Interim Clinical Guidance for the 2019 Novel Coronavirus Outbreak - United States, December 31, 2019-February 4, 2020. MMWR Morb Mortal Wkly Rep. 2020;69(5):140-146.](https://doi.org/10.15585/mmwr.mm6905e1)
+
+7 February 2020 - [Shen K, Yang Y, Wang T, et al. Diagnosis, treatment, and prevention of 2019 novel coronavirus infection in children: experts’ consensus statement. World J Pediatr. February 2020:10.1007/s12519-020-00343-00347.](https://doi.org/10.1007/s12519-020-00343-7)
+
+8 February 2020 - [Group of Interventional Respiratory Medicine CTS. Expert consensus for bronchoscopy during the epidemic of 2019 Novel Coronavirus infection (Trial version). Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E006-E006.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0006)
 
 # Guidelines
 ## WHO
