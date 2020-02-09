@@ -173,11 +173,51 @@
 
 5 February 2020 - [Ai S, Zhu G, Tian F, et al. Population movement, city closure and spatial transmission of the 2019-nCoV infection in China. medRxiv. 2020:2020.02.04.20020339.](https://doi.org/10.1101/2020.02.04.20020339)
 
-07 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
+7 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
 
 ## Virus Evolution
+21 January 2020 - [Xu X, Chen P, Wang J, et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci. January 2020:10.1007/s11427-020-1637-5.](https://doi.org/10.1007/s11427-020-1637-5)
+
+22 January 2020 - [Chen Y, Liu Q, Guo D. Emerging coronaviruses: genome structure, replication, and pathogenesis. J Med Virol. 2020:10.1002/jmv.25681.](https://doi.org/10.1002/jmv.25681)
+
+22 January 2020 - [Ji W, Wang W, Zhao X, Zai J, Li X. Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross-species transmission from snake to human. J Med Virol. 2020:10.1002/jmv.25682.](https://doi.org/10.1002/jmv.25682)
+
+23 January 2020 - [Zhou P, Yang X-L, Wang X-G, et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv. 2020:2020.01.22.914952.](https://doi.org/10.1101/2020.01.22.914952)
+
+24 January 2020 - [Benvenuto D, Giovannetti M, Ciccozzi A, Spoto S, Angeletti S, Ciccozzi M. The 2019-new coronavirus epidemic: evidence for virus evolution. bioRxiv. 2020:2020.01.24.915157.](https://doi.org/10.1101/2020.01.24.915157)
+
+27 January 2020 - [Paraskevis D, Kostaki EG, Magiorkinis G, Panayiotakopoulos G, Tsiodras S. Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event. bioRxiv. 2020:2020.01.26.920249.](https://doi.org/10.1101/2020.01.26.920249)
+
+28 January 2020 - [Chan JF-W, Kok K-H, Zhu Z, et al. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infect. 2020;9(1):221-236.](https://doi.org/10.1080/22221751.2020.1719902)
+
+30 January 2020 - [Lu R, Zhao X, Li J, et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet (London, England). 2020:S0140-6736(20)30251-8.](https://doi.org/10.1016/S0140-6736(20)30251-8)
+
+30 January 2020 - [Xiong C, Jiang L, Chen Y, Jiang Q. Evolution and variation of 2019-novel coronavirus. bioRxiv. 2020:2020.01.30.926477.](https://doi.org/10.1101/2020.01.30.926477)
+
+31 January 2020 - [Zhang C, Wang M. MRCA time and epidemic dynamics of the 2019 novel coronavirus. bioRxiv. 2020:2020.01.25.919688.](https://doi.org/10.1101/2020.01.25.919688)
+
+1 February 2020 - [Bartoszewicz JM, Seidel A, Renard BY. Interpretable detection of novel human viruses from genome sequencing data. bioRxiv. 2020:2020.01.29.925354.](https://doi.org/10.1101/2020.01.29.925354)
+
+2 February 2020 - [Wu F, Zhao S, Yu B, et al. Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China. bioRxiv. 2020:2020.01.24.919183.](https://doi.org/10.1101/2020.01.24.919183)
+
+3 February 2020 - [Wu F, Zhao S, Yu B, et al. A new coronavirus associated with human respiratory disease in China. Nature. 2020:10.1038/s41586-020-2008-3.](https://doi.org/10.1038/s41586-020-2008-3)
+
+3 February 2020 - [Zhang L, Shen F-M, Chen F, Lin Z. Origin and evolution of the 2019 novel coronavirus. Clin Infect Dis. February 2020:ciaa112.](https://doi.org/10.1093/cid/ciaa112)
+
+3 February 2020 - [Zhou P, Yang X-L, Wang X-G, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020:10.1038/s41586-020-2012-2017.](https://doi.org/10.1038/s41586-020-2012-7)
+
+4 February 2020 - [Ramaiah A, Arumugaswami V. Insights into Cross-species Evolution of Novel Human Coronavirus 2019-nCoV and Defining Immune Determinants for Vaccine Development. bioRxiv. 2020:2020.01.29.925867.](https://doi.org/10.1101/2020.01.29.925867)
+
+5 February 2020 - [Ceraolo C, Giorgi FM. Genomic variance of the 2019-nCoV coronavirus. bioRxiv. 2020:2020.02.02.931162.](https://doi.org/10.1101/2020.02.02.931162)
+
+5 February 2020 - [Zhou Y, Hou Y, Shen J, Huang Y, Martin W, Cheng F. Network-based Drug Repurposing for Human Coronavirus. medRxiv. 2020:2020.02.03.20020263.](https://doi.org/10.1101/2020.02.03.20020263)
+
+7 February 2020 - [Zhu Z, Meng K, Meng G. A database resource for Genome-wide dynamics analysis of Coronaviruses on a historical and global scale. bioRxiv. 2020:2020.02.05.920009.](https://doi.org/10.1101/2020.02.05.920009)
+
+9 February 2020 - [Randhawa GS, Soltysiak MPM, El Roz H, de Souza CPE, Hill KA, Kari L. Machine learning-based analysis of genomes suggests associations between Wuhan 2019-nCoV and bat Betacoronaviruses. bioRxiv. 2020:2020.02.03.932350.](https://doi.org/10.1101/2020.02.03.932350)
 
 ## Clinical and Community Trials
+30 January 2020 - [Pillaiyar T, Meenakshisundaram S, Manickam M. Recent discovery and development of inhibitors targeting coronaviruses. Drug Discov Today. January 2020:S1359-6446(20)30041-6.](https://doi.org/10.1016/j.drudis.2020.01.015)
 
 ## Observational Studies
 16 January 2020 - [Lu H, Stratton CW, Tang Y-W. Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle. J Med Virol. 2020:10.1002/jmv.25678.](https://doi.org/10.1002/jmv.25678)
