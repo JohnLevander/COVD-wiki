@@ -223,6 +223,29 @@
 
 7 February 2020 - [Xiao S-Y, Wu Y, Liu H. Evolving status of the 2019 novel coronavirus Infection: proposal of conventional serologic assays for disease diagnosis and infection monitoring [Commentary/Review]. J Med Virol. February 2020:10.1002/jmv.25702.](https://doi.org/10.1002/jmv.25702)
 
+## Potential Therapeutics
+28 January 2020 - [Xu Z, Peng C, Shi Y, et al. Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation. bioRxiv. 2020:2020.01.27.921627.](https://doi.org/10.1101/2020.01.27.921627)
+
+29 January 2020 - [Liu X, Wang X-J. Potential inhibitors for 2019-nCoV coronavirus M protease from clinically approved medicines. bioRxiv. 2020:2020.01.29.924100.](https://doi.org/10.1101/2020.01.29.924100)
+
+30 January 2020 - [Li Y, Zhang J, Wang N, et al. Therapeutic Drugs Targeting 2019-nCoV Main Protease by High-Throughput Screening. bioRxiv. 2020:2020.01.28.922922.](https://doi.org/10.1101/2020.01.28.922922)
+
+30 January 2020 - [Pillaiyar T, Meenakshisundaram S, Manickam M. Recent discovery and development of inhibitors targeting coronaviruses. Drug Discov Today. January 2020:S1359-6446(20)30041-6.](https://doi.org/10.1016/j.drudis.2020.01.015)
+
+1 February 2020 - [Yu F, Du L, Ojcius DM, Pan C, Jiang S. Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China. Microbes Infect. 2020:S1286-4579(20)30025-3.](https://doi.org/10.1016/j.micinf.2020.01.003)
+
+2 February 2020 - [Beck BR, Shin B, Choi Y, Park S, Kang K. Predicting commercially available antiviral drugs that may act on the novel coronavirus (2019-nCoV), Wuhan, China through a drug-target interaction deep learning model. bioRxiv. 2020:2020.01.31.929547.](https://doi.org/10.1101/2020.01.31.929547)
+
+3 February 2020 - [Lin S, Shen R, Guo X. Molecular Modeling Evaluation of the Binding Abilities of Ritonavir and Lopinavir to Wuhan Pneumonia Coronavirus Proteases. bioRxiv. 2020:2020.01.31.929695.](https://doi.org/10.1101/2020.01.31.929695)
+
+4 February 2020 - [Nguyen DD, Gao K, Wang R, Wei G. Machine intelligence design of 2019-nCoV drugs. bioRxiv. 2020:2020.01.30.927889.](https://doi.org/10.1101/2020.01.30.927889)
+
+4 February 2020 - [Wang M, Cao R, Zhang L, et al. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res. February 2020.](https://doi.org/10.1038/s41422-020-0282-0)
+
+5 February 2020 - [Li H, Wang YM, Xu JY, Cao B. _Potential antiviral therapeutics for 2019 Novel Coronavirus_. Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E002.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0002)
+
+5 February 2020 - [Zhou Y, Hou Y, Shen J, Huang Y, Martin W, Cheng F. Network-based Drug Repurposing for Human Coronavirus. medRxiv. 2020:2020.02.03.20020263.](https://doi.org/10.1101/2020.02.03.20020263)
+
 ## Other studies
 
 
