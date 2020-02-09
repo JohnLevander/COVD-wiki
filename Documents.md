@@ -65,6 +65,57 @@
 ## Spread and Possibility of Containment
 
 ## Scenario Projections & Forecasting
+14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
+
+19 January 2020 - [Chen T, Rui J, Wang Q, Zhao Z, Cui J-A, Yin L. A mathematical model for simulating the transmission of Wuhan novel Coronavirus. bioRxiv. 2020:2020.01.19.911669.](https://doi.org/10.1101/2020.01.19.911669)
+
+24 January 2020 - [Nishiura, Jung, Linton, et al. The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020. J Clin Med. 2020;9(2):330.](https://doi.org/10.3390/jcm9020330)
+
+25 January 2020 - [Shen M, Peng Z, Xiao Y, Zhang L. Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China. bioRxiv. 2020:2020.01.23.916726.](https://doi.org/10.1101/2020.01.23.916726)
+
+25 January 2020 - [Thompson RN. 2019-20 Wuhan coronavirus outbreak: Intense surveillance is vital for preventing sustained transmission in new locations. bioRxiv. 2020:2020.01.24.919159.](https://doi.org/10.1101/2020.01.24.919159)
+
+26 January 2020 - [Liu T, Hu J, Kang M, et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv. 2020:2020.01.25.919787.](https://doi.org/10.1101/2020.01.25.919787)
+
+28 January 2020 - [Chen Z, Zhang W, Lu Y, et al. From SARS-CoV to Wuhan 2019-nCoV Outbreak: Similarity of Early Epidemic and Prediction of Future Trends. bioRxiv. 2020:2020.01.24.919241.](https://doi.org/10.1101/2020.01.24.919241)
+
+28 January 2020 - [ Read JM, Bridgen JRE, Cummings DAT, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020:2020.01.23.20018549.](https://doi.org/10.1101/2020.01.23.20018549)
+
+28 January 2020 - [Shao P, Shan Y. Beware of asymptomatic transmission: Study on 2019-nCoV prevention and control measures based on extended SEIR model. bioRxiv. 2020:2020.01.28.923169.](https://doi.org/10.1101/2020.01.28.923169)
+
+30 January 2020 - [Ming W, Huang J, Zhang CJP. Breaking down of healthcare system: Mathematical modelling for controlling the novel coronavirus (2019-nCoV) outbreak in Wuhan, China. bioRxiv. 2020:2020.01.27.922443.](https://doi.org/10.1101/2020.01.27.922443)
+
+31 January 2020 - [Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet (London, England). 2020:S0140-6736(20)30260-9.](https://doi.org/10.1016/S0140-6736(20)30260-9)
+
+31 January 2020 - [Zhang C, Wang M. MRCA time and epidemic dynamics of the 2019 novel coronavirus. bioRxiv. 2020:2020.01.25.919688.](https://doi.org/10.1101/2020.01.25.919688)
+
+1 February 2020 - [Liang Y, Xu D, Fu S, et al. A Simple Prediction Model for the Development Trend of 2019-nCov Epidemics Based on Medical Observations. arXiv Prepr arXiv200200426. February 2020. http://arxiv.org/abs/2002.00426.](http://arxiv.org/abs/2002.00426)
+
+2 February 2020 - [Guo Q, Li M, Wang C, et al. Host and infectivity prediction of Wuhan 2019 novel coronavirus using deep learning algorithm. bioRxiv. 2020:2020.01.21.914044.](https://doi.org/10.1101/2020.01.21.914044)
+
+2 February 2020 - [Jung S, Akhmetzhanov AR, Hayashi K, et al. Real time estimation of the risk of death from novel coronavirus (2019-nCoV) infection: Inference using exported cases. medRxiv. 2020:2020.01.29.20019547.](https://doi.org/10.1101/2020.01.29.20019547)
+
+2 February 2020 - [Kucharski AJ, Russell TW, Diamond C, Funk S, Eggo RM. Early dynamics of transmission and control of 2019-nCoV: a mathematical modelling study. medRxiv. 2020:2020.01.31.20019901.](https://doi.org/10.1101/2020.01.31.20019901)
+
+4 February 2020 - [Du Z, Wang L, Cauchemez S, et al. Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine. medRxiv. 2020:2020.01.28.20019299.](https://doi.org/10.1101/2020.01.28.20019299)
+
+4 February 2020 - [Nishiura H, Kobayashi T, Yang Y, et al. The Rate of Underascertainment of Novel Coronavirus (2019-nCoV) Infection: Estimation Using Japanese Passengers Data on Evacuation Flights. J Clin Med. 2020;9(2):E419.](https://doi.org/10.3390/jcm9020419)
+
+4 February 2020 - [Yuan H-Y, Hossain MP, Tsegaye MM, et al. Estimating the risk on outbreak spreading of 2019-nCoV in China using transportation data. medRxiv. 2020:2020.02.01.20019984.](https://doi.org/10.1101/2020.02.01.20019984)
+
+5 February 2020 - [Chowell G, Dhillon R, Srikrishna D. Getting to zero quickly in the 2019-nCov epidemic with vaccines or rapid testing. medRxiv. 2020:2020.02.03.20020271.](https://doi.org/10.1101/2020.02.03.20020271)
+
+5 February 2020 - [De Salazar PM, Niehus R, Taylor A, Buckee CO, Lipsitch M. Using predicted imports of 2019-nCoV cases to determine locations that may not be identifying all imported cases. medRxiv. 2020:2020.02.04.20020495.](https://doi.org/10.1101/2020.02.04.20020495)
+
+5 February 2020 - [Hermanowicz SW. Forecasting the Wuhan coronavirus (2019-nCoV) epidemics using a simple (simplistic) model. medRxiv. 2020:2020.02.04.20020461.](https://doi.org/10.1101/2020.02.04.20020461)
+
+5 February 2020 - [Lai S, Bogoch I, Ruktanonchai N, et al. Assessing spread risk of Wuhan novel coronavirus within and beyond China, January-April 2020: a travel network-based modelling study. medRxiv. 2020:2020.02.04.20020479.](https://doi.org/10.1101/2020.02.04.20020479)
+
+6 February 2020 - [Ai L. Modelling the epidemic trend of the 2019-nCOV outbreak in Hubei Province, China. medRxiv. 2020:2020.01.30.20019828.](https://doi.org/10.1101/2020.01.30.20019828)
+
+7 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
+
+7 February 2020 - [Park SW, Champredon D, Earn DJD, et al. Reconciling early-outbreak preliminary estimates of the basic reproductive number and its uncertainty: a new framework and applications to the novel coronavirus (2019-nCoV) outbreak. medRxiv. 2020:2020.01.30.20019877.](https://doi.org/10.1101/2020.01.30.20019877)
 
 ## Impact of Interventions
 18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
