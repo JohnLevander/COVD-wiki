@@ -45,9 +45,65 @@
 ## Clinical and Community Trials
 
 ## Observational Studies
-January 24, 2020 - [Huang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., … Gu, X. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan , China. The Lancet, 6736(20), 1–10.](https://doi.org/10.1016/S0140-6736(20)30183-5)
+16 January 2020 - [Lu H, Stratton CW, Tang Y-W. Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle. J Med Virol. 2020:10.1002/jmv.25678.](https://doi.org/10.1002/jmv.25678)
 
+21 January 2020 -[Gralinski LE, Menachery VD. Return of the Coronavirus: 2019-nCoV. Viruses. 2020;12(2):135.](https://doi.org/10.3390/v12020135)
 
+24 January 2020 - [Chan JF-W, Yuan S, Kok K-H, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet (London, England). 2020:S0140-6736(20)30154-9.](https://doi.org/10.1016/S0140-6736(20)30154-9)
+
+24 January 2020 - [Riou J, Althaus CL. Pattern of early human-to-human transmission of Wuhan 2019-nCoV. bioRxiv. 2020:2020.01.23.917351.](https://doi.org/10.1101/2020.01.23.917351)
+
+24 January 2020 - [Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. Lancet (London, England). January 2020:S0140-6736(20)30185-9.](https://doi.org/10.1016/S0140-6736(20)30185-9)
+
+24 January 2020 - [Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan , China. Lancet. 2020;6736(20):1-10.](https://doi.org/10.1016/S0140-6736(20)30183-5)
+
+28 January 2020 - [Linton NM, Kobayashi T, Yang Y, et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. 2020:2020.01.26.20018754.](https://doi.org/10.1101/2020.01.26.20018754)
+
+28 January 2020 - [Lodge EK, Schatz AM, Drake JM. Protective Population Behavior Change in Outbreaks of Emerging Infectious Disease. bioRxiv. 2020:2020.01.27.921536.](https://doi.org/10.1101/2020.01.27.921536)
+
+29 January - [Strzelecki A. Infodemiological Study Using Google Trends on Coronavirus Epidemic in Wuhan, China. arXiv. January 2020. http://arxiv.org/abs/2001.11021.](http://arxiv.org/abs/2001.11021)
+
+30 January 2020 - [Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet (London, England). 2020:S0140-6736(20)30211-7.](https://doi.org/10.1016/S0140-6736(20)30211-7)
+
+30 January 2020 - [Zhao S, Zhuang Z, Ran J, et al. The association between domestic train transportation and novel coronavirus (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational report. Travel Med Infect Dis. January 2020:101568.](https://doi.org/10.1016/j.tmaid.2020.101568)
+
+2 February 2020 - [Yu F, Du L, Ojcius DM, Pan C, Jiang S. Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China. Microbes Infect. 2020:S1286-4579(20)30025-3.](https://doi.org/10.1016/j.micinf.2020.01.003)
+
+2 February 2020 - [Zhang R, Liu H, Li F, et al. Transmission and epidemiological characteristics of Novel Coronavirus (2019-nCoV)-Infected Pneumonia(NCIP):preliminary evidence obtained in comparison with 2003-SARS. medRxiv. 2020:2020.01.30.20019836.](https://doi.org/10.1101/2020.01.30.20019836)
+
+3 February 2020 - [Jung S, Kinoshita R, Thompson RN, et al. Epidemiological identification of a novel infectious disease in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019-20. medRxiv. 2020:2020.01.26.20018887.](https://doi.org/10.1101/2020.01.26.20018887)
+
+3 February - 2020 [Kim JY, Choe PG, Oh Y, et al. The First Case of 2019 Novel Coronavirus Pneumonia Imported into Korea from Wuhan, China: Implication for Infection Prevention and Control Measures. J Korean Med Sci. 2020;35(5):e61-e61.](https://doi.org/10.3346/jkms.2020.35.e61)
+
+3 February 2020 - [Tian HY. _2019-nCoV: new challenges from coronavirus_. Zhonghua Yu Fang Yi Xue Za Zhi. 2020;54(0):E001.](https://doi.org/10.3760/cma.j.issn.0253-9624.2020.0001)
+
+4 February 2020 [Cai JH, Wang XS, Ge YL, et al. _First case of 2019 novel coronavirus infection in children in Shanghai_. Zhonghua Er Ke Za Zhi. 2020;58(0):E002.](https://doi.org/10.3760/cma.j.issn.0578-1310.2020.0002)
+
+4 February 2020 - [Chen J. Pathogenicity and Transmissibility of 2019-nCoV-A Quick Overview and Comparison with Other Emerging Viruses. Microbes Infect. February 2020:S1286-4579(20)30026-5.](https://www.sciencedirect.com/science/article/pii/S1286457920300265)
+
+4 February 2020 - [Chung M, Bernheim A, Mei X, et al. CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV). Radiology. 2020:200230.](https://doi.org/10.1148/radiol.2020200230)
+
+4 February 2020 - [Kanne JP. Chest CT Findings in 2019 Novel Coronavirus (2019-nCoV) Infections from Wuhan, China: Key Points for the Radiologist. Radiology. 2020:200241.](https://doi.org/10.1148/radiol.2020200241)
+
+4 February 2020 - [Lauer SA, Grantz KH, Bi Q, et al. The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application. medRxiv. 2020:2020.02.02.20020016.](https://doi.org/10.1101/2020.02.02.20020016)
+
+4 February - [Sun K, Chen J, Viboud C. Early epidemiological analysis of the 2019-nCoV outbreak based on a crowdsourced data. medRxiv. 2020:2020.01.31.20019935.](https://doi.org/10.1101/2020.01.31.20019935)
+
+5 February 2020 - [Habibzadeh P, Stoneman EK. The Novel Coronavirus: A Bird’s Eye View. Int J Occup Env Med. 2020;11(2):65-71.](https://doi.org/10.15171/ijoem.2020.1921)
+
+6 February 2020 - [Kang M, Wu J, Ma W, et al. Human-to-human transmission of 2019-novel coronavirus (2019-nCoV). medRxiv. 2020:2020.02.03.20019141.](https://doi.org/10.1101/2020.02.03.20019141)
+
+6 February - [Shigemura J, Ursano RJ, Morganstein JC, Kurosawa M, Benedek DM. Public responses to the novel 2019 coronavirus (2019‐nCoV) in Japan: mental health consequences and target populations. Psychiatry Clin Neurosci. February 2020:pcn.12988.](https://doi.org/10.1111/pcn.12988)
+
+6 February 2020 - [Song F, Shi N, Shan F, et al. Emerging Coronavirus 2019-nCoV Pneumonia. Radiology. 2020:200274.](https://doi.org/10.1148/radiol.2020200274)
+
+7 February 2020 - [Chang D, Lin M, Wei L, et al. Epidemiologic and Clinical Characteristics of Novel Coronavirus Infections Involving 13 Patients Outside Wuhan, China. JAMA. February 2020:10.1001/jama.2020.1623.](https://doi.org/10.1001/jama.2020.1623)
+
+7 February 2020 - [Fang Y, Zhang H, Xu Y, Xie J, Pang P, Ji W. CT Manifestations of Two Cases of 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology. February 2020:200280.](https://doi.org/10.1148/radiol.2020200280)
+
+7 February 2020 - [Shi H, Han X, Zheng C. Evolution of CT Manifestations in a Patient Recovered from 2019 Novel Coronavirus (2019-nCoV) Pneumonia in Wuhan, China. Radiology. February 2020:200269.](https://doi.org/10.1148/radiol.2020200269)
+
+7 February 2020 - [Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. February 2020:10.1001/jama.2020.1585.](https://doi.org/10.1001/jama.2020.1585)
 
 ## Microbiological and Immunological studies
 22 January 2020 - [Dong N, Yang X, Ye L, et al. Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China. bioRxiv. 2020:2020.01.20.913368.](https://doi.org/10.1101/2020.01.20.913368)
