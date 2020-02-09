@@ -16,6 +16,51 @@
 
 # Pre-prints & Peer-Reviewed Papers
 ## Estimating Epidemiological Parameters
+19 January 2020 - [Chen T, Rui J, Wang Q, Zhao Z, Cui J-A, Yin L. A mathematical model for simulating the transmission of Wuhan novel Coronavirus. bioRxiv. 2020:2020.01.19.911669.](https://doi.org/10.1101/2020.01.19.911669)
+
+24 January 2020 - [Riou J, Althaus CL. Pattern of early human-to-human transmission of Wuhan 2019-nCoV. bioRxiv. 2020:2020.01.23.917351.](https://doi.org/10.1101/2020.01.23.917351)
+
+25 January 2020 - [Thompson RN. 2019-20 Wuhan coronavirus outbreak: Intense surveillance is vital for preventing sustained transmission in new locations. bioRxiv. 2020:2020.01.24.919159.](https://doi.org/10.1101/2020.01.24.919159)
+
+26 January 2020 - [Liu T, Hu J, Kang M, et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv. 2020:2020.01.25.919787.](https://doi.org/10.1101/2020.01.25.919787)
+
+28 January 2020 - [Linton NM, Kobayashi T, Yang Y, et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. 2020:2020.01.26.20018754.](https://doi.org/10.1101/2020.01.26.20018754)
+
+28 January 2020 - [Read JM, Bridgen JRE, Cummings DAT, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020:2020.01.23.20018549.](https://doi.org/10.1101/2020.01.23.20018549)
+
+29 January 2020 - [Cao Z, Zhang Q, Lu X, et al. Estimating the effective reproduction number of the 2019-nCoV in China. medRxiv. 2020:2020.01.27.20018952.](https://www.medrxiv.org/content/10.1101/2020.01.27.20018952v1)
+
+30 January 2020 - [Backer JA, Klinkenberg D, Wallinga J. The incubation period of 2019-nCoV infections among travellers from Wuhan, China. medRxiv. 2020:2020.01.27.20018986.](https://doi.org/10.1101/2020.01.27.20018986)
+
+30 January 2020 - [Zhao S, Lin Q, Ran J, et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. Int J Infect Dis. 2020:S1201-9712(20)30053-9.](https://doi.org/10.1016/j.ijid.2020.01.050)
+
+31 January 2020 - [Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet (London, England). 2020:S0140-6736(20)30260-9.](https://doi.org/10.1016/S0140-6736(20)30260-9)
+
+31 January 2020 - [Zhou T, Liu Q, Yang Z, et al. Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV. arXiv Prepr arXiv200110530. January 2020. http://arxiv.org/abs/2001.10530.](http://arxiv.org/abs/2001.10530)
+
+2 February 2020 - [Jung S, Akhmetzhanov AR, Hayashi K, et al. Real time estimation of the risk of death from novel coronavirus (2019-nCoV) infection: Inference using exported cases. medRxiv. 2020:2020.01.29.20019547.](https://doi.org/10.1101/2020.01.29.20019547)
+
+2 February 2020 - [Kucharski AJ, Russell TW, Diamond C, Funk S, Eggo RM. Early dynamics of transmission and control of 2019-nCoV: a mathematical modelling study. medRxiv. 2020:2020.01.31.20019901.](https://doi.org/10.1101/2020.01.31.20019901)
+
+3 February 2020 - [Shaman J, Galanti M. Direct Measurement of Rates of Asymptomatic Infection and Clinical Care-Seeking for Seasonal Coronavirus. medRxiv. 2020:2020.01.30.20019612.](https://doi.org/10.1101/2020.01.30.20019612)
+
+4 February 2020 - [Chen J. Pathogenicity and Transmissibility of 2019-nCoV-A Quick Overview and Comparison with Other Emerging Viruses. Microbes Infect. February 2020:S1286-4579(20)30026-5.](https://www.sciencedirect.com/science/article/pii/S1286457920300265)
+
+4 February 2020 - [Lauer SA, Grantz KH, Bi Q, et al. The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application. medRxiv. 2020:2020.02.02.20020016.](https://doi.org/10.1101/2020.02.02.20020016)
+
+4 February 2020 - [Nishiura H, Kobayashi T, Yang Y, et al. The Rate of Underascertainment of Novel Coronavirus (2019-nCoV) Infection: Estimation Using Japanese Passengers Data on Evacuation Flights. J Clin Med. 2020;9(2):E419](https://doi.org/10.3390/jcm9020419)
+
+5 February 2020 - [Hermanowicz SW. Forecasting the Wuhan coronavirus (2019-nCoV) epidemics using a simple (simplistic) model. medRxiv. 2020:2020.02.04.20020461.](https://doi.org/10.1101/2020.02.04.20020461)
+
+5 February 2020 - [Spencer J, Shutt DP, Moser SK, et al. Epidemiological parameter review and comparative dynamics of influenza, respiratory syncytial virus, rhinovirus, human coronavirus, and adenovirus. medRxiv. 2020:2020.02.04.20020404.](https://doi.org/10.1101/2020.02.04.20020404)
+
+5 February 2020 - [Tuite AR, Fisman DN. Reporting, Epidemic Growth, and Reproduction Numbers for the 2019 Novel Coronavirus (2019-nCoV) Epidemic. Ann Intern Med. 2020.](https://doi.org/10.7326/m20-0358)
+
+7 February 2020 - [Battegay M, Kuehl R, Tschudin-Sutter S, Hirsch HH, Widmer AF, Neher RA. 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate - a word of caution. Swiss Med Wkly. 2020;150:w20203-w20203.](https://doi.org/10.4414/smw.2020.20203)
+
+7 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
+
+7 February 2020 - [Park SW, Champredon D, Earn DJD, et al. Reconciling early-outbreak preliminary estimates of the basic reproductive number and its uncertainty: a new framework and applications to the novel coronavirus (2019-nCoV) outbreak. medRxiv. 2020:2020.01.30.20019877.](https://doi.org/10.1101/2020.01.30.20019877)
 
 ## Spread and Possibility of Containment
 
