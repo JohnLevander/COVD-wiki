@@ -63,6 +63,45 @@
 7 February 2020 - [Park SW, Champredon D, Earn DJD, et al. Reconciling early-outbreak preliminary estimates of the basic reproductive number and its uncertainty: a new framework and applications to the novel coronavirus (2019-nCoV) outbreak. medRxiv. 2020:2020.01.30.20019877.](https://doi.org/10.1101/2020.01.30.20019877)
 
 ## Spread and Possibility of Containment
+14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
+
+18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
+
+20 January 2020 - [Zhao S, Zhuang Z, Ran J, et al. The association between domestic train transportation and novel coronavirus (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational report. Travel Med Infect Dis. January 2020:101568.](https://doi.org/10.1016/j.tmaid.2020.101568)
+
+25 January 2020 - [Shen M, Peng Z, Xiao Y, Zhang L. Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China. bioRxiv. 2020:2020.01.23.916726.](https://doi.org/10.1101/2020.01.23.916726)
+
+25 January 2020 - [Thompson RN. 2019-20 Wuhan coronavirus outbreak: Intense surveillance is vital for preventing sustained transmission in new locations. bioRxiv. 2020:2020.01.24.919159.](https://doi.org/10.1101/2020.01.24.919159)
+
+27 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Potential for global spread of a novel coronavirus from China. J Travel Med. January 2020:taaa011.](https://doi.org/10.1093/jtm/taaa011)
+
+28 January 2020 - [Chen D-B, Zhao N, Wang J, Yu Y, Zhao J. Spreading predictability in complex networks. bioRxiv. 2020:2020.01.28.922757.](https://doi.org/10.1101/2020.01.28.922757)
+
+30 January 2020 - [Pullano G, Pinotti F, Valdano E, Boelle PY, Poletto C, Colizza V. Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020. Euro Surveill. 2020;25(4).](https://doi.org/10.2807/1560-7917.Es.2020.25.4.2000057)
+
+31 January 2020 - [Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet (London, England). 2020:S0140-6736(20)30260-9.](https://doi.org/10.1016/S0140-6736(20)30260-9)
+
+1 February 2020 - [Errett NA, Sauer LM, Rutkow L. An integrative review of the limited evidence on international travel bans as an emerging infectious disease disaster control measure. J Emerg Manag (Weston, Mass). 2020;18(1):7-14.](https://doi.org/10.5055/jem.2020.0446)
+
+2 February 2020 - [Quilty B, Clifford S, Flasche S, Eggo RM. Effectiveness of airport screening at detecting travellers infected with 2019-nCoV. medRxiv. 2020:2020.01.31.20019265.](https://doi.org/10.1101/2020.01.31.20019265)
+
+2 February 2020 - [Tian H, Li Y, Liu Y, et al. Early evaluation of the Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. 2020:2020.01.30.20019844.](https://doi.org/10.1101/2020.01.30.20019844)
+
+3 February 2020 - [Gostic K, Gomez ACR, Mummah RO, Kucharski AJ, Lloyd-Smith JO. Estimated effectiveness of traveller screening to prevent international spread of 2019 novel coronavirus (2019-nCoV). medRxiv. 2020:2020.01.28.20019224.](https://doi.org/10.1101/2020.01.28.20019224)
+
+4 February 2020 - [Du Z, Wang L, Cauchemez S, et al. Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine. medRxiv. 2020:2020.01.28.20019299.](https://doi.org/10.1101/2020.01.28.20019299)
+
+4 February 2020 - [Yuan H-Y, Hossain MP, Tsegaye MM, et al. Estimating the risk on outbreak spreading of 2019-nCoV in China using transportation data. medRxiv. 2020:2020.02.01.20019984.](https://doi.org/10.1101/2020.02.01.20019984)
+
+5 February 2020 - [Ai S, Zhu G, Tian F, et al. Population movement, city closure and spatial transmission of the 2019-nCoV infection in China. medRxiv. 2020:2020.02.04.20020339.](https://doi.org/10.1101/2020.02.04.20020339)
+
+5 February 2020 - [Boldog P, Tekeli T, Vizi Z, Denes A, Bartha F, Rost G. Risk assessment of novel coronavirus 2019-nCoV outbreaks outside China. medRxiv. 2020:2020.02.04.20020503.](https://doi.org/10.1101/2020.02.04.20020503)
+
+5 February 2020 - [Giovanetti M, Benvenuto D, Angeletti S, Ciccozzi M. The first two cases of 2019‐nCoV in Italy: where they come from? J Med Virol. February 2020:jmv.25699.](https://doi.org/10.1002/jmv.25699)
+
+5 February 2020 - [Lai S, Bogoch I, Ruktanonchai N, et al. Assessing spread risk of Wuhan novel coronavirus within and beyond China, January-April 2020: a travel network-based modelling study. medRxiv. 2020:2020.02.04.20020479.](https://doi.org/10.1101/2020.02.04.20020479)
+
+7 February 2020 - [Gilbert M, Pullano G, Pinotti F, et al. Preparedness and vulnerability of African countries against introductions of 2019-nCoV. medRxiv. 2020:2020.02.05.20020792.](https://doi.org/10.1101/2020.02.05.20020792)
 
 ## Scenario Projections & Forecasting
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
