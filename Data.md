@@ -21,8 +21,13 @@
 * Format: Github repository
 * Original source [here](https://github.com/beoutbreakprepared/nCoV2019)
 * Date range: 2020-01-20 to 2020-02-07
+## Hong Kong
 
-## World Health Organization
+## South Korea
+
+## Thailand
+
+## World Health Organization (WHO)
 ### [WHO Novel Coronavirus Disease Outbreak News](https://github.com/midas-network/2019-ncov/tree/master/cases/who/disease_outbreak_news)
 * Created by World Health Organization
 * Format: HTML saved as PDF
