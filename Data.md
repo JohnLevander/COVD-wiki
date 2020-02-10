@@ -11,10 +11,10 @@
 * Date range: 2020-01-20 to 2020-02-09
 
 ### [nCoV line listings from various sources maintained by Oxford and others](https://github.com/midas-network/2019-ncov/tree/master/data/cases/global/line_listings_oxford)
-* Created by Kaiyuan Sun (contact.sunky@gmail.com)
+* Created by nCoV-2019 Data Working Group
 * Format: Google Sheet
 * Original source [here](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)
-* Date range: 2020-01-20 to 2020-02-09
+* Date range: 2020-01-20 to 2020-02-07
 
 ### [Github repository with nCoV line listings from various sources and data processing code maintained by Oxford and others](https://github.com/midas-network/2019-ncov/tree/master/data/cases/global/line_listings_oxford_github) 
 * Created by David Pigott via beoutbreakprepared Github repository
