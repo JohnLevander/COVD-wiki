@@ -38,15 +38,21 @@ To contribute to the COVID-19 repository with GitHub:
 
 ### <a id="parameter"></a>Contributing parameter estimates
 1. Read the [Data Guide for Parameter Estimates](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_estimates_data_guide_v1_4Feb2020.csv) to ensure your data contains most of the necessary information to contribute to the repository.
-2. Create an issue to have a MIDAS staff member add an estimate, or create a pull request to the [estimates.csv file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv) to directly append your estimate to the main repository.
+2. Create an [issue](https://github.com/midas-network/COVID-19/issues) to have a MIDAS staff member add an estimate, or create a pull request to the [estimates.csv file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv) to directly append your estimate to the main repository. 
+3. A MIDAS staff member can add the new estimate to the estimate [readme.md file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/README.md), or create a pull request to the [readme.md file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/README.md) to update the listing.  
 
 ### <a id="documents"></a>Contributing documents
-* Create an issue containing the information related to the documents (Citation, link, ...) or the documents you want to add to the repository, and a MIDAS staff member will update the information in the Wiki and in the folder corresponding if necessary. 
-* For report document, you can also add your files into the corresponding folder or create a folder if necessary, in YOUR fork repository:
+* Create an [issue](https://github.com/midas-network/COVID-19/issues) containing the information related to the documents (Citation, link, ...) or the documents you want to add to the repository, and a MIDAS staff member will update the information in the Wiki and in the folder corresponding if necessary. 
+* For a report, you can also add your files into the corresponding folder or create a folder if necessary in the [documents folder](https://github.com/midas-network/COVID-19/tree/master/Documents/Reports), in YOUR fork repository. Documents are organized by geography (global or country) and collection.
      + If the report uploaded concerns more than one country, it should be upload into the global folder.
      + The report file uploaded should be named following the convention "DATE_short_title" (Date in the ISO Format YYYY-MM-DD)
      + Don't forget to update the _collection_metadata.csv_ files, if a new collection is created, you will need to add a _collection_metadata.csv_ file describing the content of your collection, a template is available [here](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/collection_metadata_template_v1.1_8Feb2020.csv)
     + Create a pull-request to update your collection into the repository, a MIDAS staff member will review it before adding it to the repository. 
+    + A MIDAS staff member will add the document to the [Mendeley library](https://github.com/midas-network/COVID-19/tree/master/Documents/mendeley_library_files). The XML file for the reference library will be updated weekly. 
+
+### <a id="software"></a>Contributing software tools
+1. Read the [Data Guide for Software tools](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/software_template_v1.0_11Feb2020.csv) to ensure your data contains most of the necessary information to contribute to the repository.
+2. Create an [issue](https://github.com/midas-network/COVID-19/issues) to have a MIDAS staff member add a software tool, or create a pull request to the [software_catalog.csv file](https://github.com/midas-network/COVID-19/blob/master/software_tools/software_catalog.csv) to directly append your listing to the main repository. MIDAS staff will then list the tool on the software tools [readme file](https://github.com/midas-network/COVID-19/wiki/Software-Tools). 
 
 ## <a id="platform"></a>Collaboration platforms
 ### [Outbreak Science Rapid PREreview Platform](https://outbreaksci.prereview.org)
