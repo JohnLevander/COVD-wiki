@@ -122,11 +122,15 @@
 
 26 January 2020 - [Liu T, Hu J, Kang M, et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv. 2020:2020.01.25.919787.](https://doi.org/10.1101/2020.01.25.919787)
 
+27 January 2020 - [ Tang B, Wang X, Li Q, et al. Estimation of the Transmission Risk of 2019-NCov and Its Implication for Public Health Interventions. https://ssrn.com/abstract=3525558.](https://ssrn.com/abstract=3525558.)
+
 28 January 2020 - [Chen Z, Zhang W, Lu Y, et al. From SARS-CoV to Wuhan 2019-nCoV Outbreak: Similarity of Early Epidemic and Prediction of Future Trends. bioRxiv. 2020:2020.01.24.919241.](https://doi.org/10.1101/2020.01.24.919241)
 
 28 January 2020 - [ Read JM, Bridgen JRE, Cummings DAT, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020:2020.01.23.20018549.](https://doi.org/10.1101/2020.01.23.20018549)
 
 28 January 2020 - [Shao P, Shan Y. Beware of asymptomatic transmission: Study on 2019-nCoV prevention and control measures based on extended SEIR model. bioRxiv. 2020:2020.01.28.923169.](https://doi.org/10.1101/2020.01.28.923169)
+
+29 January 2020 - [Arturo M, Estrada R, Author T, et al. The Impact of Massive Infectious and Contagious Diseases and Its Impact on the Economic Performance: The Case of Wuhan, China. Lancet. https://ssrn.com/abstract=3527330.](https://ssrn.com/abstract=3527330)
 
 30 January 2020 - [Ming W, Huang J, Zhang CJP. Breaking down of healthcare system: Mathematical modelling for controlling the novel coronavirus (2019-nCoV) outbreak in Wuhan, China. bioRxiv. 2020:2020.01.27.922443.](https://doi.org/10.1101/2020.01.27.922443)
 
@@ -141,6 +145,8 @@
 2 February 2020 - [Jung S, Akhmetzhanov AR, Hayashi K, et al. Real time estimation of the risk of death from novel coronavirus (2019-nCoV) infection: Inference using exported cases. medRxiv. 2020:2020.01.29.20019547.](https://doi.org/10.1101/2020.01.29.20019547)
 
 2 February 2020 - [Kucharski AJ, Russell TW, Diamond C, Funk S, Eggo RM. Early dynamics of transmission and control of 2019-nCoV: a mathematical modelling study. medRxiv. 2020:2020.01.31.20019901.](https://doi.org/10.1101/2020.01.31.20019901)
+
+4 February 2020 - [Bai Y, Nie X, Wen C. Epidemic Prediction of 2019-nCoV in Hubei Province and Comparison with SARS in Guangdong Province. https://ssrn.com/abstract=3531427.](https://ssrn.com/abstract=3531427)
 
 4 February 2020 - [Du Z, Wang L, Cauchemez S, et al. Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine. medRxiv. 2020:2020.01.28.20019299.](https://doi.org/10.1101/2020.01.28.20019299)
 
@@ -180,6 +186,8 @@
 03 February 2020 - [Gostic K, Gomez ACR, Mummah RO, Kucharski AJ, Lloyd-Smith JO. Estimated effectiveness of traveller screening to prevent international spread of 2019 novel coronavirus (2019-nCoV). medRxiv. 2020:2020.01.28.20019224.](https://doi.org/10.1101/2020.01.28.20019224)
 
 5 February 2020 - [Ai S, Zhu G, Tian F, et al. Population movement, city closure and spatial transmission of the 2019-nCoV infection in China. medRxiv. 2020:2020.02.04.20020339.](https://doi.org/10.1101/2020.02.04.20020339)
+
+6 February 2020 - [Brooks SK, Webster RK, Smith LE, et al. The psychological impact of quarantine and how to reduce it: Rapid review of the evidence. Lancet. https://ssrn.com/abstract=3532534.](https://ssrn.com/abstract=3532534)
 
 7 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
 
@@ -224,6 +232,8 @@
 
 7 February 2020 - [Zhu Z, Meng K, Meng G. A database resource for Genome-wide dynamics analysis of Coronaviruses on a historical and global scale. bioRxiv. 2020:2020.02.05.920009.](https://doi.org/10.1101/2020.02.05.920009)
 
+8 February 2020 - [Singh Malik Y, Sircar S, Bhat S, et al. Emerging novel Coronavirus (2019-nCoV) - Current scenario, evolutionary perspective based on genome analysis and recent developments. 2020:425.](https://doi.org/10.1080/01652176.2020.1727993)
+
 9 February 2020 - [Randhawa GS, Soltysiak MPM, El Roz H, de Souza CPE, Hill KA, Kari L. Machine learning-based analysis of genomes suggests associations between Wuhan 2019-nCoV and bat Betacoronaviruses. bioRxiv. 2020:2020.02.03.932350.](https://doi.org/10.1101/2020.02.03.932350)
 
 ## Clinical and Community Trials
@@ -242,15 +252,25 @@
 
 24 January 2020 - [Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan , China. Lancet. 2020;6736(20):1-10.](https://doi.org/10.1016/S0140-6736(20)30183-5)
 
+24 January 2020 - [Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020:NEJMoa2001017.](https://doi.org/10.1056/NEJNEJMoa2001017)
+
 28 January 2020 - [Linton NM, Kobayashi T, Yang Y, et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. 2020:2020.01.26.20018754.](https://doi.org/10.1101/2020.01.26.20018754)
 
 28 January 2020 - [Lodge EK, Schatz AM, Drake JM. Protective Population Behavior Change in Outbreaks of Emerging Infectious Disease. bioRxiv. 2020:2020.01.27.921536.](https://doi.org/10.1101/2020.01.27.921536)
+
+28 January 2020 - [Phan LT, Nguyen T V., Luong QC, et al. Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam. N Engl J Med. January 2020:NEJMc2001272.](https://doi.org/10.1056/NEJMc2001272)
+
+29 January 2020 - [Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. January 2020:NEJMoa2001316.](https://doi.org/10.1056/NEJMoa2001316)
 
 29 January - [Strzelecki A. Infodemiological Study Using Google Trends on Coronavirus Epidemic in Wuhan, China. arXiv. January 2020. http://arxiv.org/abs/2001.11021.](http://arxiv.org/abs/2001.11021)
 
 30 January 2020 - [Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet (London, England). 2020:S0140-6736(20)30211-7.](https://doi.org/10.1016/S0140-6736(20)30211-7)
 
 30 January 2020 - [Zhao S, Zhuang Z, Ran J, et al. The association between domestic train transportation and novel coronavirus (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational report. Travel Med Infect Dis. January 2020:101568.](https://doi.org/10.1016/j.tmaid.2020.101568)
+
+31 January 2020 - [Holshue ML, DeBolt C, Lindquist S, et al. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med. January 2020:NEJMoa2001191.](https://doi.org/10.1056/NEJMoa2001191)
+
+2 February 2020 - [An P, Chen H, Jiang X, et al. Clinical features of 2019 novel coronavirus pneumonia presented gastrointestinal symptoms but without fever onset. Lancet. https://ssrn.com/abstract=3532530.](https://ssrn.com/abstract=3532530)
 
 2 February 2020 - [Yu F, Du L, Ojcius DM, Pan C, Jiang S. Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China. Microbes Infect. 2020:S1286-4579(20)30025-3.](https://doi.org/10.1016/j.micinf.2020.01.003)
 
@@ -267,6 +287,8 @@
 4 February 2020 - [Chen J. Pathogenicity and Transmissibility of 2019-nCoV-A Quick Overview and Comparison with Other Emerging Viruses. Microbes Infect. February 2020:S1286-4579(20)30026-5.](https://www.sciencedirect.com/science/article/pii/S1286457920300265)
 
 4 February 2020 - [Chung M, Bernheim A, Mei X, et al. CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV). Radiology. 2020:200230.](https://doi.org/10.1148/radiol.2020200230)
+
+4 February 2020 - [Gao Y, Liu Q. The Epidemic Dynamics of 2019 Novel Coronavirus (2019-nCoV) Infections in China by 28 January. Lancet. https://ssrn.com/abstract=3529448.](https://ssrn.com/abstract=3529448)
 
 4 February 2020 - [Kanne JP. Chest CT Findings in 2019 Novel Coronavirus (2019-nCoV) Infections from Wuhan, China: Key Points for the Radiologist. Radiology. 2020:200241.](https://doi.org/10.1148/radiol.2020200241)
 
@@ -292,6 +314,10 @@
 
 7 February 2020 - [Fang Y, Zhang H, Xu Y, Xie J, Pang P, Ji W. CT Manifestations of Two Cases of 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology. February 2020:200280.](https://doi.org/10.1148/radiol.2020200280)
 
+7 February 2020 - [Li J, Li J, Xie X, et al. Game consumption and the 2019 novel coronavirus. Lancet Infect Dis. February 2020.](https://doi.org/10.1016/S1473-3099(20)30063-3)
+
+7 February 2020 - [Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Lancet. February 2020.](https://doi.org/10.1016/S0140-6736(20)30317-2)
+
 7 February 2020 - [Shi H, Han X, Zheng C. Evolution of CT Manifestations in a Patient Recovered from 2019 Novel Coronavirus (2019-nCoV) Pneumonia in Wuhan, China. Radiology. February 2020:200269.](https://doi.org/10.1148/radiol.2020200269)
 
 7 February 2020 - [Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. February 2020:10.1001/jama.2020.1585.](https://doi.org/10.1001/jama.2020.1585)
@@ -299,6 +325,12 @@
 9 February 2020 - [Guan W, Ni Z, Hu Y, et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv. January 2020:2020.02.06.20020974.](https://doi.org/10.1101/2020.02.06.20020974)
 
 9 February 2020 - [Ki M. Epidemiologic characteristics of early cases with 2019 novel coronavirus (2019-nCoV) disease in Republic of Korea. Epidemiol Health. February 2020:e2020007.](https://doi.org/10.4178/epih.e2020007)
+
+9 February 2020 - [Wang Z, Chen X, Lu Y, Chen F, Zhang W. Clinical characteristics and therapeutic procedure for four cases with 2019 novel coronavirus pneumonia receiving combined Chinese and Western medicine treatment. Biosci Trends. 2020.](https://doi.org/10.5582/bst.2020.01030)
+
+10 February 2020 - [Bastola A, Sah R, Rodriguez-Morales AJ, et al. The first 2019 novel coronavirus case in Nepal. Lancet Infect Dis. February 2020.](https://doi.org/10.1016/S1473-3099(20)30067-0)
+
+10 February 2020 - [Li H-Y, Zhu G-J, Zhang Y-Z, et al. A qualitative study of zoonotic risk factors among rural communities in southern China. Int Health. 2020;00:1-9.](https://doi.org/10.1093/inthealth/ihaa001)
 
 ## Microbiological and Immunological studies
 22 January 2020 - [Dong N, Yang X, Ye L, et al. Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China. bioRxiv. 2020:2020.01.20.913368.](https://doi.org/10.1101/2020.01.20.913368)
@@ -308,6 +340,8 @@
 23 January 2020 - Zhou P, Yang X-L, Wang X-G, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020:10.1038/s41586-020-2012-2017. [metadata]
 - [Nature](https://doi.org/10.1038/s41586-020-2012-7)
 - [bioRxiv](https://doi.org/10.1101/2020.01.22.914952)
+
+24 January 2020 - [Li S, Yuan L, Dai G, Chen RA, Liu DX, Fung TS. Regulation of the ER Stress Response by the Ion Channel Activity of the Infectious Bronchitis Coronavirus Envelope Protein Modulates Virion Release, Apoptosis, Viral Fitness, and Pathogenesis. Front Microbiol. 2020;10:3022.](https://doi.org/10.3389/fmicb.2019.03022)
 
 25 January 2020 - [Li G, Fan Y, Lai Y, et al. Coronavirus Infections and Immune Responses. J Med Virol. 2020:10.1002/jmv.25685.](https://doi.org/10.1002/jmv.25685)
 
@@ -345,8 +379,6 @@
 
 3 February 2020 [Lin S, Shen R, Guo X. Molecular Modeling Evaluation of the Binding Abilities of Ritonavir and Lopinavir to Wuhan Pneumonia Coronavirus Proteases. bioRxiv. 2020:2020.01.31.929695.](https://doi.org/10.1101/2020.01.31.929695)
 
-4 February 2020 - [Ahmed SF, Quadeer AA, McKay MR. Preliminary identification of potential vaccine targets for 2019-nCoV based on SARS-CoV immunological studies. bioRxiv. 2020:2020.02.03.933226.](https://doi.org/10.1101/2020.02.03.933226)
-
 4 February 2020 - [Chai X, Hu L, Zhang Y, et al. Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCoV Infection. bioRxiv. 2020:2020.02.03.931766.](https://doi.org/10.1101/2020.02.03.931766)
 
 4 February 2020 - [Huang Q, Herrmann A. Fast assessment of human receptor-binding capability of 2019 novel coronavirus (2019-nCoV). bioRxiv. 2020:2020.02.01.930537.](https://doi.org/10.1101/2020.02.01.930537)
@@ -373,6 +405,10 @@
 
 7 February 2020 - [Xiao S-Y, Wu Y, Liu H. Evolving status of the 2019 novel coronavirus Infection: proposal of conventional serologic assays for disease diagnosis and infection monitoring [Commentary/Review]. J Med Virol. February 2020:10.1002/jmv.25702.](https://doi.org/10.1002/jmv.25702)
 
+10 February 2020 - [Ahmed SF, Quadeer AA, McKay MR. Preliminary identification of potential vaccine targets for 2019-nCoV based on SARS-CoV immunological studies. bioRxiv. 2020:2020.02.03.933226.](https://doi.org/10.1101/2020.02.03.933226)
+
+10 February - [Zhang L, Lin D, Kusov Y, et al. Alpha-ketoamides as broad-spectrum inhibitors of coronavirus and enterovirus replication. bioRxiv. January 2020:2020.02.10.936898.](https://doi.org/10.1101/2020.02.10.936898)
+
 ## Potential Therapeutics
 28 January 2020 - [Xu Z, Peng C, Shi Y, et al. Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation. bioRxiv. 2020:2020.01.27.921627.](https://doi.org/10.1101/2020.01.27.921627)
 
@@ -395,6 +431,12 @@
 5 February 2020 - [Li H, Wang YM, Xu JY, Cao B. _Potential antiviral therapeutics for 2019 Novel Coronavirus_. Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E002.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0002)
 
 5 February 2020 - [Zhou Y, Hou Y, Shen J, Huang Y, Martin W, Cheng F. Network-based Drug Repurposing for Human Coronavirus. medRxiv. 2020:2020.02.03.20020263.](https://doi.org/10.1101/2020.02.03.20020263)
+
+7 February 2020 - [Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Lancet. February 2020.](https://doi.org/10.1016/S0140-6736(20)30317-2)
+
+9 February 2020 - [Wang Z, Chen X, Lu Y, Chen F, Zhang W. Clinical characteristics and therapeutic procedure for four cases with 2019 novel coronavirus pneumonia receiving combined Chinese and Western medicine treatment. Biosci Trends. 2020.](https://doi.org/10.5582/bst.2020.01030)
+
+10 February - [Zhang L, Lin D, Kusov Y, et al. Alpha-ketoamides as broad-spectrum inhibitors of coronavirus and enterovirus replication. bioRxiv. January 2020:2020.02.10.936898.](https://doi.org/10.1101/2020.02.10.936898)
 
 ## Other studies
 14 January 2020 - [Hui DS, I Azhar E, Madani TA, et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China. Int J Infect Dis. 2020;91:264-266.](https://doi.org/10.1016/j.ijid.2020.01.009)
@@ -431,6 +473,8 @@
 
 4 February 2020 - [Chen J. Pathogenicity and Transmissibility of 2019-nCoV-A Quick Overview and Comparison with Other Emerging Viruses. Microbes Infect. February 2020:S1286-4579(20)30026-5.](https://www.sciencedirect.com/science/article/pii/S1286457920300265)
 
+4 February 2020 - [Harris C, Carson G, Horby P, Nair H. The Lancet Infectious Diseases An evidence-based framework for priority clinical research questions for 2019-nCoV. Lancet. https://ssrn.com/abstract=3529457.](https://ssrn.com/abstract=3529457)
+
 4 February 2020 - [Long JB, Ehrenfeld JM. The Role of Augmented Intelligence (AI) in Detecting and Preventing the Spread of Novel Coronavirus. J Med Syst. 2020;44(3):59.](https://doi.org/10.1007/s10916-020-1536-6)
 
 4 February 2020 - [Working Group of 2019 Novel Coronavirus PUMCH. _Diagnosis and clinical management of 2019 novel coronavirus infection: an operational recommendation of Peking Union Medical College Hospital (V2.0)_. Zhonghua nei ke za zhi. 2020;59(3):186-188.](https://doi.org/10.3760/cma.j.issn.0578-1426.2020.03.003)
@@ -462,6 +506,8 @@
 7 February 2020 - [Patel A, Jernigan DB. Initial Public Health Response and Interim Clinical Guidance for the 2019 Novel Coronavirus Outbreak - United States, December 31, 2019-February 4, 2020. MMWR Morb Mortal Wkly Rep. 2020;69(5):140-146.](https://doi.org/10.15585/mmwr.mm6905e1)
 
 7 February 2020 - [Shen K, Yang Y, Wang T, et al. Diagnosis, treatment, and prevention of 2019 novel coronavirus infection in children: experts’ consensus statement. World J Pediatr. February 2020:10.1007/s12519-020-00343-00347.](https://doi.org/10.1007/s12519-020-00343-7)
+
+7 February 2020 - [Wang J, Qi H, Bao L, Li F, Shi Y. A contingency plan for the management of the 2019 novel coronavirus outbreak in neonatal intensive care units. Lancet Child Adolesc Heal. February 2020.](https://doi.org/10.1016/S2352-4642(20)30040-7)
 
 8 February 2020 - [Group of Interventional Respiratory Medicine CTS. Expert consensus for bronchoscopy during the epidemic of 2019 Novel Coronavirus infection (Trial version). Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E006-E006.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0006)
 
