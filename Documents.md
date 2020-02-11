@@ -11,7 +11,7 @@
 
 ## Modelling reports
 ### China
-17 January, 2020 - [Imai, N., Dorigatti, I., Cori, A., Riley, S., & Ferguson, N. M. (2020). Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China. London.](https://github.com/midas-network/2019-ncov/blob/master/Documents/reports/model_reports/china/2019-nCoV-outbreak-report-17-01-2020.pdf) 
+17 January, 2020 - [Imai, N., Dorigatti, I., Cori, A., Riley, S., & Ferguson, N. M. (2020). Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China. London.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/2020-01-17_Report_1_Case_Estimates.pdf) 
 
 
 # Pre-prints & Peer-Reviewed Papers
@@ -62,6 +62,10 @@
 
 7 February 2020 - [Park SW, Champredon D, Earn DJD, et al. Reconciling early-outbreak preliminary estimates of the basic reproductive number and its uncertainty: a new framework and applications to the novel coronavirus (2019-nCoV) outbreak. medRxiv. 2020:2020.01.30.20019877.](https://doi.org/10.1101/2020.01.30.20019877)
 
+9 February 2020 - [Cao Z, Zhang Q, Lu X, et al. Incorporating Human Movement Data to Improve Epidemiological Estimates for 2019-nCoV. medRxiv. January 2020:2020.02.07.20021071.](https://doi.org/10.1101/2020.02.07.20021071)
+
+9 February 2020 - [Zhao Q, Chen Y, Small DS. Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases. medRxiv. January 2020:2020.02.06.20020941.](https://doi.org/10.1101/2020.02.06.20020941)
+
 ## Spread and Possibility of Containment
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
 
@@ -100,6 +104,8 @@
 5 February 2020 - [Giovanetti M, Benvenuto D, Angeletti S, Ciccozzi M. The first two cases of 2019‐nCoV in Italy: where they come from? J Med Virol. February 2020:jmv.25699.](https://doi.org/10.1002/jmv.25699)
 
 5 February 2020 - [Lai S, Bogoch I, Ruktanonchai N, et al. Assessing spread risk of Wuhan novel coronavirus within and beyond China, January-April 2020: a travel network-based modelling study. medRxiv. 2020:2020.02.04.20020479.](https://doi.org/10.1101/2020.02.04.20020479)
+
+6 February 2020 - [Kampf G, Todt D, Pfaender S, Steinmann E. Persistence of coronaviruses on inanimate surfaces and its inactivation with biocidal agents. J Hosp Infect. February 2020.](https://doi.org/10.1016/j.jhin.2020.01.022)
 
 7 February 2020 - [Gilbert M, Pullano G, Pinotti F, et al. Preparedness and vulnerability of African countries against introductions of 2019-nCoV. medRxiv. 2020:2020.02.05.20020792.](https://doi.org/10.1101/2020.02.05.20020792)
 
@@ -155,6 +161,8 @@
 7 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
 
 7 February 2020 - [Park SW, Champredon D, Earn DJD, et al. Reconciling early-outbreak preliminary estimates of the basic reproductive number and its uncertainty: a new framework and applications to the novel coronavirus (2019-nCoV) outbreak. medRxiv. 2020:2020.01.30.20019877.](https://doi.org/10.1101/2020.01.30.20019877)
+
+9 February 2020 - [Zhao Q, Chen Y, Small DS. Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases. medRxiv. January 2020:2020.02.06.20020941.](https://doi.org/10.1101/2020.02.06.20020941)
 
 ## Impact of Interventions
 18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
@@ -212,6 +220,8 @@
 
 5 February 2020 - [Zhou Y, Hou Y, Shen J, Huang Y, Martin W, Cheng F. Network-based Drug Repurposing for Human Coronavirus. medRxiv. 2020:2020.02.03.20020263.](https://doi.org/10.1101/2020.02.03.20020263)
 
+7 February 2020 - [Wu A, Peng Y, Huang B, et al. Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China. Cell Host Microbe. February 2020.](https://doi.org/10.1016/j.chom.2020.02.001)
+
 7 February 2020 - [Zhu Z, Meng K, Meng G. A database resource for Genome-wide dynamics analysis of Coronaviruses on a historical and global scale. bioRxiv. 2020:2020.02.05.920009.](https://doi.org/10.1101/2020.02.05.920009)
 
 9 February 2020 - [Randhawa GS, Soltysiak MPM, El Roz H, de Souza CPE, Hill KA, Kari L. Machine learning-based analysis of genomes suggests associations between Wuhan 2019-nCoV and bat Betacoronaviruses. bioRxiv. 2020:2020.02.03.932350.](https://doi.org/10.1101/2020.02.03.932350)
@@ -264,7 +274,13 @@
 
 4 February - [Sun K, Chen J, Viboud C. Early epidemiological analysis of the 2019-nCoV outbreak based on a crowdsourced data. medRxiv. 2020:2020.01.31.20019935.](https://doi.org/10.1101/2020.01.31.20019935)
 
+5 February 2020 - [Kang L, Li Y, Hu S, et al. The mental health of medical workers in Wuhan, China dealing with the 2019 novel coronavirus. The Lancet Psychiatry. February 2020.](https://doi.org/10.1016/S2215-0366(20)30047-X)
+
 5 February 2020 - [Habibzadeh P, Stoneman EK. The Novel Coronavirus: A Bird’s Eye View. Int J Occup Env Med. 2020;11(2):65-71.](https://doi.org/10.15171/ijoem.2020.1921)
+
+6 February 2020 - [Bonilla-Aldana DK, Holguin-Rivera Y, Cortes-Bonilla I, et al. Coronavirus infections reported by ProMED, February 2000–January 2020. Travel Med Infec.](https://doi.org/10.1016/j.tmaid.2020.101575)
+
+6 February 2020 - [Kampf G, Todt D, Pfaender S, Steinmann E. Persistence of coronaviruses on inanimate surfaces and its inactivation with biocidal agents. J Hosp Infect. February 2020.](https://doi.org/10.1016/j.jhin.2020.01.022)
 
 6 February 2020 - [Kang M, Wu J, Ma W, et al. Human-to-human transmission of 2019-novel coronavirus (2019-nCoV). medRxiv. 2020:2020.02.03.20019141.](https://doi.org/10.1101/2020.02.03.20019141)
 
@@ -279,6 +295,10 @@
 7 February 2020 - [Shi H, Han X, Zheng C. Evolution of CT Manifestations in a Patient Recovered from 2019 Novel Coronavirus (2019-nCoV) Pneumonia in Wuhan, China. Radiology. February 2020:200269.](https://doi.org/10.1148/radiol.2020200269)
 
 7 February 2020 - [Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. February 2020:10.1001/jama.2020.1585.](https://doi.org/10.1001/jama.2020.1585)
+
+9 February 2020 - [Guan W, Ni Z, Hu Y, et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv. January 2020:2020.02.06.20020974.](https://doi.org/10.1101/2020.02.06.20020974)
+
+9 February 2020 - [Ki M. Epidemiologic characteristics of early cases with 2019 novel coronavirus (2019-nCoV) disease in Republic of Korea. Epidemiol Health. February 2020:e2020007.](https://doi.org/10.4178/epih.e2020007)
 
 ## Microbiological and Immunological studies
 22 January 2020 - [Dong N, Yang X, Ye L, et al. Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China. bioRxiv. 2020:2020.01.20.913368.](https://doi.org/10.1101/2020.01.20.913368)
@@ -429,6 +449,8 @@
 
 5 February 2020 - [Zhou L, Liu HG. _Early detection and disease assessment of patients with novel coronavirus pneumonia_. Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E003.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0003)
 
+6 February 2020 - [Ronco C, Navalesi P, Vincent JL. Coronavirus epidemic: preparing for extracorporeal organ support in intensive care. Lancet Respir Med. February 2020.](https://doi.org/10.1016/S2213-2600(20)30060-6)
+
 6 February 2020 - [Eurosurveillance Editorial T. Note from the editors: World Health Organization declares novel coronavirus (2019-nCoV) sixth public health emergency of international concern. Euro Surveill. 2020.](https://doi.org/10.2807/1560-7917.ES.2020.25.5.200131e)
 
 6 February 2020 - [Jin Y-H, Cai L, Cheng Z-S, et al. A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version). Mil Med Res. 2020;7(1):4.](https://doi.org/10.1186/s40779-020-0233-6)
@@ -442,6 +464,12 @@
 7 February 2020 - [Shen K, Yang Y, Wang T, et al. Diagnosis, treatment, and prevention of 2019 novel coronavirus infection in children: experts’ consensus statement. World J Pediatr. February 2020:10.1007/s12519-020-00343-00347.](https://doi.org/10.1007/s12519-020-00343-7)
 
 8 February 2020 - [Group of Interventional Respiratory Medicine CTS. Expert consensus for bronchoscopy during the epidemic of 2019 Novel Coronavirus infection (Trial version). Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E006-E006.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0006)
+
+9 February 2020 - [Chinese Society of Extracorporeal Life Support. _Recommendations on extracorporeal life support for critically ill patients with novel coronavirus pneumonia_. Zhonghua Jie He He Hu Xi Za Zhi. 2020;43(0):E009.](https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0009)
+
+9 February 2020 - [Society of Pediatrics CMA, Editorial Board CJ of P. _Recommendations for the diagnosis, prevention and control of the 2019 novel coronavirus infection in children (first interim edition)_. Zhonghua er ke za zhi = Chinese J Pediatr. 2020;58(0):E004.](https://doi.org/10.3760/cma.j.issn.0578-1310.2020.0004)
+
+9 February 2020 - [Zhang MC, Xie HT, Xu KK, Cao Y. _Suggestions for disinfection of ophthalmic examination equipment and protection  of ophthalmologist against 2019 novel coronavirus infection_. Zhonghua Yan Ke Za Zhi. 2020;56(0):E001.](https://doi.org/10.3760/cma.j.issn.0412-4081.2020.0001)
 
 # Guidelines
 ## WHO
