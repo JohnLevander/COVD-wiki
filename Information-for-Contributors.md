@@ -5,7 +5,9 @@
 info here
 * step 1: 
 ### Contributing parameter estimates
-info here
+* Read the [Data Guide for Parameter Estimates](https://github.com/midas-network/2019-ncov/blob/master/information_for_contributors/parameter_estimates_data_guide_v1_4Feb2020.csv) to ensure your data contains most of the necessary information to contribute to the repository.
+* Create an issue to have a MIDAS staff member add an estimate, or create a pull request to the [estimates.csv file](https://github.com/midas-network/2019-ncov/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv) to directly append your estimate to the main repository.
+
 ### Contributing documents
 info here
 
