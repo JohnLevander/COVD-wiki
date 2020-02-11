@@ -8,6 +8,7 @@
 | [Collaboration platforms](#platform) |
 
 # Contributing to this GitHub Repository
+In case of any questions, email questions@midasnetwork.us or submit and [issue](https://github.com/midas-network/COVID-19/issues). 
 
 ## <a id="create"></a>Create GitHub account and fork this repository
 1. Create a GitHub account and log in through https://github.com
