@@ -86,6 +86,8 @@
 
 7 February 2020 - [Park SW, Champredon D, Earn DJD, et al. Reconciling early-outbreak preliminary estimates of the basic reproductive number and its uncertainty: a new framework and applications to the novel coronavirus (2019-nCoV) outbreak. medRxiv. 2020:2020.01.30.20019877.](https://doi.org/10.1101/2020.01.30.20019877)
 
+7 February 2020 - [You C, Lin Q, Zhou X. An Estimation of the Total Number of Cases of NCIP ( 2019-nCoV ) — Wuhan , Hubei Province , 2019 – 2020. China CDC Wkly. 2020;2(6):2019-2020.](http://weekly.chinacdc.cn/en/article/id/5a3be630-8716-4bc0-8c32-ca661f65a746)
+
 9 February 2020 - [Cao Z, Zhang Q, Lu X, et al. Incorporating Human Movement Data to Improve Epidemiological Estimates for 2019-nCoV. medRxiv. January 2020:2020.02.07.20021071.](https://doi.org/10.1101/2020.02.07.20021071)
 
 9 February 2020 - [Zhao Q, Chen Y, Small DS. Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases. medRxiv. January 2020:2020.02.06.20020941.](https://doi.org/10.1101/2020.02.06.20020941)
@@ -230,6 +232,8 @@
 
 24 January 2020 - [Benvenuto D, Giovannetti M, Ciccozzi A, Spoto S, Angeletti S, Ciccozzi M. The 2019-new coronavirus epidemic: evidence for virus evolution. bioRxiv. 2020:2020.01.24.915157.](https://doi.org/10.1101/2020.01.24.915157)
 
+24 January 2020 - [Tan W, Zhao X, Ma X, Wang W, Niu P, Xu W. Notes from the Field A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases — Wuhan , China 2019 − 2020. China CDC Wkly. 2020;1(3):2-3.](http://weekly.chinacdc.cn/en/article/id/a3907201-f64f-4154-a19e-4253b453d10c)
+
 27 January 2020 - [Paraskevis D, Kostaki EG, Magiorkinis G, Panayiotakopoulos G, Tsiodras S. Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event. bioRxiv. 2020:2020.01.26.920249.](https://doi.org/10.1101/2020.01.26.920249)
 
 28 January 2020 - [Chan JF-W, Kok K-H, Zhu Z, et al. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infect. 2020;9(1):221-236.](https://doi.org/10.1080/22221751.2020.1719902)
@@ -255,6 +259,8 @@
 5 February 2020 - [Ceraolo C, Giorgi FM. Genomic variance of the 2019-nCoV coronavirus. bioRxiv. 2020:2020.02.02.931162.](https://doi.org/10.1101/2020.02.02.931162)
 
 5 February 2020 - [Zhou Y, Hou Y, Shen J, Huang Y, Martin W, Cheng F. Network-based Drug Repurposing for Human Coronavirus. medRxiv. 2020:2020.02.03.20020263.](https://doi.org/10.1101/2020.02.03.20020263)
+
+7 February 2020 - [Wei Q, Wang Y, Ma J, et al. Notes from the Field Description of the First Strain of 2019-nCoV , C-Tan-nCoV Wuhan Strain — National Pathogen Resource Center , China , 2020. China CDC Wkly. 2020;2(6):81-82.](http://weekly.chinacdc.cn/en/article/id/e3a460f1-661b-4180-b562-ecd8e9502082)
 
 7 February 2020 - [Wu A, Peng Y, Huang B, et al. Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China. Cell Host Microbe. February 2020.](https://doi.org/10.1016/j.chom.2020.02.001)
 
@@ -297,6 +303,8 @@
 30 January 2020 - [Zhao S, Zhuang Z, Ran J, et al. The association between domestic train transportation and novel coronavirus (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational report. Travel Med Infect Dis. January 2020:101568.](https://doi.org/10.1016/j.tmaid.2020.101568)
 
 31 January 2020 - [Holshue ML, DeBolt C, Lindquist S, et al. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med. January 2020:NEJMoa2001191.](https://doi.org/10.1056/NEJMoa2001191)
+
+31 January 2020 - [The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. Notes from the Field An Outbreak of NCIP ( 2019-nCoV ) Infection in China — Wuhan , Hubei Province , 2019 − 2020. China CDC Wkly. 2020;110(5):79-80.](http://weekly.chinacdc.cn/en/article/id/e3c63ca9-dedb-4fb6-9c1c-d057adb77b57)
 
 2 February 2020 - [An P, Chen H, Jiang X, et al. Clinical features of 2019 novel coronavirus pneumonia presented gastrointestinal symptoms but without fever onset. Lancet. https://ssrn.com/abstract=3532530.](https://ssrn.com/abstract=3532530)
 
@@ -345,6 +353,8 @@
 7 February 2020 - [Li J, Li J, Xie X, et al. Game consumption and the 2019 novel coronavirus. Lancet Infect Dis. February 2020.](https://doi.org/10.1016/S1473-3099(20)30063-3)
 
 7 February 2020 - [Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Lancet. February 2020.](https://doi.org/10.1016/S0140-6736(20)30317-2)
+
+7 February 2020 - [Tu W, Tang H, Chen F, et al. Epidemic Update and Risk Assessment of 2019 Novel Coronavirus — China, January 28, 2020. China CDC Wkly. 2020;2(6):83-86.](http://weekly.chinacdc.cn/en/article/id/24bdcf95-add0-49f0-8ae5-50abff657593)
 
 7 February 2020 - [Shi H, Han X, Zheng C. Evolution of CT Manifestations in a Patient Recovered from 2019 Novel Coronavirus (2019-nCoV) Pneumonia in Wuhan, China. Radiology. February 2020:200269.](https://doi.org/10.1148/radiol.2020200269)
 
@@ -544,6 +554,17 @@
 9 February 2020 - [Society of Pediatrics CMA, Editorial Board CJ of P. _Recommendations for the diagnosis, prevention and control of the 2019 novel coronavirus infection in children (first interim edition)_. Zhonghua er ke za zhi = Chinese J Pediatr. 2020;58(0):E004.](https://doi.org/10.3760/cma.j.issn.0578-1310.2020.0004)
 
 9 February 2020 - [Zhang MC, Xie HT, Xu KK, Cao Y. _Suggestions for disinfection of ophthalmic examination equipment and protection  of ophthalmologist against 2019 novel coronavirus infection_. Zhonghua Yan Ke Za Zhi. 2020;56(0):E001.](https://doi.org/10.3760/cma.j.issn.0412-4081.2020.0001)
+
+## China CDC Weekly
+24 January 2020 - [Tan W, Zhao X, Ma X, Wang W, Niu P, Xu W. Notes from the Field A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases — Wuhan , China 2019 − 2020. China CDC Wkly. 2020;1(3):2-3.](http://weekly.chinacdc.cn/en/article/id/a3907201-f64f-4154-a19e-4253b453d10c)
+
+31 January 2020 - [The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. Notes from the Field An Outbreak of NCIP ( 2019-nCoV ) Infection in China — Wuhan , Hubei Province , 2019 − 2020. China CDC Wkly. 2020;110(5):79-80.](http://weekly.chinacdc.cn/en/article/id/e3c63ca9-dedb-4fb6-9c1c-d057adb77b57)
+
+7 February 2020 - [Tu W, Tang H, Chen F, et al. Epidemic Update and Risk Assessment of 2019 Novel Coronavirus — China, January 28, 2020. China CDC Wkly. 2020;2(6):83-86. ](http://weekly.chinacdc.cn/en/article/id/24bdcf95-add0-49f0-8ae5-50abff657593)
+
+7 February 2020 - [Wei Q, Wang Y, Ma J, et al. Notes from the Field Description of the First Strain of 2019-nCoV , C-Tan-nCoV Wuhan Strain — National Pathogen Resource Center , China , 2020. China CDC Wkly. 2020;2(6):81-82.](http://weekly.chinacdc.cn/en/article/id/e3a460f1-661b-4180-b562-ecd8e9502082)
+
+7 February 2020 - [You C, Lin Q, Zhou X. An Estimation of the Total Number of Cases of NCIP ( 2019-nCoV ) — Wuhan , Hubei Province , 2019 – 2020. China CDC Wkly. 2020;2(6):2019-2020.](http://weekly.chinacdc.cn/en/article/id/5a3be630-8716-4bc0-8c32-ca661f65a746)
 
 # Guidelines
 ## WHO
