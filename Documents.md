@@ -1,5 +1,23 @@
-# Reports
-## Outbreak updates
+|Contents|
+| ----- |
+| [Report](#report) |
+| - [Outbreak updates](#outbreak) |
+| - [Modelling reports](#model) |
+| [Pre-prints & Peer-Reviewed Papers](#preprint) |
+| - [Estimating Epidemiological Parameters](#estimate) |
+| - [Spread and Possibility of Containment](#spread) |
+| - [Scenario Projections & Forecasting](#scenario) |
+| - [Impact of Interventions](#impact) |
+| - [Virus Evolution](#virus) |
+| - [Clinical and Community Trials](#clinical) |
+| - [Observational Studies](#observational) |
+| - [Microbiological and Immunological studies](#microbiological) |
+| - [Potential Therapeutics](#therapeutics) |
+| - [Other studies](#other) |
+| - [China CDC Weekly](#chinaCDC)|
+
+# <a id="report"> Reports
+## <a id="outbreak"></a> Outbreak updates
 ### Global
 #### [WHO Disease Outbreak News](https://github.com/midas-network/2019-ncov/tree/master/cases/who/disease_outbreak_news) ([metadata](https://github.com/midas-network/2019-ncov/blob/master/cases/who/disease_outbreak_news/collection_metadata.csv))
 * 14 January, 2020 - [World Health Organization (WHO). (2020). Novel Coronavirus – Thailand (ex-China). Geneva.](https://github.com/midas-network/2019-ncov/blob/master/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Thailand%20(ex-China)_20200114.pdf)
@@ -37,7 +55,7 @@
 * 9 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-09 report](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/outbreak_reports/global/sitreps_JHU_CHS/2020-02-09_2019-nCoV.pdf)
 
 
-## Modelling reports
+## <a id="model"></a> Modelling reports
 ### China
 #### [Imperial College Modelling Reports](https://github.com/midas-network/2019-ncov/tree/master/Documents/Reports/model_reports/china/reports_imperial_college) ([metadata](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/collection_metadata.csv))
 * 17 January 2020 - [Imai N, Dorigatti I, Cori A, Riley S, Ferguson NM. Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China. London; 2020.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/2020-01-17_Report_1_Case_Estimates.pdf) 
@@ -69,8 +87,8 @@
 #### [RTI Reports](https://github.com/midas-network/2019-ncov/tree/master/Documents/Reports/model_reports/global/RTI) ([metadata](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/global/RTI/collection_metadata.csv))
 * 20 January 2020 - [Bisanzio D, Kraemer MG, Bogoch II, Brewer T, Brownstein JS, Reithinger R. BRIEF REPORT Use of Twitter social media activity as a proxy for human mobility to predict the spatiotemporal spread of 2019 novel coronavirus at global level. Res Triangle Park NC RTI Int. https://www.rti.org/publication/use-twitter-social-media-activity-proxy-human-mobility-predict-spatiotemporal-spread. Accessed February 10, 2020.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/global/RTI/2020-01-30_Social_Media.pdf)
 
-# Pre-prints & Peer-Reviewed Papers
-## Estimating Epidemiological Parameters
+# <a id="preprint"></a> Pre-prints & Peer-Reviewed Papers
+## <a id="estimate"></a> Estimating Epidemiological Parameters
 19 January 2020 - [Chen T, Rui J, Wang Q, Zhao Z, Cui J-A, Yin L. A mathematical model for simulating the transmission of Wuhan novel Coronavirus. bioRxiv. 2020:2020.01.19.911669.](https://doi.org/10.1101/2020.01.19.911669)
 
 24 January 2020 - [Riou J, Althaus CL. Pattern of early human-to-human transmission of Wuhan 2019-nCoV. bioRxiv. 2020:2020.01.23.917351.](https://doi.org/10.1101/2020.01.23.917351)
@@ -125,7 +143,7 @@
 
 10 February 2020- [Hébert-Dufresne L, Althouse BM, Scarpino S V, Allard A. Beyond $R_0$: the importance of contact tracing when predicting epidemics. February 2020. http://arxiv.org/abs/2002.04004.](http://arxiv.org/abs/2002.04004)
 
-## Spread and Possibility of Containment
+## <a id="spread"></a> Spread and Possibility of Containment
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
 
 18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
@@ -168,7 +186,7 @@
 
 7 February 2020 - [Gilbert M, Pullano G, Pinotti F, et al. Preparedness and vulnerability of African countries against introductions of 2019-nCoV. medRxiv. 2020:2020.02.05.20020792.](https://doi.org/10.1101/2020.02.05.20020792)
 
-## Scenario Projections & Forecasting
+## <a id="scenario"></a> Scenario Projections & Forecasting
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
 
 19 January 2020 - [Chen T, Rui J, Wang Q, Zhao Z, Cui J-A, Yin L. A mathematical model for simulating the transmission of Wuhan novel Coronavirus. bioRxiv. 2020:2020.01.19.911669.](https://doi.org/10.1101/2020.01.19.911669)
@@ -231,7 +249,7 @@
 
 9 February 2020 - [Zhao Q, Chen Y, Small DS. Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases. medRxiv. January 2020:2020.02.06.20020941.](https://doi.org/10.1101/2020.02.06.20020941)
 
-## Impact of Interventions
+## <a id="impact"></a> Impact of Interventions
 18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
 
 28 January 2020 - [Lodge EK, Schatz AM, Drake JM. Protective Population Behavior Change in Outbreaks of Emerging Infectious Disease. bioRxiv. 2020:2020.01.27.921536.](https://doi.org/10.1101/2020.01.27.921536)
@@ -252,7 +270,7 @@
 
 7 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
 
-## Virus Evolution
+## <a id="virus"></a> Virus Evolution
 21 January 2020 - [Xu X, Chen P, Wang J, et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci. January 2020:10.1007/s11427-020-1637-5.](https://doi.org/10.1007/s11427-020-1637-5)
 
 22 January 2020 - [Chen Y, Liu Q, Guo D. Emerging coronaviruses: genome structure, replication, and pathogenesis. J Med Virol. 2020:10.1002/jmv.25681.](https://doi.org/10.1002/jmv.25681)
@@ -301,10 +319,10 @@
 
 9 February 2020 - [Randhawa GS, Soltysiak MPM, El Roz H, de Souza CPE, Hill KA, Kari L. Machine learning-based analysis of genomes suggests associations between Wuhan 2019-nCoV and bat Betacoronaviruses. bioRxiv. 2020:2020.02.03.932350.](https://doi.org/10.1101/2020.02.03.932350)
 
-## Clinical and Community Trials
+## <a id="clinical"></a> Clinical and Community Trials
 30 January 2020 - [Pillaiyar T, Meenakshisundaram S, Manickam M. Recent discovery and development of inhibitors targeting coronaviruses. Drug Discov Today. January 2020:S1359-6446(20)30041-6.](https://doi.org/10.1016/j.drudis.2020.01.015)
 
-## Observational Studies
+## <a id="observational"></a> Observational Studies
 16 January 2020 - [Lu H, Stratton CW, Tang Y-W. Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle. J Med Virol. 2020:10.1002/jmv.25678.](https://doi.org/10.1002/jmv.25678)
 
 21 January 2020 -[Gralinski LE, Menachery VD. Return of the Coronavirus: 2019-nCoV. Viruses. 2020;12(2):135.](https://doi.org/10.3390/v12020135)
@@ -401,7 +419,7 @@
 
 10 February 2020 - [Li H-Y, Zhu G-J, Zhang Y-Z, et al. A qualitative study of zoonotic risk factors among rural communities in southern China. Int Health. 2020;00:1-9.](https://doi.org/10.1093/inthealth/ihaa001)
 
-## Microbiological and Immunological studies
+## <a id="microbiological"></a> Microbiological and Immunological studies
 22 January 2020 - [Dong N, Yang X, Ye L, et al. Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China. bioRxiv. 2020:2020.01.20.913368.](https://doi.org/10.1101/2020.01.20.913368)
 
 22 January 2020 - [Letko M, Munster V. Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV. bioRxiv. 2020:2020.01.22.915660.](https://doi.org/10.1101/2020.01.22.915660)
@@ -478,7 +496,7 @@
 
 10 February - [Zhang L, Lin D, Kusov Y, et al. Alpha-ketoamides as broad-spectrum inhibitors of coronavirus and enterovirus replication. bioRxiv. January 2020:2020.02.10.936898.](https://doi.org/10.1101/2020.02.10.936898)
 
-## Potential Therapeutics
+## <a id="therapeutics"></a> Potential Therapeutics
 28 January 2020 - [Xu Z, Peng C, Shi Y, et al. Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation. bioRxiv. 2020:2020.01.27.921627.](https://doi.org/10.1101/2020.01.27.921627)
 
 29 January 2020 - [Liu X, Wang X-J. Potential inhibitors for 2019-nCoV coronavirus M protease from clinically approved medicines. bioRxiv. 2020:2020.01.29.924100.](https://doi.org/10.1101/2020.01.29.924100)
@@ -507,7 +525,7 @@
 
 10 February - [Zhang L, Lin D, Kusov Y, et al. Alpha-ketoamides as broad-spectrum inhibitors of coronavirus and enterovirus replication. bioRxiv. January 2020:2020.02.10.936898.](https://doi.org/10.1101/2020.02.10.936898)
 
-## Other studies
+## <a id="other"></a> Other studies
 14 January 2020 - [Hui DS, I Azhar E, Madani TA, et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China. Int J Infect Dis. 2020;91:264-266.](https://doi.org/10.1016/j.ijid.2020.01.009)
 
 22 January 2020 - [Liu S-L, Saif L. Emerging Viruses without Borders: The Wuhan Coronavirus. Viruses. 2020;12(2):E130.](https://doi.org/10.3390/v12020130)
@@ -586,7 +604,7 @@
 
 9 February 2020 - [Zhang MC, Xie HT, Xu KK, Cao Y. _Suggestions for disinfection of ophthalmic examination equipment and protection  of ophthalmologist against 2019 novel coronavirus infection_. Zhonghua Yan Ke Za Zhi. 2020;56(0):E001.](https://doi.org/10.3760/cma.j.issn.0412-4081.2020.0001)
 
-## China CDC Weekly
+## <a id="chinaCDC"></a> China CDC Weekly
 24 January 2020 - [Tan W, Zhao X, Ma X, Wang W, Niu P, Xu W. Notes from the Field A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases — Wuhan , China 2019 − 2020. China CDC Wkly. 2020;1(3):2-3.](http://weekly.chinacdc.cn/en/article/id/a3907201-f64f-4154-a19e-4253b453d10c)
 
 31 January 2020 - [The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. Notes from the Field An Outbreak of NCIP ( 2019-nCoV ) Infection in China — Wuhan , Hubei Province , 2019 − 2020. China CDC Wkly. 2020;110(5):79-80.](http://weekly.chinacdc.cn/en/article/id/e3c63ca9-dedb-4fb6-9c1c-d057adb77b57)
