@@ -1,4 +1,15 @@
 ## Contributing to this Github Repository
+
+## Contributing information
+### Contributing data
+info here
+* step 1: 
+### Contributing parameter estimates
+info here
+### Contributing documents
+info here
+
+
 ### Pull requests (see Zika repo)
 
 ## Collaboration platforms
