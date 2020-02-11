@@ -90,6 +90,8 @@
 
 9 February 2020 - [Zhao Q, Chen Y, Small DS. Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases. medRxiv. January 2020:2020.02.06.20020941.](https://doi.org/10.1101/2020.02.06.20020941)
 
+10 February 2020- [Hébert-Dufresne L, Althouse BM, Scarpino S V, Allard A. Beyond $R_0$: the importance of contact tracing when predicting epidemics. February 2020. http://arxiv.org/abs/2002.04004.](http://arxiv.org/abs/2002.04004)
+
 ## Spread and Possibility of Containment
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
 
