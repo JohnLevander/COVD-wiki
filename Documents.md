@@ -38,6 +38,9 @@
 
 * 29 January 2020 -  [Chinazzi M, Davis JT, Gioannini C, et al. Preliminary Assessment of the International Spreading Risk Associated with the 2019 Novel Coronavirus (2019-NCoV) Outbreak in Wuhan City.; 2020.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/global/risk_assessment_MOBS/2020-01-29_risk_assessment.pdf)
 
+#### [RTI Reports](https://github.com/midas-network/2019-ncov/tree/master/Documents/Reports/model_reports/global/RTI) ([metadata](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/global/RTI/collection_metadata.csv))
+* 20 January 2020 - [Bisanzio D, Kraemer MG, Bogoch II, Brewer T, Brownstein JS, Reithinger R. BRIEF REPORT Use of Twitter social media activity as a proxy for human mobility to predict the spatiotemporal spread of 2019 novel coronavirus at global level. Res Triangle Park NC RTI Int. https://www.rti.org/publication/use-twitter-social-media-activity-proxy-human-mobility-predict-spatiotemporal-spread. Accessed February 10, 2020.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/global/RTI/2020-01-30_Social_Media.pdf)
+
 # Pre-prints & Peer-Reviewed Papers
 ## Estimating Epidemiological Parameters
 19 January 2020 - [Chen T, Rui J, Wang Q, Zhao Z, Cui J-A, Yin L. A mathematical model for simulating the transmission of Wuhan novel Coronavirus. bioRxiv. 2020:2020.01.19.911669.](https://doi.org/10.1101/2020.01.19.911669)
@@ -565,24 +568,3 @@
 7 February 2020 - [Wei Q, Wang Y, Ma J, et al. Notes from the Field Description of the First Strain of 2019-nCoV , C-Tan-nCoV Wuhan Strain — National Pathogen Resource Center , China , 2020. China CDC Wkly. 2020;2(6):81-82.](http://weekly.chinacdc.cn/en/article/id/e3a460f1-661b-4180-b562-ecd8e9502082)
 
 7 February 2020 - [You C, Lin Q, Zhou X. An Estimation of the Total Number of Cases of NCIP ( 2019-nCoV ) — Wuhan , Hubei Province , 2019 – 2020. China CDC Wkly. 2020;2(6):2019-2020.](http://weekly.chinacdc.cn/en/article/id/5a3be630-8716-4bc0-8c32-ca661f65a746)
-
-# Guidelines
-## WHO
-## China
-## United States
-#### [US CDC Guidance](https://github.com/midas-network/2019-ncov/tree/master/Documents/guidelines/united_states/CDC) ([metadata](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/collection_metadata.csv))
-* 6 January 2020 - [CDC. 2020. Novel Coronavirus in China - Warning - Level 3, Avoid Nonessential Travel](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-01-06_Travel.pdf)
-
-* 17 January 2020 - [CDC. 2020. HAN 00426: Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China.](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-01-17_HAN_00426.pdf)
-
-* 1 February 2020 - [CDC. 2020. HAN 00427: Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV).](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-01_HAN_00427.pdf)
-
-* 2 February 2020 - [CDC. 2020. Evaluating and Reporting Persons Under Investigation (PUI)](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-02_Clinical_Criteria.pdf)
-
-* 2 February 2020 - [CDC. 2020. 2019 Novel Coronavirus Interim Guidelines for Collecting , Handling , and Testing Clinical Specimens from Persons Under Investigation ( PUIs ) for 2019 Novel Coronavirus ( 2019-nCoV )](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-02_Clinical_Specimens.pdf)
-
-* 7 February 2020 - [CDC. 2020. Interim Guidance for Businesses and Employers to Plan and Respond to 2019 Novel Coronavirus ( 2019-nCoV ), February](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-07_Businesses_Employers.pdf)
-
-* 8 February 2020 - [CDC. 2020. Interim US Guidance for Risk Assessment and Public Health Management of Persons with Potential 2019 Novel Coronavirus (2019-nCoV) Exposure in Travel-associated or Community Settings](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-08_Risk_Assessment_PH_Management.pdf)
-
-* 10 February 2020 - [CDC. 2020. 2019 Novel Coronavirus Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with 2019 Novel General Guidelines](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-10_Biosafety.pdf)
