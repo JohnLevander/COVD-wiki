@@ -28,30 +28,30 @@
 * Original source [here](https://ncov.dxy.cn/ncovh5/view/pneumonia)
 * Date range: 2020-02-07 to 2020-02-10
 
-### [Epidemic update and risk assessment of 2019 Novel Coronavirus](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/epidemic_update_chinacdc)
+### [Distribution of new coronavirus pneumonia in English](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/daily_cases_chinacdc_EN)
 * Created by China Centers for Disease Control
-* Format: PDF
-* Original source [here](http://weekly.chinacdc.cn/en/article/id/24bdcf95-add0-49f0-8ae5-50abff657593)
-* Date range: 2020-02-07 to 2020-02-07
+* Format: csv
+* Original source [here](http://2019ncov.chinacdc.cn/2019-nCoV/)
+* Date range: 2020-01-10 to 2020-02-09
 
-### [An Outbreak of NCIP (2019-nCOv) Infection in China - Wuhan, Hubei Province](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/weekly_reports_chinacdc)
+### [Distribution of new coronavirus pneumonia in Chinese](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/daily_cases_chinacdc_ZH)
 * Created by China Centers for Disease Control
-* Format: PDF
-* Original source [here](http://weekly.chinacdc.cn/en/article/id/24bdcf95-add0-49f0-8ae5-50abff657593)
-* Date range: 2020-01-31 to 2020-01-31
+* Format: csv
+* Original source [here](http://2019ncov.chinacdc.cn/2019-nCoV/)
+* Date range: 2020-01-10 to 2020-02-09
 
 ## Global
 ### [nCoV line listings from DXY.cn maintained by NIH Fogarty](https://github.com/midas-network/2019-ncov/tree/master/cases/global/line_listings_nihfogarty)
 * Created by Kaiyuan Sun (contact.sunky@gmail.com)
 * Format: Google Sheet
 * Original source [here](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451)
-* Date range: 2020-01-27 to 2020-02-09
+* Date range: 2020-01-13 to 2020-02-09
 
 ### [nCoV line listings from various sources maintained by Oxford and others](https://github.com/midas-network/2019-ncov/tree/master/data/cases/global/line_listings_oxford)
 * Created by nCoV-2019 Data Working Group
 * Format: Google Sheet
 * Original source [here](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)
-* Date range: 2020-01-27 to 2020-02-09
+* Date range: 2020-01-12 to 2020-02-09
 
 ### [Github repository with nCoV line listings from various sources and data processing code maintained by Oxford and others](https://github.com/midas-network/2019-ncov/tree/master/data/cases/global/line_listings_oxford_github) 
 * Created by David Pigott via beoutbreakprepared Github repository
@@ -79,11 +79,17 @@
 * Date range: 2020-01-20 to 2020-02-08
 
 ## Thailand
-### [Novel Coronavirus 2019 Pneumonia Situation](https://github.com/midas-network/2019-ncov/tree/master/data/cases/thailand/moh_situation_updates)
+### [Novel Coronavirus 2019 Pneumonia Situation in English](https://github.com/midas-network/2019-ncov/tree/master/data/cases/thailand/moh_situation_updates)
 * Created by Emergency Operation Center, Department of Disease Control
 * Format: PDF narrative and tables
 * Original source [here](https://ddc.moph.go.th/viralpneumonia/eng/situation.php)
-* Date range: 2020-01-14 to 2020-02-06
+* Date range: 2020-01-14 to 2020-02-07
+
+### [Novel Coronavirus 2019 Pneumonia Situation in Thai](https://github.com/midas-network/2019-ncov/tree/master/data/cases/thailand/moh_situation_updates_TH)
+* Created by Emergency Operation Center, Department of Disease Control
+* Format: PDF narrative and tables
+* Original source [here](https://ddc.moph.go.th/viralpneumonia/eng/situation.php)
+* Date range: 2020-01-10 to 2020-02-10
 
 ## World Health Organization (WHO)
 ### [WHO Novel Coronavirus Disease Outbreak News](https://github.com/midas-network/2019-ncov/tree/master/cases/who/disease_outbreak_news)
