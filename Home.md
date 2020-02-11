@@ -1,5 +1,3 @@
-<img src="docs/MIDAS-4.png" align="right" width=500/>
-
 # MIDAS 2019 Novel Coronavirus Repository
 </br>
 </br>
