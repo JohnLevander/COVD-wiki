@@ -7,6 +7,37 @@
 | [Mobility data](#mobility) |
 
 # <a id="cases"></a> Cases
+## World Health Organization (WHO)
+### [WHO Novel Coronavirus Disease Outbreak News](https://github.com/midas-network/COVID-19/tree/master/cases/who/disease_outbreak_news)
+* Created by World Health Organization
+* Format: HTML saved as PDF
+* Original source [here](https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/)
+* Date range: 2020-01-14 to 2020-02-07
+
+### [Novel Coronavirus (2019-nCoV) situation reports](https://github.com/midas-network/COVID-19/tree/master/data/cases/who/novel_coronavirus_situation_reports)
+* Created by World Health Organization
+* Format: PDF narrative and tables
+* Original source [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
+* Date range: 2020-01-21 to 2020-02-08
+
+## Global
+### [nCoV line listings from DXY.cn maintained by NIH Fogarty](https://github.com/midas-network/COVID-19/tree/master/cases/global/line_listings_nihfogarty)
+* Created by Kaiyuan Sun (contact.sunky@gmail.com)
+* Format: Google Sheet
+* Original source [here](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451)
+* Date range: 2020-01-13 to 2020-02-09
+
+### [nCoV line listings from various sources maintained by Oxford and others](https://github.com/midas-network/COVID-19/tree/master/data/cases/global/line_listings_oxford)
+* Created by nCoV-2019 Data Working Group
+* Format: Google Sheet
+* Original source [here](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)
+* Date range: 2020-01-12 to 2020-02-09
+
+### [Github repository with nCoV line listings from various sources and data processing code maintained by Oxford and others](https://github.com/midas-network/COVID-19/tree/master/data/cases/global/line_listings_oxford_github) 
+* Created by David Pigott via beoutbreakprepared Github repository
+* Format: Github repository
+* Original source [here](https://github.com/beoutbreakprepared/nCoV2019)
+
 ## Cambodia
 ### [Ministry of Health Announcement on New Case of Coronavirus in Preah Sihanouk Province (2019-nCoV)](https://github.com/midas-network/COVID-19/tree/master/data/cases/cambodia/moh_situation_updates) 
 * Created by Cambodia Ministry of Health
@@ -40,24 +71,6 @@
 * Original source [here](http://2019ncov.chinacdc.cn/2019-nCoV/)
 * Date range: 2020-01-10 to 2020-02-09
 
-## Global
-### [nCoV line listings from DXY.cn maintained by NIH Fogarty](https://github.com/midas-network/COVID-19/tree/master/cases/global/line_listings_nihfogarty)
-* Created by Kaiyuan Sun (contact.sunky@gmail.com)
-* Format: Google Sheet
-* Original source [here](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451)
-* Date range: 2020-01-13 to 2020-02-09
-
-### [nCoV line listings from various sources maintained by Oxford and others](https://github.com/midas-network/COVID-19/tree/master/data/cases/global/line_listings_oxford)
-* Created by nCoV-2019 Data Working Group
-* Format: Google Sheet
-* Original source [here](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)
-* Date range: 2020-01-12 to 2020-02-09
-
-### [Github repository with nCoV line listings from various sources and data processing code maintained by Oxford and others](https://github.com/midas-network/COVID-19/tree/master/data/cases/global/line_listings_oxford_github) 
-* Created by David Pigott via beoutbreakprepared Github repository
-* Format: Github repository
-* Original source [here](https://github.com/beoutbreakprepared/nCoV2019)
-
 ## Hong Kong
 ### [Latest local situation of Severe Respiratory Disease associated with a Novel Infectious Agent](https://github.com/midas-network/COVID-19/tree/master/data/cases/hong%20kong/doh_situation_updates)
 * Created by Hong Kong Center for Health Protection
@@ -90,19 +103,6 @@
 * Format: PDF narrative and tables
 * Original source [here](https://ddc.moph.go.th/viralpneumonia/eng/situation.php)
 * Date range: 2020-01-10 to 2020-02-10
-
-## World Health Organization (WHO)
-### [WHO Novel Coronavirus Disease Outbreak News](https://github.com/midas-network/COVID-19/tree/master/cases/who/disease_outbreak_news)
-* Created by World Health Organization
-* Format: HTML saved as PDF
-* Original source [here](https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/)
-* Date range: 2020-01-14 to 2020-02-07
-
-### [Novel Coronavirus (2019-nCoV) situation reports](https://github.com/midas-network/COVID-19/tree/master/data/cases/who/novel_coronavirus_situation_reports)
-* Created by World Health Organization
-* Format: PDF narrative and tables
-* Original source [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
-* Date range: 2020-01-21 to 2020-02-08
 
 # <a id="Genomic"></a> Genomic data
 ## Nextstrain
