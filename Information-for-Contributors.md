@@ -30,9 +30,8 @@ To contribute to the 2019-nCov repository with GitHub:
 2. Create an issue to have a MIDAS staff member add an estimate, or create a pull request to the [estimates.csv file](https://github.com/midas-network/2019-ncov/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv) to directly append your estimate to the main repository.
 
 ### Contributing documents
-For reports and guidance:
-* Create an issue containing the information related to the documents or the documents you want to add to the repository, and a MIDAS staff member will update the information in the Wiki and in the folder corresponding. 
-* You can also add your files into the corresponding folder or create a folder if necessary, in YOUR fork repository:
+* Create an issue containing the information related to the documents (Citation, link, ...) or the documents you want to add to the repository, and a MIDAS staff member will update the information in the Wiki and in the folder corresponding if necessary. 
+* For report document, you can also add your files into the corresponding folder or create a folder if necessary, in YOUR fork repository:
      + If the report uploaded concerns more than one country, it should be upload into the global folder.
      + The report file uploaded should be named following the convention "DATE_short_title" (Date in the ISO Format YYYY-MM-DD)
      + Don't forget to update the _collection_metadata.csv_ files, if a new collection is created, you will need to add a _collection_metadata.csv_ file describing the content of your collection, a template is available [here](https://github.com/midas-network/2019-ncov/blob/master/information_for_contributors/collection_metadata_template_v1.1_8Feb2020.csv)
