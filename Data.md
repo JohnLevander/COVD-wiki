@@ -14,7 +14,7 @@
 * Date range: 2020-02-07 to 2020-02-10
 
 ## China
-### [Number of cumulative cases by Chinese prefecture from DXY.cn](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/cumulative_cases_dxy)
+### [Number of cumulative cases by Chinese prefecture from DXY.cn](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/cumulative_cases_DXY)
 * Created by DXY.cn
 * Format: csv
 * Original source [here](https://ncov.dxy.cn/ncovh5/view/pneumonia)
