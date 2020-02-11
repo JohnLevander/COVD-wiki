@@ -7,26 +7,26 @@
 * Date range: 2020-01-27 to 2020-01-27
 
 ## Canada
-###[The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario](https://github.com/midas-network/2019-ncov/tree/master/data/cases/canada/ontario_situation_updates)
+### [The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario](https://github.com/midas-network/2019-ncov/tree/master/data/cases/canada/ontario_situation_updates)
 * Created by Ontario Ministry of Health
 * Format: PDF for viewing
 * Original source [here](https://www.ontario.ca/page/2019-novel-coronavirus-2019-ncov#section-0)
 * Date range: 2020-02-07 to 2020-02-10
 
 ## China
-###[Number of cumulative cases by Chinese prefecture from DXY.cn](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/cumulative_cases_dxy)
+### [Number of cumulative cases by Chinese prefecture from DXY.cn](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/cumulative_cases_dxy)
 * Created by DXY.cn
 * Format: csv
 * Original source [here](https://ncov.dxy.cn/ncovh5/view/pneumonia)
 * Date range: 2020-02-07 to 2020-02-10
 
-###[Epidemic update and risk assessment of 2019 Novel Coronavirus](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/epidemic_update_chinacdc)
+### [Epidemic update and risk assessment of 2019 Novel Coronavirus](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/epidemic_update_chinacdc)
 * Created by China Centers for Disease Control
 * Format: PDF
 * Original source [here](http://weekly.chinacdc.cn/en/article/id/24bdcf95-add0-49f0-8ae5-50abff657593)
 * Date range: 2020-02-07 to 2020-02-07
 
-###[An Outbreak of NCIP (2019-nCOv) Infection in China - Wuhan, Hubei Province](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/weekly_reports_chinacdc)
+### [An Outbreak of NCIP (2019-nCOv) Infection in China - Wuhan, Hubei Province](https://github.com/midas-network/2019-ncov/tree/master/data/cases/china/weekly_reports_chinacdc)
 * Created by China Centers for Disease Control
 * Format: PDF
 * Original source [here](http://weekly.chinacdc.cn/en/article/id/24bdcf95-add0-49f0-8ae5-50abff657593)
@@ -51,7 +51,7 @@
 * Original source [here](https://github.com/beoutbreakprepared/nCoV2019)
 
 ## Hong Kong
-###[Latest local situation of Severe Respiratory Disease associated with a Novel Infectious Agent](https://github.com/midas-network/2019-ncov/tree/master/data/cases/hong%20kong/doh_situation_updates)
+### [Latest local situation of Severe Respiratory Disease associated with a Novel Infectious Agent](https://github.com/midas-network/2019-ncov/tree/master/data/cases/hong%20kong/doh_situation_updates)
 * Created by Hong Kong Center for Health Protection
 * Format: PDF
 * Original source [here](https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf)
