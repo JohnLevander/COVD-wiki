@@ -11,8 +11,14 @@
 
 ## Modelling reports
 ### China
-17 January, 2020 - [Imai, N., Dorigatti, I., Cori, A., Riley, S., & Ferguson, N. M. (2020). Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China. London.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/2020-01-17_Report_1_Case_Estimates.pdf) 
+#### [Imperial College Modelling Reports](https://github.com/midas-network/2019-ncov/tree/master/Documents/Reports/model_reports/china/reports_imperial_college) ([metadata](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/collection_metadata.csv))
+* 17 January 2020 - [Imai N, Dorigatti I, Cori A, Riley S, Ferguson NM. Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China. London; 2020.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/2020-01-17_Report_1_Case_Estimates.pdf) 
 
+* 22 January 2020 - [Imai N, Dorigatti I, Cori A, Donnelly C, Riley S, Ferguson NM. Report 2: Estimating the Potential Total Number of Novel Coronavirus Cases in Wuhan City, China. London; 2020.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/2020-01-22_Report_2_Case_Estimates.pdf)
+
+* 25 January 2020 - [Imai N, Cori A, Dorigatti I, et al. Report 3: Transmissibility of 2019-NCoV. London; 2020.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/2020-01-25_Report_3_Transmissibility.pdf)
+
+* 10 February 2020 - [Dorigatti I, Okell L, Cori A, et al. Report 4: Severity of 2019-Novel Coronavirus (NCoV). London; 2020.](https://github.com/midas-network/2019-ncov/blob/master/Documents/Reports/model_reports/china/reports_imperial_college/2020-02-10_Report_4_Severity.pdf)
 
 # Pre-prints & Peer-Reviewed Papers
 ## Estimating Epidemiological Parameters
@@ -147,6 +153,8 @@
 2 February 2020 - [Kucharski AJ, Russell TW, Diamond C, Funk S, Eggo RM. Early dynamics of transmission and control of 2019-nCoV: a mathematical modelling study. medRxiv. 2020:2020.01.31.20019901.](https://doi.org/10.1101/2020.01.31.20019901)
 
 4 February 2020 - [Bai Y, Nie X, Wen C. Epidemic Prediction of 2019-nCoV in Hubei Province and Comparison with SARS in Guangdong Province. https://ssrn.com/abstract=3531427.](https://ssrn.com/abstract=3531427)
+
+4 February 2020 - [Cai Y, Jiao S, Wang H, et al. Estimating the number of 2019 novel Coronavirus cases in Chinese Mainland. Lancet. https://ssrn.com/abstract=3529449.](https://ssrn.com/abstract=3529449)
 
 4 February 2020 - [Du Z, Wang L, Cauchemez S, et al. Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine. medRxiv. 2020:2020.01.28.20019299.](https://doi.org/10.1101/2020.01.28.20019299)
 
