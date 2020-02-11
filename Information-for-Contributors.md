@@ -44,7 +44,7 @@ To contribute to the COVID-19 repository with GitHub:
 ### <a id="documents"></a>Contributing documents
 * To add a paper or report, create an [issue](https://github.com/midas-network/COVID-19/issues) containing the information related to the documents (Citation, link, ...) or the documents you want to add to the repository, and a MIDAS staff member will update the information in the Wiki and in the folder corresponding if necessary. 
 * For pre-prints or peer-reviewed papers, we will link to the external file, since these are stored in well-established repositories.
-* For reports, you can also add your files into the corresponding folder or create a folder if necessary in the [documents folder](https://github.com/midas-network/COVID-19/tree/master/Documents/Reports), in YOUR fork repository. Documents are organized by geography (global or country) and collection.
+* For reports, you can also add files yourself into the corresponding folder or create a folder if necessary in the [documents folder](https://github.com/midas-network/COVID-19/tree/master/Documents/Reports), in YOUR fork repository. Documents are organized by geography (global or country) and collection.
      + If the report uploaded concerns more than one country, it should be upload into the global folder.
      + The report file uploaded should be named following the convention "DATE_short_title" (Date in the ISO Format YYYY-MM-DD)
      + Don't forget to update the _collection_metadata.csv_ files, if a new collection is created, you will need to add a _collection_metadata.csv_ file describing the content of your collection, a template is available [here](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/collection_metadata_template_v1.1_8Feb2020.csv)
