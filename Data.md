@@ -92,6 +92,11 @@
 
 # Genomic data
 ## Nextstrain
+### [Genomic epidemiology of novel coronavirus (nCoV)](https://github.com/midas-network/2019-ncov/tree/master/data/sequences/nextstrain)
+* Created by Nextstrain (trevor@bedford.io)
+* Format: Download formats: Tree (NEWICK), Time tree (NEWICK), Strain metadata (TSV), Author metadata (TSV), Screenshot (SVG)
+* Original source [here](https://nextstrain.org/ncov)
+* Date range: 2019-12 to 2020-02
 
 # Timeline of interventions
 
