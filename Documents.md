@@ -1,6 +1,6 @@
 |Contents|
 | ----- |
-|[Mendeley Library](#Mendeley Library)|
+| [Mendeley Library](#mendeley) |
 | [Report](#report) |
 | - [Outbreak updates](#outbreak) |
 | - [Modelling reports](#model) |
@@ -17,7 +17,7 @@
 | - [Other studies](#other) |
 | - [China CDC Weekly](#chinaCDC)|
 
-# <a id="report"> Mendeley Library 
+# <a id="mendeley"> Mendeley Library 
 All documents listed below have been added to a Mendeley reference library. An XML for the entire library can be found [here](https://github.com/midas-network/2019-ncov/tree/master/Documents/mendeley_library_files), and will be updated weekly. 
 
 # <a id="report"> Reports
