@@ -19,6 +19,8 @@ To contribute to the 2019-nCov repository with GitHub:
      + Click on the green **Pull Request** button.  
      + Owners of the MIDAS nCoV repo will verify and merge your changes to the original repo
 
+*Instructions adapted from Michael Johansson's zika repository:* [![DOI](https://zenodo.org/badge/51947303.svg)](https://zenodo.org/badge/latestdoi/51947303) 
+
 ### Contributing data
 1. Add your collection of files into the corresponding folder in YOUR fork repository
 2. Add a _collection_metadata.csv_ file describing the content of your collection, a template is available [here](https://github.com/midas-network/2019-ncov/blob/master/information_for_contributors/collection_metadata_template_v1.1_8Feb2020.csv).
