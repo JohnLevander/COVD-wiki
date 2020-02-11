@@ -570,5 +570,19 @@
 ## WHO
 ## China
 ## United States
+#### [US CDC Guidance](https://github.com/midas-network/2019-ncov/tree/master/Documents/guidelines/united_states/CDC) ([metadata](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/collection_metadata.csv))
+* 6 January 2020 - [CDC. 2020. Novel Coronavirus in China - Warning - Level 3, Avoid Nonessential Travel](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-01-06_Travel.pdf)
 
+* 17 January 2020 - [CDC. 2020. HAN 00426: Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China.](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-01-17_HAN_00426.pdf)
 
+* 1 February 2020 - [CDC. 2020. HAN 00427: Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV).](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-01_HAN_00427.pdf)
+
+* 2 February 2020 - [CDC. 2020. Evaluating and Reporting Persons Under Investigation (PUI)](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-02_Clinical_Criteria.pdf)
+
+* 2 February 2020 - [CDC. 2020. 2019 Novel Coronavirus Interim Guidelines for Collecting , Handling , and Testing Clinical Specimens from Persons Under Investigation ( PUIs ) for 2019 Novel Coronavirus ( 2019-nCoV )](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-02_Clinical_Specimens.pdf)
+
+* 7 February 2020 - [CDC. 2020. Interim Guidance for Businesses and Employers to Plan and Respond to 2019 Novel Coronavirus ( 2019-nCoV ), February](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-07_Businesses_Employers.pdf)
+
+* 8 February 2020 - [CDC. 2020. Interim US Guidance for Risk Assessment and Public Health Management of Persons with Potential 2019 Novel Coronavirus (2019-nCoV) Exposure in Travel-associated or Community Settings](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-08_Risk_Assessment_PH_Management.pdf)
+
+* 10 February 2020 - [CDC. 2020. 2019 Novel Coronavirus Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with 2019 Novel General Guidelines](https://github.com/midas-network/2019-ncov/blob/master/Documents/guidelines/united_states/CDC/2020-02-10_Biosafety.pdf)
