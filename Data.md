@@ -8,7 +8,7 @@
 
 # <a id="cases"></a> Cases
 ## World Health Organization (WHO)
-### [WHO Novel Coronavirus Disease Outbreak News](https://github.com/midas-network/COVID-19/tree/master/cases/who/disease_outbreak_news)
+### [WHO Novel Coronavirus Disease Outbreak News](https://github.com/midas-network/COVID-19/tree/master/data/cases/who/disease_outbreak_news)
 * Created by World Health Organization
 * Format: HTML saved as PDF
 * Original source [here](https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/)
