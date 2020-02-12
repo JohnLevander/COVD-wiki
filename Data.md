@@ -39,7 +39,7 @@
 * Original source [here](https://github.com/beoutbreakprepared/nCoV2019)
 
 ## Cambodia
-### [Ministry of Health Announcement on New Case of Coronavirus in Preah Sihanouk Province (2019-nCoV)](https://github.com/midas-network/COVID-19/tree/master/data/cases/cambodia/moh_situation_updates) 
+### [Ministry of Health Announcement on New Case of Coronavirus in Preah Sihanouk Province (COVID-19)](https://github.com/midas-network/COVID-19/tree/master/data/cases/cambodia/moh_situation_updates) 
 * Created by Cambodia Ministry of Health
 * Format: PDF narrative
 * Original source [here](http://www.cdcmoh.gov.kh/448-1-2019-ncov)
