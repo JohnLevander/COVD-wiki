@@ -427,6 +427,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 7 February 2020 - [Fang Y, Zhang H, Xu Y, Xie J, Pang P, Ji W. CT Manifestations of Two Cases of 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology. February 2020:200280.](https://doi.org/10.1148/radiol.2020200280)
 
+7 February 2020 - [Kui L, Fang Y-Y, Deng Y, et al. Clinical characteristics of novel coronavirus cases in tertiary hospitals in Hubei Province. Chin Med J (Engl). February 2020.](https://pubmed.ncbi.nlm.nih.gov/32044814/)
+
 7 February 2020 - [Li J, Li J, Xie X, et al. Game consumption and the 2019 novel coronavirus. Lancet Infect Dis. February 2020.](https://doi.org/10.1016/S1473-3099(20)30063-3)
 
 7 February 2020 - [Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Lancet. February 2020.](https://doi.org/10.1016/S0140-6736(20)30317-2)
@@ -446,6 +448,22 @@ All documents listed below have been added to a Mendeley reference library. An X
 10 February 2020 - [Bastola A, Sah R, Rodriguez-Morales AJ, et al. The first 2019 novel coronavirus case in Nepal. Lancet Infect Dis. February 2020.](https://doi.org/10.1016/S1473-3099(20)30067-0)
 
 10 February 2020 - [Li H-Y, Zhu G-J, Zhang Y-Z, et al. A qualitative study of zoonotic risk factors among rural communities in southern China. Int Health. 2020;00:1-9.](https://doi.org/10.1093/inthealth/ihaa001)
+
+11 February 2020 - [Cai G. Tobacco-use disparity in gene expression of ACE2, the receptor of 2019-nCov. medRxiv. February 2020:2020.02.05.20020107.](https://doi.org/10.1101/2020.02.05.20020107)
+
+11 February 2020 - [Yang Y, Lu Q, Liu M, et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. medRxiv. February 2020:2020.02.10.20021675.](https://doi.org/10.1101/2020.02.10.20021675)
+
+12 February 2020 - [Li J, Li S, Cai Y, et al. Epidemiological and Clinical Characteristics of 17 Hospitalized Patients with 2019 Novel Coronavirus Infections Outside Wuhan, China. medRxiv. February 2020:2020.02.11.20022053.](https://doi.org/10.1101/2020.02.11.20022053)
+
+12 February 2020 - [Liu J, Liu Y, Xiang P, et al. Neutrophil-to-Lymphocyte Ratio Predicts Severe Illness Patients with 2019 Novel Coronavirus in the Early Stage. medRxiv. February 2020:2020.02.10.20021584.](https://doi.org/10.1101/2020.02.10.20021584)
+
+12 February 2020 - [Wan S, Yi Q, Fan S, et al. Characteristics of lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized patients with 2019 novel coronavirus pneumonia (NCP). medRxiv. February 2020:2020.02.10.20021832.](https://doi.org/10.1101/2020.02.10.20021832)
+
+12 February 2020 - [Yang Y, Yang M, Shen C, et al. Laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections. medRxiv. February 2020:2020.02.11.20021493.](https://doi.org/10.1101/2020.02.11.20021493)
+
+12 February 2020 - [Zhang R, Liu H, Li F, et al. Transmission and epidemiological characteristics of Novel Coronavirus (2019-nCoV) Pneumonia (NCP): preliminary evidence obtained in comparison with 2003-SARS. medRxiv. February 2020:2020.01.30.20019836.](https://doi.org/10.1101/2020.01.30.20019836)
+
+12 February 2020 - [Zhou Y, Zeng Y, Tong Y, Chen C. Ophthalmologic evidence against the interpersonal transmission of 2019 novel coronavirus through conjunctiva. medRxiv. February 2020:2020.02.11.20021956.](https://doi.org/10.1101/2020.02.11.20021956)
 
 ## <a id="microbiological"></a> Microbiological and Immunological studies
 22 January 2020 - [Dong N, Yang X, Ye L, et al. Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China. bioRxiv. 2020:2020.01.20.913368.](https://doi.org/10.1101/2020.01.20.913368)
