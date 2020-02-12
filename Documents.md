@@ -206,6 +206,18 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 7 February 2020 - [Gilbert M, Pullano G, Pinotti F, et al. Preparedness and vulnerability of African countries against introductions of 2019-nCoV. medRxiv. 2020:2020.02.05.20020792.](https://doi.org/10.1101/2020.02.05.20020792)
 
+11 February 2020 - [Chinazzi M, Davis JT, Ajelli M, et al. The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-nCoV) outbreak. medRxiv. February 2020:2020.02.09.20021261.](https://doi.org/10.1101/2020.02.09.20021261)
+
+11 February 2020 - [Hellewell J, Abbott S, Gimma A, et al. Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts. medRxiv. February 2020:2020.02.08.20021162.](https://doi.org/10.1101/2020.02.08.20021162)
+
+11 February 2020 - [Nishiura H, Kobayashi T, Miyama T, et al. Estimation of the asymptomatic ratio of novel coronavirus (2019-nCoV) infections among passengers on evacuation flights. medRxiv. February 2020:2020.02.03.20020248.](https://doi.org/10.1101/2020.02.03.20020248)
+
+11 February 2020 - [Xiong H, Yan H. Simulating the infected population and spread trend of 2019-nCov under different policy by EIR model. medRxiv. February 2020:2020.02.10.20021519.](https://doi.org/10.1101/2020.02.10.20021519)
+
+11 February 2020 - [Zhu X, Zhang A, Xu S, et al. Spatially Explicit Modeling of 2019-nCoV Epidemic Trend based on Mobile Phone Data in Mainland China. medRxiv. February 2020:2020.02.09.20021360.](https://doi.org/10.1101/2020.02.09.20021360)
+
+12 February 2020 - [Chen Z, Zhang Q, Lu Y, et al. Distribution of the 2019-nCoV Epidemic and Correlation with Population Emigration from Wuhan, China. medRxiv. February 2020:2020.02.10.20021824.](https://doi.org/10.1101/2020.02.10.20021824)
+
 ## <a id="scenario"></a> Scenario Projections & Forecasting
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
 
