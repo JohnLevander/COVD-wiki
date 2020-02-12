@@ -269,6 +269,20 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 9 February 2020 - [Zhao Q, Chen Y, Small DS. Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases. medRxiv. January 2020:2020.02.06.20020941.](https://doi.org/10.1101/2020.02.06.20020941)
 
+11 February 2020 - [Labadin J, Hong BH. Transmission Dynamics of 2019-nCoV in Malaysia. medRxiv. February 2020:2020.02.07.20021188.](https://doi.org/10.1101/2020.02.07.20021188)
+
+11 February 2020 - [Liu Q, Li D, Liu Z, et al. EPIDEMIC TRENDS ANALYSIS AND RISK ESTIMATION OF 2019-NCOV OUTBREAK. medRxiv. February 2020:2020.02.09.20021444.](https://doi.org/10.1101/2020.02.09.20021444)
+
+11 February 2020 - [Zhao X, Liu X, Li X. Tracking the spread of novel coronavirus (2019-nCoV) based on big data. medRxiv. February 2020:2020.02.07.20021196.](https://doi.org/10.1101/2020.02.07.20021196)
+
+11 February 2020 - [Zhu X, Zhang A, Xu S, et al. Spatially Explicit Modeling of 2019-nCoV Epidemic Trend based on Mobile Phone Data in Mainland China. medRxiv. February 2020:2020.02.09.20021360.](https://doi.org/10.1101/2020.02.09.20021360)
+
+12 February 2020 - [Wu H, Huang J, Zhang CJ, He Z, Ming W. Facemask shortage and the novel coronavirus (2019-nCoV) outbreak: Reflection on public health measures. medRxiv. February 2020:2020.02.11.20020735.](https://doi.org/10.1101/2020.02.11.20020735)
+
+12 February 2020 - [Xiong H, Yan H. Simulating the infected population and spread trend of 2019-nCov under different policy by EIR model. medRxiv. February 2020:2020.02.10.20021519.](https://doi.org/10.1101/2020.02.10.20021519)
+
+12 February 2020 - [Zhou H, Yang J, Tang K, et al. Healthcare-resource-adjusted vulnerabilities towards the 2019-nCoV epidemic across China. medRxiv. February 2020:2020.02.11.20022111.](https://doi.org/10.1101/2020.02.11.20022111)
+
 ## <a id="impact"></a> Impact of Interventions
 18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
 
