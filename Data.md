@@ -21,7 +21,7 @@
 * Date range: 2020-01-21 to 2020-02-08
 
 ## Global
-### [nCoV line listings from DXY.cn maintained by NIH Fogarty](https://github.com/midas-network/COVID-19/tree/master/cases/global/line_listings_nihfogarty)
+### [nCoV line listings from DXY.cn maintained by NIH Fogarty](https://github.com/midas-network/COVID-19/tree/master/data/cases/global/line_listings_nihfogarty)
 * Created by Kaiyuan Sun (contact.sunky@gmail.com)
 * Format: Google Sheet
 * Original source [here](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451)
