@@ -373,6 +373,12 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 9 February 2020 - [Randhawa GS, Soltysiak MPM, El Roz H, de Souza CPE, Hill KA, Kari L. Machine learning-based analysis of genomes suggests associations between Wuhan 2019-nCoV and bat Betacoronaviruses. bioRxiv. 2020:2020.02.03.932350.](https://doi.org/10.1101/2020.02.03.932350)
 
+11 February 2020 - [Flynn J, Purushotham D, Choudhary MN, et al. Exploring the coronavirus epidemic using the new WashU Virus Genome Browser. bioRxiv. February 2020:2020.02.07.939124.](https://doi.org/10.1101/2020.02.07.939124)
+
+11 February 2020 - [Gorbalenya AE, Baker SC, Baric RS, et al. Severe acute respiratory syndrome-related coronavirus – The species and its viruses, a statement of the Coronavirus Study Group. bioRxiv. January 2020:2020.02.07.937862.](https://doi.org/10.1101/2020.02.07.937862)
+
+11 February 2020 - [Luczak-Roesch M. Networks of information token recurrences derived from genomic sequences may reveal hidden patterns in epidemic outbreaks: A case study of the 2019-nCoV coronavirus. medRxiv. February 2020:2020.02.07.20021139.](https://doi.org/10.1101/2020.02.07.20021139)
+
 ## <a id="clinical"></a> Clinical and Community Trials
 30 January 2020 - [Pillaiyar T, Meenakshisundaram S, Manickam M. Recent discovery and development of inhibitors targeting coronaviruses. Drug Discov Today. January 2020:S1359-6446(20)30041-6.](https://doi.org/10.1016/j.drudis.2020.01.015)
 
