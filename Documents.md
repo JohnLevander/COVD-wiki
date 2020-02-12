@@ -292,9 +292,9 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 11 February 2020 - [Chinazzi M, Davis JT, Ajelli M, et al. The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-nCoV) outbreak. medRxiv. February 2020:2020.02.09.20021261.](https://doi.org/10.1101/2020.02.09.20021261)
 
-11 February 2020 - [Tian H, Li Y, Liu Y, et al. Early evaluation of Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. February 2020:2020.01.30.20019844.](https://doi.org/10.1101/2020.01.30.20019844)
-
 11 February 2020 - [Li X, Zhao X, Sun Y. The lockdown of Hubei Province causing different transmission dynamics of the novel coronavirus (2019-nCoV) in Wuhan and Beijing. medRxiv. February 2020:2020.02.09.20021477.](https://doi.org/10.1101/2020.02.09.20021477)
+
+11 February 2020 - [Tian H, Li Y, Liu Y, et al. Early evaluation of Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. February 2020:2020.01.30.20019844.](https://doi.org/10.1101/2020.01.30.20019844)
 
 12 February 2020 - [Chen Z, Zhang Q, Lu Y, et al. Distribution of the 2019-nCoV Epidemic and Correlation with Population Emigration from Wuhan, China. medRxiv. February 2020:2020.02.10.20021824.](https://doi.org/10.1101/2020.02.10.20021824)
 
@@ -523,6 +523,28 @@ All documents listed below have been added to a Mendeley reference library. An X
 10 February 2020 - [Ahmed SF, Quadeer AA, McKay MR. Preliminary identification of potential vaccine targets for 2019-nCoV based on SARS-CoV immunological studies. bioRxiv. 2020:2020.02.03.933226.](https://doi.org/10.1101/2020.02.03.933226)
 
 10 February - [Zhang L, Lin D, Kusov Y, et al. Alpha-ketoamides as broad-spectrum inhibitors of coronavirus and enterovirus replication. bioRxiv. January 2020:2020.02.10.936898.](https://doi.org/10.1101/2020.02.10.936898)
+
+11 February 2020 - [Abdelmageed MI, Abdelmoneim AH, Mustafa MI, et al. Design of multi epitope-based peptide vaccine against E protein of human 2019-nCoV: An immunoinformatics approach. bioRxiv. February 2020:2020.02.04.934232.](https://doi.org/10.1101/2020.02.04.934232)
+
+11 February 2020 - [Bao L, Deng W, Huang B, et al. The Pathogenicity of 2019 Novel Coronavirus in hACE2 Transgenic Mice. bioRxiv. February 2020:2020.02.07.939389.](https://doi.org/10.1101/2020.02.07.939389)
+
+11 February 2020 - [Cai G. Tobacco-use disparity in gene expression of ACE2, the receptor of 2019-nCov. medRxiv. February 2020:2020.02.05.20020107.](https://doi.org/10.1101/2020.02.05.20020107)
+
+11 February 2020 - [Liang W, Rao S, Xiao C, Lin Z, Zhang Q, Qi W. Diarrhea may be underestimated: a missing link in 2019 novel coronavirus. medRxiv. February 2020:2020.02.03.20020289.](https://doi.org/10.1101/2020.02.03.20020289)
+
+11 February 2020 - [Sarkar B, Ullah MA, Johora FT, Taniya MA, Araf Y. The Essential Facts of Wuhan Novel Coronavirus Outbreak in China and Epitope-based Vaccine Designing against 2019-nCoV. bioRxiv. February 2020:2020.02.05.935072.](https://doi.org/10.1101/2020.02.05.935072)
+
+11 February 2020 - [Zhang L, Lin D, Kusov Y, et al. Alpha-ketoamides as broad-spectrum inhibitors of coronavirus and enterovirus replication Structure-based design, synthesis, and activity assessment. J Med Chem. February 2020:acs.jmedchem.9b01828.](https://doi.org/10.1021/acs.jmedchem.9b01828)
+
+12 February 2020 - [Liu J, Liu Y, Xiang P, et al. Neutrophil-to-Lymphocyte Ratio Predicts Severe Illness Patients with 2019 Novel Coronavirus in the Early Stage. medRxiv. February 2020:2020.02.10.20021584.](https://doi.org/10.1101/2020.02.10.20021584)
+
+12 February 2020 - [Meng T, Cao H, Zhang H, et al. The transmembrane serine protease inhibitors are potential antiviral drugs for 2019-nCoV targeting the insertion sequence-induced viral infectivity enhancement. bioRxiv. February 2020:2020.02.08.926006.](https://doi.org/10.1101/2020.02.08.926006)
+
+12 February 2020 - [Wan S, Yi Q, Fan S, et al. Characteristics of lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized patients with 2019 novel coronavirus pneumonia (NCP). medRxiv. February 2020:2020.02.10.20021832.](https://doi.org/10.1101/2020.02.10.20021832)
+
+12 February 2020 - [Yang Y, Yang M, Shen C, et al. Laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections. medRxiv. February 2020:2020.02.11.20021493.](https://doi.org/10.1101/2020.02.11.20021493)
+
+12 February 2020 - [Zhou Y, Zeng Y, Tong Y, Chen C. Ophthalmologic evidence against the interpersonal transmission of 2019 novel coronavirus through conjunctiva. medRxiv. February 2020:2020.02.11.20021956.](https://doi.org/10.1101/2020.02.11.20021956)
 
 ## <a id="therapeutics"></a> Potential Therapeutics
 28 January 2020 - [Xu Z, Peng C, Shi Y, et al. Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation. bioRxiv. 2020:2020.01.27.921627.](https://doi.org/10.1101/2020.01.27.921627)
