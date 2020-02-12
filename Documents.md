@@ -593,6 +593,10 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 10 February - [Zhang L, Lin D, Kusov Y, et al. Alpha-ketoamides as broad-spectrum inhibitors of coronavirus and enterovirus replication. bioRxiv. January 2020:2020.02.10.936898.](https://doi.org/10.1101/2020.02.10.936898)
 
+11 February 2020 - [Abdelmageed MI, Abdelmoneim AH, Mustafa MI, et al. Design of multi epitope-based peptide vaccine against E protein of human 2019-nCoV: An immunoinformatics approach. bioRxiv. February 2020:2020.02.04.934232.](https://doi.org/10.1101/2020.02.04.934232)
+
+11 February 2020 - [Sarkar B, Ullah MA, Johora FT, Taniya MA, Araf Y. The Essential Facts of Wuhan Novel Coronavirus Outbreak in China and Epitope-based Vaccine Designing against 2019-nCoV. bioRxiv. February 2020:2020.02.05.935072.](https://doi.org/10.1101/2020.02.05.935072)
+
 ## <a id="other"></a> Other studies
 14 January 2020 - [Hui DS, I Azhar E, Madani TA, et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China. Int J Infect Dis. 2020;91:264-266.](https://doi.org/10.1016/j.ijid.2020.01.009)
 
