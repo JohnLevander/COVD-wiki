@@ -672,6 +672,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 9 February 2020 - [Zhang MC, Xie HT, Xu KK, Cao Y. _Suggestions for disinfection of ophthalmic examination equipment and protection  of ophthalmologist against 2019 novel coronavirus infection_. Zhonghua Yan Ke Za Zhi. 2020;56(0):E001.](https://doi.org/10.3760/cma.j.issn.0412-4081.2020.0001)
 
+11 February 2020 - [Swerdlow DL, Finelli L. Preparation for Possible Sustained Transmission of 2019 Novel Coronavirus. JAMA. February 2020.](https://doi.org/10.1001/jama.2020.1960)
+
 ## <a id="chinaCDC"></a> China CDC Weekly
 24 January 2020 - [Tan W, Zhao X, Ma X, Wang W, Niu P, Xu W. Notes from the Field A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases — Wuhan , China 2019 − 2020. China CDC Wkly. 2020;1(3):2-3.](http://weekly.chinacdc.cn/en/article/id/a3907201-f64f-4154-a19e-4253b453d10c)
 
