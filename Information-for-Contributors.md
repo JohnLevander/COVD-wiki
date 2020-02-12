@@ -8,7 +8,7 @@
 | [Collaboration platforms](#platform) |
 
 # Contributing to this GitHub Repository
-In case of any questions, email questions@midasnetwork.us or submit and [issue](https://github.com/midas-network/COVID-19/issues). 
+Contributions can be made by submitting information to the MIDAS Coordination Center, which will then upload the information to the repository, or by making changes to your forked repository and submitting a pull request. Submitting information to the MIDAS Coordination Center can be done by creating an [issue](https://github.com/midas-network/COVID-19/issues)in this repository or by email to questions@midasnetwork.us. 
 
 ## <a id="create"></a>Create GitHub account and fork this repository
 1. Create a GitHub account and log in through https://github.com
