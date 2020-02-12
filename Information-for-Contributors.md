@@ -27,7 +27,7 @@ To contribute to the COVID-19 repository with GitHub:
      + This request will be reviewed and merged by owner.  
      + Note: All changes must be made from YOUR repo fork.  
      + Click on the green **Pull Request** button.  
-     + Owners of the MIDAS nCoV repo will verify and merge your changes to the original repo
+     + Owners of the MIDAS COVID-19 repo will verify and merge your changes to the original repo
 
 *Instructions adapted from Michael Johansson's zika repository:* [![DOI](https://zenodo.org/badge/51947303.svg)](https://zenodo.org/badge/latestdoi/51947303) 
 
