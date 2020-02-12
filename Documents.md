@@ -23,11 +23,11 @@ All documents listed below have been added to a Mendeley reference library. An X
 # <a id="report"> Reports
 ## <a id="outbreak"></a> Outbreak updates
 ### Global
-#### [WHO Disease Outbreak News](https://github.com/midas-network/COVID-19/tree/master/cases/who/disease_outbreak_news) ([metadata](https://github.com/midas-network/COVID-19/blob/master/cases/who/disease_outbreak_news/collection_metadata.csv))
-* 14 January, 2020 - [World Health Organization (WHO). (2020). Novel Coronavirus – Thailand (ex-China). Geneva.](https://github.com/midas-network/COVID-19/blob/master/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Thailand%20(ex-China)_20200114.pdf)
-* 16 January, 2020 - [World Health Organization (WHO). (2020). Emergencies preparedness, response Novel Coronavirus – China. Geneva.](https://github.com/midas-network/COVID-19/blob/master/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Japan%20(ex-China)_20200116.pdf)
-* 17 January, 2020 - [World Health Organization (WHO). (2020). Emergencies preparedness, response Novel Coronavirus – China. Geneva.](https://github.com/midas-network/COVID-19/blob/master/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Japan%20(ex-China)_20200117.pdf)
-* 21 January, 2020 - [World Health Organization (WHO). (2020). Emergencies preparedness, response Novel Coronavirus – China. Geneva.](https://github.com/midas-network/COVID-19/blob/master/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Republic%20of%20Korea%20(ex-China)_20200121.pdf)
+#### [WHO Disease Outbreak News](https://github.com/midas-network/COVID-19/tree/master/data/cases/who/disease_outbreak_news) ([metadata](https://github.com/midas-network/COVID-19/blob/master/data/cases/who/disease_outbreak_news/collection_metadata.csv))
+* 14 January, 2020 - [World Health Organization (WHO). (2020). Novel Coronavirus – Thailand (ex-China). Geneva.](https://github.com/midas-network/COVID-19/blob/master/data/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Thailand%20(ex-China)_20200114.pdf)
+* 16 January, 2020 - [World Health Organization (WHO). (2020). Emergencies preparedness, response Novel Coronavirus – China. Geneva.](https://github.com/midas-network/COVID-19/blob/master/data/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Japan%20(ex-China)_20200116.pdf)
+* 17 January, 2020 - [World Health Organization (WHO). (2020). Emergencies preparedness, response Novel Coronavirus – China. Geneva.](https://github.com/midas-network/COVID-19/blob/master/data/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Japan%20(ex-China)_20200117.pdf)
+* 21 January, 2020 - [World Health Organization (WHO). (2020). Emergencies preparedness, response Novel Coronavirus – China. Geneva.](https://github.com/midas-network/COVID-19/blob/master/data/cases/who/disease_outbreak_news/WHO%20_%20Novel%20Coronavirus%20%E2%80%93%20Republic%20of%20Korea%20(ex-China)_20200121.pdf)
 
 #### [nCoV-2019 Situation Reports from Johns Hopkins University Center for Health Security](https://github.com/midas-network/COVID-19/tree/master/Documents/Reports/outbreak_reports/global/sitreps_JHU_CHS) ([metadata](https://github.com/midas-network/COVID-19/blob/master/Documents/Reports/outbreak_reports/global/sitreps_JHU_CHS/collection_metadata.csv))
 * 22 January 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-01-22 report.](https://github.com/midas-network/COVID-19/blob/master/Documents/Reports/outbreak_reports/global/sitreps_JHU_CHS/2020-01-22_pm_2019-nCoV.pdf)
@@ -146,6 +146,22 @@ All documents listed below have been added to a Mendeley reference library. An X
 9 February 2020 - [Zhao Q, Chen Y, Small DS. Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases. medRxiv. January 2020:2020.02.06.20020941.](https://doi.org/10.1101/2020.02.06.20020941)
 
 10 February 2020- [Hébert-Dufresne L, Althouse BM, Scarpino S V, Allard A. Beyond $R_0$: the importance of contact tracing when predicting epidemics. February 2020. http://arxiv.org/abs/2002.04004.](http://arxiv.org/abs/2002.04004)
+
+11 February 2020 - [Bao L, Deng W, Huang B, et al. The Pathogenicity of 2019 Novel Coronavirus in hACE2 Transgenic Mice. bioRxiv. February 2020:2020.02.07.939389.](https://doi.org/10.1101/2020.02.07.939389)
+
+11 February 2020 - [Blumberg S, Lietman TM, Porco TC. Assessing the plausibility of subcritical transmission of 2019-nCoV in the United States. medRxiv. February 2020:2020.02.08.20021311.](https://doi.org/10.1101/2020.02.08.20021311)
+
+11 February 2020 - [Chinazzi M, Davis JT, Ajelli M, et al. The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-nCoV) outbreak. medRxiv. February 2020:2020.02.09.20021261.](https://doi.org/10.1101/2020.02.09.20021261)
+
+11 February 2020 - [Liu Q, Li D, Liu Z, et al. EPIDEMIC TRENDS ANALYSIS AND RISK ESTIMATION OF 2019-NCOV OUTBREAK. medRxiv. February 2020:2020.02.09.20021444.](https://doi.org/10.1101/2020.02.09.20021444)
+
+11 February 2020 - [Nishiura H, Kobayashi T, Miyama T, et al. Estimation of the asymptomatic ratio of novel coronavirus (2019-nCoV) infections among passengers on evacuation flights. medRxiv. February 2020:2020.02.03.20020248.](https://doi.org/10.1101/2020.02.03.20020248)
+
+11 February 2020 - [Sanche S, Lin YT, Xu C, Romero-Severson E, Hengartner N, Ke R. The Novel Coronavirus, 2019-nCoV, is Highly Contagious and More Infectious Than Initially Estimated. medRxiv. February 2020:2020.02.07.20021154.](https://doi.org/10.1101/2020.02.07.20021154)
+
+11 February 2020 - [Yang Y, Lu Q, Liu M, et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. medRxiv. February 2020:2020.02.10.20021675.](https://doi.org/10.1101/2020.02.10.20021675)
+
+11 February 2020 - [You C, Deng Y, Hu W, et al. Estimation of the Time-Varying Reproduction Number of 2019-nCoV Outbreak in China. medRxiv. February 2020:2020.02.08.20021253.](https://doi.org/10.1101/2020.02.08.20021253)
 
 ## <a id="spread"></a> Spread and Possibility of Containment
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
