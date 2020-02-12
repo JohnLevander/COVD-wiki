@@ -290,6 +290,14 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 7 February 2020 - [Muniz-Rodriguez K, Chowell G, Cheung C-H, et al. Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland China. medRxiv. 2020:2020.02.05.20020750.](https://doi.org/10.1101/2020.02.05.20020750)
 
+11 February 2020 - [Chinazzi M, Davis JT, Ajelli M, et al. The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-nCoV) outbreak. medRxiv. February 2020:2020.02.09.20021261.](https://doi.org/10.1101/2020.02.09.20021261)
+
+11 February 2020 - [Tian H, Li Y, Liu Y, et al. Early evaluation of Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. February 2020:2020.01.30.20019844.](https://doi.org/10.1101/2020.01.30.20019844)
+
+11 February 2020 - [Li X, Zhao X, Sun Y. The lockdown of Hubei Province causing different transmission dynamics of the novel coronavirus (2019-nCoV) in Wuhan and Beijing. medRxiv. February 2020:2020.02.09.20021477.](https://doi.org/10.1101/2020.02.09.20021477)
+
+12 February 2020 - [Chen Z, Zhang Q, Lu Y, et al. Distribution of the 2019-nCoV Epidemic and Correlation with Population Emigration from Wuhan, China. medRxiv. February 2020:2020.02.10.20021824.](https://doi.org/10.1101/2020.02.10.20021824)
+
 ## <a id="virus"></a> Virus Evolution
 21 January 2020 - [Xu X, Chen P, Wang J, et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci. January 2020:10.1007/s11427-020-1637-5.](https://doi.org/10.1007/s11427-020-1637-5)
 
