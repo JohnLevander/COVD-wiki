@@ -65,7 +65,7 @@
 * Original source [here](http://2019ncov.chinacdc.cn/2019-nCoV/)
 * Date range: 2020-01-10 to 2020-02-09
 
-### [Distribution of new coronavirus pneumonia in Chinese](https://github.com/midas-network/COVID-19tree/master/data/cases/china/daily_cases_chinacdc_ZH)
+### [Distribution of new coronavirus pneumonia in Chinese](https://github.com/midas-network/COVID-19/tree/master/data/cases/china/daily_cases_chinacdc_ZH)
 * Created by China Centers for Disease Control
 * Format: csv
 * Original source [here](http://2019ncov.chinacdc.cn/2019-nCoV/)
