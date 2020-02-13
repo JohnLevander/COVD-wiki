@@ -101,7 +101,7 @@
 ### [Novel Coronavirus 2019 Pneumonia Situation in Thai](https://github.com/midas-network/COVID-19/tree/master/data/cases/thailand/moh_situation_updates_TH)
 * Created by Emergency Operation Center, Department of Disease Control
 * Format: PDF narrative and tables
-* Original source [here](https://ddc.moph.go.th/viralpneumonia/eng/situation.php)
+* Original source [here](https://ddc.moph.go.th/viralpneumonia/situation.php)
 * Date range: 2020-01-10 to 2020-02-10
 
 # <a id="Genomic"></a> Genomic data
