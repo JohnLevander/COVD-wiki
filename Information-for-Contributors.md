@@ -33,8 +33,8 @@ To contribute to the COVID-19 repository with GitHub:
 
 ### <a id="data"></a>Contributing data
 1. Add your collection of files into the corresponding folder in YOUR fork repository
-2. Add a _collection_metadata.csv_ file describing the content of your collection, a template is available [here](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/collection_metadata_template_v1.1_8Feb2020.csv).
-3. Add a _date_guide.csv_ file, if necessary, describing the variables used in your data-set, a template is available [here](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/collection_metadata_template_v1.1_8Feb2020.csv).
+2. Add a _collection_metadata.csv_ file describing the content of your collection, a template is available [here](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/collection_metadata_template_v1.2_11Feb2020.csv).
+3. Add a _date_guide.csv_ file, if necessary, describing the variables used in your data-set, a template is available [here](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/data_guide_template_v1_4Feb2020.csv).
 4. Create a pull-request to update your collection into the repository, a MIDAS staff member will review it before adding it to the repository. 
 
 ### <a id="parameter"></a>Contributing parameter estimates
