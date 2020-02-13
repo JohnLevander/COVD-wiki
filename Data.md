@@ -82,7 +82,7 @@
 ### [Confirmed patient movement route](https://github.com/midas-network/COVID-19/tree/master/data/cases/south%20korea/confirmed_cases_movement)
 * Created by Korean Centers for Disease Control
 * Format: Webpage saved as PDF in Korean and Google Translated English
-* Original source [here](http://ncov.mohw.go.kr/bdBoardList.dobrdId=1&brdGubun=12&dataGubun=&ncvContSeq=&contSeq=&board_id=)
+* Original source [here](http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12)
 * Date range: 2020-01-19 to 2020-02-02
 
 ### [Press releases about nCoV](https://github.com/midas-network/COVID-19/tree/master/data/cases/south%20korea/kcdc_press_releases_en)
