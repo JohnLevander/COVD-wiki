@@ -88,14 +88,14 @@
 * Created by Hong Kong Center for Health Protection
 * Format: PDF
 * Original source [here](https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf)
-* Date range: 2020-01-23 to 2020-02-07
+* Date range: 2020-01-23 to 2020-02-13
 
 ## South Korea
 ### [Confirmed patient movement route](https://github.com/midas-network/COVID-19/tree/master/data/cases/south%20korea/confirmed_cases_movement)
 * Created by Korean Centers for Disease Control
 * Format: Webpage saved as PDF in Korean and Google Translated English
 * Original source [here](http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12)
-* Date range: 2020-01-19 to 2020-02-02
+* Date range: 2020-01-19 to 2020-02-09
 
 ### [Press releases about nCoV](https://github.com/midas-network/COVID-19/tree/master/data/cases/south%20korea/kcdc_press_releases_en)
 * Created by Korean Centers for Disease Control
@@ -108,13 +108,13 @@
 * Created by Emergency Operation Center, Department of Disease Control
 * Format: PDF narrative and tables
 * Original source [here](https://ddc.moph.go.th/viralpneumonia/eng/situation.php)
-* Date range: 2020-01-14 to 2020-02-07
+* Date range: 2020-01-14 to 2020-02-12
 
 ### [Novel Coronavirus 2019 Pneumonia Situation in Thai](https://github.com/midas-network/COVID-19/tree/master/data/cases/thailand/moh_situation_updates_TH)
 * Created by Emergency Operation Center, Department of Disease Control
 * Format: PDF narrative and tables
 * Original source [here](https://ddc.moph.go.th/viralpneumonia/situation.php)
-* Date range: 2020-01-10 to 2020-02-10
+* Date range: 2020-01-10 to 2020-02-12
 
 # <a id="Genomic"></a> Genomic data
 ## Nextstrain
