@@ -18,20 +18,26 @@
 * Created by World Health Organization
 * Format: PDF narrative and tables
 * Original source [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
-* Date range: 2020-01-21 to 2020-02-08
+* Date range: 2020-01-21 to 2020-02-13
 
 ## Global
 ### [nCoV line listings from DXY.cn maintained by NIH Fogarty](https://github.com/midas-network/COVID-19/tree/master/data/cases/global/line_listings_nihfogarty)
 * Created by Kaiyuan Sun (contact.sunky@gmail.com)
 * Format: Google Sheet
 * Original source [here](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451)
-* Date range: 2020-01-13 to 2020-02-09
+* Date range: 2020-01-13 to 2020-02-12
 
 ### [nCoV line listings from various sources maintained by Oxford and others](https://github.com/midas-network/COVID-19/tree/master/data/cases/global/line_listings_oxford)
 * Created by nCoV-2019 Data Working Group
 * Format: Google Sheet
 * Original source [here](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)
-* Date range: 2020-01-12 to 2020-02-09
+* Date range: 2020-01-12 to 2020-02-07
+
+### [Line listings of International Cases](https://github.com/midas-network/COVID-19/blob/master/data/cases/global/line_listings_imperial_college/collection_metadata.csv)
+* Created by Neil Ferguson, Imperial College London
+* Format: csv
+* Original source [here](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)
+* Date range: 2020-01-14 to 2020-02-08
 
 ### [Github repository with nCoV line listings from various sources and data processing code maintained by Oxford and others](https://github.com/midas-network/COVID-19/tree/master/data/cases/global/line_listings_oxford_github) 
 * Created by David Pigott via beoutbreakprepared Github repository
@@ -50,26 +56,32 @@
 * Created by Ontario Ministry of Health
 * Format: PDF for viewing
 * Original source [here](https://www.ontario.ca/page/2019-novel-coronavirus-2019-ncov#section-0)
-* Date range: 2020-02-07 to 2020-02-10
+* Date range: 2020-02-07 to 2020-02-13
 
 ## China
 ### [Number of cumulative cases by Chinese prefecture from DXY.cn](https://github.com/midas-network/COVID-19/tree/master/data/cases/china/cumulative_cases_DXY)
 * Created by DXY.cn
 * Format: csv
 * Original source [here](https://ncov.dxy.cn/ncovh5/view/pneumonia)
-* Date range: 2020-02-07 to 2020-02-10
+* Date range: 2020-02-07 to 2020-02-13
 
 ### [Distribution of new coronavirus pneumonia in English](https://github.com/midas-network/COVID-19/tree/master/data/cases/china/daily_cases_chinacdc_EN)
 * Created by China Centers for Disease Control
 * Format: csv
 * Original source [here](http://2019ncov.chinacdc.cn/2019-nCoV/)
-* Date range: 2020-01-10 to 2020-02-09
+* Date range: 2020-01-10 to 2020-02-03
 
 ### [Distribution of new coronavirus pneumonia in Chinese](https://github.com/midas-network/COVID-19/tree/master/data/cases/china/daily_cases_chinacdc_ZH)
 * Created by China Centers for Disease Control
 * Format: csv
 * Original source [here](http://2019ncov.chinacdc.cn/2019-nCoV/)
-* Date range: 2020-01-10 to 2020-02-09
+* Date range: 2020-01-10 to 2020-02-13
+
+### [Hubei early death](https://github.com/midas-network/COVID-19/tree/master/data/cases/china/death_count_imperial_college)
+* Created by Neil Ferguson, Imperial College London
+* Format: csv
+* Original source [here](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)
+* Date range: 2020-01-09 to 2020-01-24
 
 ## Hong Kong
 ### [Latest local situation of Severe Respiratory Disease associated with a Novel Infectious Agent](https://github.com/midas-network/COVID-19/tree/master/data/cases/hong%20kong/doh_situation_updates)
