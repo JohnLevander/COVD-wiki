@@ -97,8 +97,6 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 24 January 2020 - [Riou J, Althaus CL. Pattern of early human-to-human transmission of Wuhan 2019-nCoV. bioRxiv. 2020:2020.01.23.917351.](https://doi.org/10.1101/2020.01.23.917351)
 
-25 January 2020 - [Thompson RN. 2019-20 Wuhan coronavirus outbreak: Intense surveillance is vital for preventing sustained transmission in new locations. bioRxiv. 2020:2020.01.24.919159.](https://doi.org/10.1101/2020.01.24.919159)
-
 28 January 2020 - [Linton NM, Kobayashi T, Yang Y, et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. 2020:2020.01.26.20018754.](https://doi.org/10.1101/2020.01.26.20018754)
 
 28 January 2020 - [Read JM, Bridgen JRE, Cummings DAT, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020:2020.01.23.20018549.](https://doi.org/10.1101/2020.01.23.20018549)
@@ -163,11 +161,27 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 11 February 2020 - [Sanche S, Lin YT, Xu C, Romero-Severson E, Hengartner N, Ke R. The Novel Coronavirus, 2019-nCoV, is Highly Contagious and More Infectious Than Initially Estimated. medRxiv. February 2020:2020.02.07.20021154.](https://doi.org/10.1101/2020.02.07.20021154)
 
+11 February 2020 - Thompson RN. Novel Coronavirus Outbreak in Wuhan, China, 2020: Intense Surveillance Is Vital for Preventing Sustained Transmission in New Locations. J Clin Med. 2020;9(2):498. 
+- [bioRxiv](http://doi.org/10.1101/2020.01.24.919159)
+- [Journal of Clinical Medicine](https://doi.org/10.3390/jcm9020498)
+
 11 February 2020 - [Yang Y, Lu Q, Liu M, et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. medRxiv. February 2020:2020.02.10.20021675.](https://doi.org/10.1101/2020.02.10.20021675)
 
 11 February 2020 - [You C, Deng Y, Hu W, et al. Estimation of the Time-Varying Reproduction Number of 2019-nCoV Outbreak in China. medRxiv. February 2020:2020.02.08.20021253.](https://doi.org/10.1101/2020.02.08.20021253)
 
+13 February 2020 - [Lin Q, Hu T, Zhou X-H. Estimating the daily trend in the size of COVID-19 infected population in Wuhan. medRxiv. February 2020:2020.02.12.20022277.](https://doi.org/10.1101/2020.02.12.20022277)
+
 13 February 2020 - [Liu T, Hu J, Kang M, et al. Time-varying transmission dynamics of Novel Coronavirus Pneumonia in China. bioRxiv. February 2020:2020.01.25.919787.](https://doi.org/:10.1101/2020.01.25.919787)
+
+13 February 2020 - [Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J. The reproductive number of COVID-19 is higher compared to SARS coronavirus. J Travel Med. February 2020.](https://doi.org/10.1093/jtm/taaa021)
+
+13 February 2020 - [Mizumoto K, Kagaya K, Chowell G. Early epidemiological assessment of the transmission potential and virulence of 2019 Novel Coronavirus in Wuhan City: China, 2019-2020. medRxiv. February 2020:2020.02.12.20022434.](https://doi.org/10.1101/2020.02.12.20022434)
+
+13 February 2020 - [Nesteruk I. Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China. medRxiv. February 2020:2020.02.12.20021931.](https://doi.org/10.1101/2020.02.12.20021931)
+
+13 February 2020 - [Nishiura H, Linton NM, Akhmetzhanov AR. Serial interval of novel coronavirus (2019-nCoV) infections. medRxiv. February 2020:2020.02.03.20019497.](https://doi.org/10.1101/2020.02.03.20019497)
+
+13 February 2020 - [Zhao H, Man S, Wang B, Ning Y. Epidemic size of novel coronavirus-infected pneumonia in the Epicenter Wuhan: using data of five-countries’ evacuation action. medRxiv. February 2020:2020.02.12.20022285.](https://doi.org/10.1101/2020.02.12.20022285)
 
 ## <a id="spread"></a> Spread and Possibility of Containment
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
@@ -177,8 +191,6 @@ All documents listed below have been added to a Mendeley reference library. An X
 20 January 2020 - [Zhao S, Zhuang Z, Ran J, et al. The association between domestic train transportation and novel coronavirus (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational report. Travel Med Infect Dis. January 2020:101568.](https://doi.org/10.1016/j.tmaid.2020.101568)
 
 25 January 2020 - [Shen M, Peng Z, Xiao Y, Zhang L. Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China. bioRxiv. 2020:2020.01.23.916726.](https://doi.org/10.1101/2020.01.23.916726)
-
-25 January 2020 - [Thompson RN. 2019-20 Wuhan coronavirus outbreak: Intense surveillance is vital for preventing sustained transmission in new locations. bioRxiv. 2020:2020.01.24.919159.](https://doi.org/10.1101/2020.01.24.919159)
 
 27 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Potential for global spread of a novel coronavirus from China. J Travel Med. January 2020:taaa011.](https://doi.org/10.1093/jtm/taaa011)
 
@@ -218,11 +230,27 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 11 February 2020 - [Nishiura H, Kobayashi T, Miyama T, et al. Estimation of the asymptomatic ratio of novel coronavirus (2019-nCoV) infections among passengers on evacuation flights. medRxiv. February 2020:2020.02.03.20020248.](https://doi.org/10.1101/2020.02.03.20020248)
 
+11 February 2020 - Thompson RN. Novel Coronavirus Outbreak in Wuhan, China, 2020: Intense Surveillance Is Vital for Preventing Sustained Transmission in New Locations. J Clin Med. 2020;9(2):498. 
+- [bioRxiv](http://doi.org/10.1101/2020.01.24.919159)
+- [Journal of Clinical Medicine](https://doi.org/10.3390/jcm9020498)
+
 11 February 2020 - [Xiong H, Yan H. Simulating the infected population and spread trend of 2019-nCov under different policy by EIR model. medRxiv. February 2020:2020.02.10.20021519.](https://doi.org/10.1101/2020.02.10.20021519)
 
 11 February 2020 - [Zhu X, Zhang A, Xu S, et al. Spatially Explicit Modeling of 2019-nCoV Epidemic Trend based on Mobile Phone Data in Mainland China. medRxiv. February 2020:2020.02.09.20021360.](https://doi.org/10.1101/2020.02.09.20021360)
 
 12 February 2020 - [Chen Z, Zhang Q, Lu Y, et al. Distribution of the 2019-nCoV Epidemic and Correlation with Population Emigration from Wuhan, China. medRxiv. February 2020:2020.02.10.20021824.](https://doi.org/10.1101/2020.02.10.20021824)
+
+12 February 2020 - [Rabajante JF. Insights from early mathematical models of 2019-nCoV acute respiratory disease (COVID-19) dynamics. February 2020. http://arxiv.org/abs/2002.05296.](http://arxiv.org/abs/2002.05296)
+
+13 February 2020 - [Clifford SJ, Klepac P, Zandvoort K Van, et al. Interventions targeting air travellers early in the pandemic may delay local outbreaks of SARS-CoV-2. medRxiv. February 2020:2020.02.12.20022426.](https://doi.org/10.1101/2020.02.12.20022426)
+
+13 February 2020 - [Mizumoto K, Kagaya K, Chowell G. Early epidemiological assessment of the transmission potential and virulence of 2019 Novel Coronavirus in Wuhan City: China, 2019-2020. medRxiv. February 2020:2020.02.12.20022434.](https://doi.org/10.1101/2020.02.12.20022434)
+
+13 February 2020 - [Nesteruk I. Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China. medRxiv. February 2020:2020.02.12.20021931.](https://doi.org/10.1101/2020.02.12.20021931)
+
+13 February 2020 - [Wilder-Smith A, Freedman DO. Isolation, quarantine, social distancing and community containment: pivotal role for old-style public health measures in the novel coronavirus (2019-nCoV) outbreak. J Travel Med. February 2020.](https://doi.org/10.1093/jtm/taaa020)
+
+14 February 2020 - [Du Z, Wang L, Cauchemez S, et al. Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China. Emerg Infect Dis. 2020;26(5).](https://doi.org/10.3201/eid2605.200146)
 
 ## <a id="scenario"></a> Scenario Projections & Forecasting
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
@@ -232,8 +260,6 @@ All documents listed below have been added to a Mendeley reference library. An X
 24 January 2020 - [Nishiura, Jung, Linton, et al. The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020. J Clin Med. 2020;9(2):330.](https://doi.org/10.3390/jcm9020330)
 
 25 January 2020 - [Shen M, Peng Z, Xiao Y, Zhang L. Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China. bioRxiv. 2020:2020.01.23.916726.](https://doi.org/10.1101/2020.01.23.916726)
-
-25 January 2020 - [Thompson RN. 2019-20 Wuhan coronavirus outbreak: Intense surveillance is vital for preventing sustained transmission in new locations. bioRxiv. 2020:2020.01.24.919159.](https://doi.org/10.1101/2020.01.24.919159)
 
 28 January 2020 - [Chen Z, Zhang W, Lu Y, et al. From SARS-CoV to Wuhan 2019-nCoV Outbreak: Similarity of Early Epidemic and Prediction of Future Trends. bioRxiv. 2020:2020.01.24.919241.](https://doi.org/10.1101/2020.01.24.919241)
 
@@ -293,6 +319,10 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 11 February 2020 - [Liu Q, Li D, Liu Z, et al. EPIDEMIC TRENDS ANALYSIS AND RISK ESTIMATION OF 2019-NCOV OUTBREAK. medRxiv. February 2020:2020.02.09.20021444.](https://doi.org/10.1101/2020.02.09.20021444)
 
+11 February 2020 - Thompson RN. Novel Coronavirus Outbreak in Wuhan, China, 2020: Intense Surveillance Is Vital for Preventing Sustained Transmission in New Locations. J Clin Med. 2020;9(2):498. 
+- [bioRxiv](http://doi.org/10.1101/2020.01.24.919159)
+- [Journal of Clinical Medicine](https://doi.org/10.3390/jcm9020498)
+
 11 February 2020 - [Zhao X, Liu X, Li X. Tracking the spread of novel coronavirus (2019-nCoV) based on big data. medRxiv. February 2020:2020.02.07.20021196.](https://doi.org/10.1101/2020.02.07.20021196)
 
 11 February 2020 - [Zhu X, Zhang A, Xu S, et al. Spatially Explicit Modeling of 2019-nCoV Epidemic Trend based on Mobile Phone Data in Mainland China. medRxiv. February 2020:2020.02.09.20021360.](https://doi.org/10.1101/2020.02.09.20021360)
@@ -313,7 +343,11 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 12 February 2020 - [Zhou Y, Dong J. Statistical Inference for Coronavirus Infected Patients in Wuhan. medRxiv. February 2020:2020.02.10.20021774.](https://doi.org/10.1101/2020.02.10.20021774)
 
+13 February 2020 - [Anastassopoulou C, Russo L, Tsakris A, Siettos C. Data-Based Analysis, Modelling and Forecasting of the novel Coronavirus (2019-nCoV) outbreak. medRxiv. February 2020:2020.02.11.20022186.](https://doi.org/10.1101/2020.02.11.20022186)
+
 13 February 2020 - [Liu T, Hu J, Kang M, et al. Time-varying transmission dynamics of Novel Coronavirus Pneumonia in China. bioRxiv. February 2020:2020.01.25.919787.](https://doi.org/:10.1101/2020.01.25.919787)
+
+13 February 2020 - [Nesteruk I. Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China. medRxiv. February 2020:2020.02.12.20021931.](https://doi.org/10.1101/2020.02.12.20021931)
 
 ## <a id="impact"></a> Impact of Interventions
 18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
@@ -345,6 +379,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 12 February 2020 - [Chen Z, Zhang Q, Lu Y, et al. Distribution of the 2019-nCoV Epidemic and Correlation with Population Emigration from Wuhan, China. medRxiv. February 2020:2020.02.10.20021824.](https://doi.org/10.1101/2020.02.10.20021824)
 
 12 February 2020 - [Zeng T, Zhang Y, Li Z, Liu X, Qiu B. Predictions of 2019-nCoV Transmission Ending via Comprehensive Methods. February 2020. http://arxiv.org/abs/2002.04945.](http://arxiv.org/abs/2002.04945)
+
+13 February 2020 - [Shen M, Peng Z, Guo Y, Xiao Y, Zhang L. Lockdown may partially halt the spread of 2019 novel coronavirus in Hubei province, China. medRxiv. February 2020:2020.02.11.20022236.](https://doi.org/10.1101/2020.02.11.20022236)
 
 ## <a id="virus"></a> Virus Evolution
 21 January 2020 - [Xu X, Chen P, Wang J, et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci. January 2020:10.1007/s11427-020-1637-5.](https://doi.org/10.1007/s11427-020-1637-5)
@@ -402,6 +438,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 11 February 2020 - [Luczak-Roesch M. Networks of information token recurrences derived from genomic sequences may reveal hidden patterns in epidemic outbreaks: A case study of the 2019-nCoV coronavirus. medRxiv. February 2020:2020.02.07.20021139.](https://doi.org/10.1101/2020.02.07.20021139)
 
 12 February 2020 - [Benvenuto D, Giovanetti M, Salemi M, et al. The global spread of 2019-nCoV: a molecular evolutionary analysis. Pathog Glob Health. February 2020:1-4.](https://doi.org/10.1080/20477724.2020.1725339)
+
+13 February 2020 - [Wong MC, Cregeen SJJ, Ajami NJ, Petrosino JF. Evidence of recombination in coronaviruses implicating pangolin origins of nCoV-2019. bioRxiv. February 2020:2020.02.07.939207.](https://doi.org/10.1101/2020.02.07.939207)
 
 ## <a id="clinical"></a> Clinical and Community Trials
 30 January 2020 - [Pillaiyar T, Meenakshisundaram S, Manickam M. Recent discovery and development of inhibitors targeting coronaviruses. Drug Discov Today. January 2020:S1359-6446(20)30041-6.](https://doi.org/10.1016/j.drudis.2020.01.015)
@@ -509,6 +547,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 11 February 2020 - [Cai G. Tobacco-use disparity in gene expression of ACE2, the receptor of 2019-nCov. medRxiv. February 2020:2020.02.05.20020107.](https://doi.org/10.1101/2020.02.05.20020107)
 
+11 February 2020 - [Nishiura, Linton, Akhmetzhanov. Initial Cluster of Novel Coronavirus (2019-nCoV) Infections in Wuhan, China Is Consistent with Substantial Human-to-Human Transmission. J Clin Med. 2020;9(2):488.](https://doi.org/10.3390/jcm9020488)
+
 11 February 2020 - [Yang Y, Lu Q, Liu M, et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. medRxiv. February 2020:2020.02.10.20021675.](https://doi.org/10.1101/2020.02.10.20021675)
 
 12 February 2020 - [Ayittey FK, Ayittey MK, Chiwero NB, Kamasah JS, Dzuvor C. Economic Impacts of Wuhan 2019‐nCoV on China and the World. J Med Virol. February 2020:jmv.25706.](https://doi.org/10.1002/jmv.25706)
@@ -525,9 +565,13 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 12 February 2020 - [To KK-W, Tsang OT-Y, Chik-Yan Yip C, et al. Consistent detection of 2019 novel coronavirus in saliva. Clin Infect Dis. February 2020.](https://doi.org/10.1093/cid/ciaa149)
 
+12 February 2020 - [Velavan TP, Meyer CG. The Covid‐19 epidemic. Trop Med Int Heal. February 2020:tmi.13383.](https://doi.org/10.1111/tmi.13383)
+
 12 February 2020 - [Volunteers A-2019-nCoV, Li Z, Wu M, et al. Caution on Kidney Dysfunctions of 2019-nCoV Patients. medRxiv. February 2020:2020.02.08.20021212.](https://doi.org/10.1101/2020.02.08.20021212)
 
 12 February 2020 - [Wan S, Yi Q, Fan S, et al. Characteristics of lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized patients with 2019 novel coronavirus pneumonia (NCP). medRxiv. February 2020:2020.02.10.20021832.](https://doi.org/10.1101/2020.02.10.20021832)
+
+12 February 2020 - [Wang Y, Hu M, Li Q, Zhang X-P, Zhai G, Yao N. Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner. February 2020. http://arxiv.org/abs/2002.05534.](http://arxiv.org/abs/2002.05534)
 
 12 February 2020 - [Xie X, Zhong Z, Zhao W, Zheng C, Wang F, Liu J. Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing. Radiology. February 2020:200343.](https://doi.org/10.1148/radiol.2020200343)
 
@@ -538,6 +582,14 @@ All documents listed below have been added to a Mendeley reference library. An X
 12 February 2020 - [Zhou Y, Dong J. Statistical Inference for Coronavirus Infected Patients in Wuhan. medRxiv. February 2020:2020.02.10.20021774.](https://doi.org/10.1101/2020.02.10.20021774)
 
 12 February 2020 - [Zhou Y, Zeng Y, Tong Y, Chen C. Ophthalmologic evidence against the interpersonal transmission of 2019 novel coronavirus through conjunctiva. medRxiv. February 2020:2020.02.11.20021956.](https://doi.org/10.1101/2020.02.11.20021956)
+
+13 February 2020 - [Wang M, Wu Q, Xu W, et al. Clinical diagnosis of 8274 samples with 2019-novel coronavirus in Wuhan. medRxiv. February 2020:2020.02.12.20022327.](https://doi.org/10.1101/2020.02.12.20022327)
+
+13 February 2020 - [Zhang J. Testing Case Number of Coronavirus Disease 2019 in China with Newcomb-Benford Law. February 2020. http://arxiv.org/abs/2002.05695.](http://arxiv.org/abs/2002.05695)
+
+13 February 2020 - [Zhang L, Liu Y. Potential Interventions for Novel Coronavirus in China: A Systemic Review. J Med Virol. February 2020:jmv.25707.](https://doi.org/10.1002/jmv.25707)
+
+14 February 2020 - [Bajema KL, Oster AM, McGovern OL, et al. Persons Evaluated for 2019 Novel Coronavirus — United States, January 2020. MMWR Morb Mortal Wkly Rep. 2020;69(6):166-170.](https://doi.org/10.15585/mmwr.mm6906e1)
 
 ## <a id="microbiological"></a> Microbiological and Immunological studies
 22 January 2020 - [Dong N, Yang X, Ye L, et al. Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China. bioRxiv. 2020:2020.01.20.913368.](https://doi.org/10.1101/2020.01.20.913368)
@@ -642,6 +694,14 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 12 February 2020 - [Zhu J, Kim J, Xiao X, et al. Profiling the immune vulnerability landscape of the 2019 Novel Coronavirus. bioRxiv. February 2020:2020.02.08.939553.](https://doi.org/10.1101/2020.02.08.939553)
 
+13 February 2020 - [Fan C, Li K, Ding Y, Lu WL, Wang J. ACE2 Expression in Kidney and Testis May Cause Kidney and Testis Damage After 2019-nCoV Infection. medRxiv. February 2020:2020.02.12.20022418.](https://doi.org/10.1101/2020.02.12.20022418)
+
+13 February 2020 - [Nguyen D, Gao K, Chen J, Wang R, Wei G. Potentially highly potent drugs for 2019-nCoV. bioRxiv. February 2020:2020.02.05.936013.](https://doi.org/10.1101/2020.02.05.936013)
+
+13 February 2020 - [WU C, Zheng S, Chen Y, Zheng M. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCoV, in the nasal tissue. medRxiv. February 2020:2020.02.11.20022228.](https://doi.org/10.1101/2020.02.11.20022228)
+
+13 February 2020 - [Zhang J, Ma X, Yu F, et al. Teicoplanin potently blocks the cell entry of 2019-nCoV. bioRxiv. February 2020:2020.02.05.935387.](https://doi.org/10.1101/2020.02.05.935387)
+
 ## <a id="therapeutics"></a> Potential Therapeutics
 28 January 2020 - [Xu Z, Peng C, Shi Y, et al. Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation. bioRxiv. 2020:2020.01.27.921627.](https://doi.org/10.1101/2020.01.27.921627)
 
@@ -674,6 +734,10 @@ All documents listed below have been added to a Mendeley reference library. An X
 11 February 2020 - [Abdelmageed MI, Abdelmoneim AH, Mustafa MI, et al. Design of multi epitope-based peptide vaccine against E protein of human 2019-nCoV: An immunoinformatics approach. bioRxiv. February 2020:2020.02.04.934232.](https://doi.org/10.1101/2020.02.04.934232)
 
 11 February 2020 - [Sarkar B, Ullah MA, Johora FT, Taniya MA, Araf Y. The Essential Facts of Wuhan Novel Coronavirus Outbreak in China and Epitope-based Vaccine Designing against 2019-nCoV. bioRxiv. February 2020:2020.02.05.935072.](https://doi.org/10.1101/2020.02.05.935072)
+
+13 February 2020 - [Nguyen D, Gao K, Chen J, Wang R, Wei G. Potentially highly potent drugs for 2019-nCoV. bioRxiv. February 2020:2020.02.05.936013.](https://doi.org/10.1101/2020.02.05.936013)
+
+13 February 2020 - [Zhang J, Ma X, Yu F, et al. Teicoplanin potently blocks the cell entry of 2019-nCoV. bioRxiv. February 2020:2020.02.05.935387.](https://doi.org/10.1101/2020.02.05.935387)
 
 ## <a id="other"></a> Other studies
 14 January 2020 - [Hui DS, I Azhar E, Madani TA, et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China. Int J Infect Dis. 2020;91:264-266.](https://doi.org/10.1016/j.ijid.2020.01.009)
