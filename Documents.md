@@ -169,6 +169,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 11 February 2020 - [You C, Deng Y, Hu W, et al. Estimation of the Time-Varying Reproduction Number of 2019-nCoV Outbreak in China. medRxiv. February 2020:2020.02.08.20021253.](https://doi.org/10.1101/2020.02.08.20021253)
 
+13 February 2020 - [Jiang X, Rayner S, Luo M. Does SARS‐CoV‐2 has a longer incubation period than SARS and MERS? J Med Virol. February 2020:jmv.25708.](https://doi.org/10.1002/jmv.25708)
+
 13 February 2020 - [Lin Q, Hu T, Zhou X-H. Estimating the daily trend in the size of COVID-19 infected population in Wuhan. medRxiv. February 2020:2020.02.12.20022277.](https://doi.org/10.1101/2020.02.12.20022277)
 
 13 February 2020 - [Liu T, Hu J, Kang M, et al. Time-varying transmission dynamics of Novel Coronavirus Pneumonia in China. bioRxiv. February 2020:2020.01.25.919787.](https://doi.org/:10.1101/2020.01.25.919787)
@@ -182,6 +184,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 13 February 2020 - [Nishiura H, Linton NM, Akhmetzhanov AR. Serial interval of novel coronavirus (2019-nCoV) infections. medRxiv. February 2020:2020.02.03.20019497.](https://doi.org/10.1101/2020.02.03.20019497)
 
 13 February 2020 - [Zhao H, Man S, Wang B, Ning Y. Epidemic size of novel coronavirus-infected pneumonia in the Epicenter Wuhan: using data of five-countries’ evacuation action. medRxiv. February 2020:2020.02.12.20022285.](https://doi.org/10.1101/2020.02.12.20022285)
+
+14 February 2020 - [Salazar PM De, Niehus R, Taylor A, Lipsitch M. Estimating underdetection of internationally imported COVID-19 cases. medRxiv. February 2020:2020.02.13.20022707.](https://doi.org/10.1101/2020.02.13.20022707)
 
 ## <a id="spread"></a> Spread and Possibility of Containment
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
@@ -251,6 +255,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 13 February 2020 - [Wilder-Smith A, Freedman DO. Isolation, quarantine, social distancing and community containment: pivotal role for old-style public health measures in the novel coronavirus (2019-nCoV) outbreak. J Travel Med. February 2020.](https://doi.org/10.1093/jtm/taaa020)
 
 14 February 2020 - [Du Z, Wang L, Cauchemez S, et al. Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China. Emerg Infect Dis. 2020;26(5).](https://doi.org/10.3201/eid2605.200146)
+
+14 February 2020 - [Salazar PM De, Niehus R, Taylor A, Lipsitch M. Estimating underdetection of internationally imported COVID-19 cases. medRxiv. February 2020:2020.02.13.20022707.](https://doi.org/10.1101/2020.02.13.20022707)
 
 ## <a id="scenario"></a> Scenario Projections & Forecasting
 14 January 2020 - [Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med. 2020:taaa008.](https://doi.org/10.1093/jtm/taaa008)
@@ -349,6 +355,12 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 13 February 2020 - [Nesteruk I. Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China. medRxiv. February 2020:2020.02.12.20021931.](https://doi.org/10.1101/2020.02.12.20021931)
 
+14 February 2020 - [Danon L, Brooks-Pollock E, Bailey M, Keeling MJ. A spatial model of CoVID-19 transmission in England and Wales: early spread and peak timing. medRxiv. February 2020:2020.02.12.20022566.](https://doi.org/10.1101/2020.02.12.20022566)
+
+16 February 2020 - [Zhu X, Zhang A, Xu S, et al. Spatially Explicit Modeling of 2019-nCoV Epidemic Trend based on Mobile Phone Data in Mainland China. medRxiv. February 2020:2020.02.09.20021360.](https://doi.org/10.1101/2020.02.09.20021360)
+
+17 February 2020 - [Neher RA, Dyrdak R, Druelle V, Hodcroft EB, Albert J. Impact of seasonal forcing on a potential SARS-CoV-2 pandemic. medRxiv. February 2020:2020.02.13.20022806.](https://doi.org/10.1101/2020.02.13.20022806)
+
 ## <a id="impact"></a> Impact of Interventions
 18 January 2020 - [Cheng VCC, Wong S-C, To KKW, Ho PL, Yuen K-Y. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect. 2020:S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
 
@@ -440,6 +452,12 @@ All documents listed below have been added to a Mendeley reference library. An X
 12 February 2020 - [Benvenuto D, Giovanetti M, Salemi M, et al. The global spread of 2019-nCoV: a molecular evolutionary analysis. Pathog Glob Health. February 2020:1-4.](https://doi.org/10.1080/20477724.2020.1725339)
 
 13 February 2020 - [Wong MC, Cregeen SJJ, Ajami NJ, Petrosino JF. Evidence of recombination in coronaviruses implicating pangolin origins of nCoV-2019. bioRxiv. February 2020:2020.02.07.939207.](https://doi.org/10.1101/2020.02.07.939207)
+
+14 February 2020 - [Cui H, Gao Z, Liu M, et al. Structural genomics and interactomics of 2019 Wuhan novel coronavirus, 2019-nCoV, indicate evolutionary conserved functional regions of viral proteins. bioRxiv. February 2020:2020.02.10.942136.](https://doi.org/10.1101/2020.02.10.942136)
+
+14 February 2020 - [Wahba L, Jain N, Fire AZ, et al. Identification of a pangolin niche for a 2019-nCoV-like coronavirus through an extensive meta-metagenomic search. bioRxiv. February 2020:2020.02.08.939660.](https://doi.org/10.1101/2020.02.08.939660)
+
+14 February 2020 - [Wassenaar TM, Zou Y. 2019_nCoV: Rapid classification of betacoronaviruses and identification of traditional Chinese medicine as potential origin of zoonotic coronaviruses. Lett Appl Microbiol. February 2020:lam.13285.](https://doi.org/10.1111/lam.13285)
 
 ## <a id="clinical"></a> Clinical and Community Trials
 30 January 2020 - [Pillaiyar T, Meenakshisundaram S, Manickam M. Recent discovery and development of inhibitors targeting coronaviruses. Drug Discov Today. January 2020:S1359-6446(20)30041-6.](https://doi.org/10.1016/j.drudis.2020.01.015)
@@ -583,6 +601,14 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 12 February 2020 - [Zhou Y, Zeng Y, Tong Y, Chen C. Ophthalmologic evidence against the interpersonal transmission of 2019 novel coronavirus through conjunctiva. medRxiv. February 2020:2020.02.11.20021956.](https://doi.org/10.1101/2020.02.11.20021956)
 
+13 February 2020 - [Jiang X, Rayner S, Luo M. Does SARS‐CoV‐2 has a longer incubation period than SARS and MERS? J Med Virol. February 2020:jmv.25708.](https://doi.org/10.1002/jmv.25708)
+
+13 February 2020 - [Liu J, Zheng X, Tong Q, et al. Overlapping and discrete aspects of the pathology and pathogenesis of the emerging human pathogenic coronaviruses SARS‐CoV, MERS‐CoV, and 2019‐nCoV. J Med Virol. February 2020:jmv.25709.](https://doi.org/10.1002/jmv.25709)
+
+13 February 2020 - [Pan Y, Guan H, Zhou S, et al. Initial CT findings and temporal changes in patients with the novel coronavirus pneumonia (2019-nCoV): a study of 63 patients in Wuhan, China. Eur Radiol. February 2020:1-4.](https://doi.org/10.1007/s00330-020-06731-x)
+
+13 February 2020 - [Silverstein WK, Stroud L, Cleghorn GE, Leis JA. First imported case of 2019 novel coronavirus in Canada, presenting as mild pneumonia. Lancet. 2020;0(0).](https://doi.org/10.1016/S0140-6736(20)30370-6)
+
 13 February 2020 - [Wang M, Wu Q, Xu W, et al. Clinical diagnosis of 8274 samples with 2019-novel coronavirus in Wuhan. medRxiv. February 2020:2020.02.12.20022327.](https://doi.org/10.1101/2020.02.12.20022327)
 
 13 February 2020 - [Zhang J. Testing Case Number of Coronavirus Disease 2019 in China with Newcomb-Benford Law. February 2020. http://arxiv.org/abs/2002.05695.](http://arxiv.org/abs/2002.05695)
@@ -590,6 +616,10 @@ All documents listed below have been added to a Mendeley reference library. An X
 13 February 2020 - [Zhang L, Liu Y. Potential Interventions for Novel Coronavirus in China: A Systemic Review. J Med Virol. February 2020:jmv.25707.](https://doi.org/10.1002/jmv.25707)
 
 14 February 2020 - [Bajema KL, Oster AM, McGovern OL, et al. Persons Evaluated for 2019 Novel Coronavirus — United States, January 2020. MMWR Morb Mortal Wkly Rep. 2020;69(6):166-170.](https://doi.org/10.15585/mmwr.mm6906e1)
+
+14 February 2020 - [Lim J, Jeon S, Shin H-Y, et al. Case of the Index Patient Who Caused Tertiary Transmission of COVID-19 Infection in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Infected Pneumonia Monitored by Quantitative RT-PCR. J Korean Med Sci. 2020;35(6).](https://doi.org/10.3346/jkms.2020.35.e79)
+
+17 February 2020 - [Ai J-W, Zhang H-C, Xu T, et al. Optimizing diagnostic strategy for novel coronavirus pneumonia, a multi-center study in Eastern China. medRxiv. February 2020:2020.02.13.20022673.](https://doi.org/10.1101/2020.02.13.20022673)
 
 ## <a id="microbiological"></a> Microbiological and Immunological studies
 22 January 2020 - [Dong N, Yang X, Ye L, et al. Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China. bioRxiv. 2020:2020.01.20.913368.](https://doi.org/10.1101/2020.01.20.913368)
@@ -664,6 +694,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 7 February 2020 - [Xiao S-Y, Wu Y, Liu H. Evolving status of the 2019 novel coronavirus Infection: proposal of conventional serologic assays for disease diagnosis and infection monitoring [Commentary/Review]. J Med Virol. February 2020:10.1002/jmv.25702.](https://doi.org/10.1002/jmv.25702)
 
+10 February 2020 - [Coutard B, Valle C, de Lamballerie X, Canard B, Seidah NG, Decroly E. The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade. Antiviral Res. 2020;176:104742.](https://doi.org10.1016/j.antiviral.2020.104742)
+
 10 February - [Zhang L, Lin D, Kusov Y, et al. Alpha-ketoamides as broad-spectrum inhibitors of coronavirus and enterovirus replication. bioRxiv. January 2020:2020.02.10.936898.](https://doi.org/10.1101/2020.02.10.936898)
 
 11 February 2020 - [Abdelmageed MI, Abdelmoneim AH, Mustafa MI, et al. Design of multi epitope-based peptide vaccine against E protein of human 2019-nCoV: An immunoinformatics approach. bioRxiv. February 2020:2020.02.04.934232.](https://doi.org/10.1101/2020.02.04.934232)
@@ -698,9 +730,15 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 13 February 2020 - [Nguyen D, Gao K, Chen J, Wang R, Wei G. Potentially highly potent drugs for 2019-nCoV. bioRxiv. February 2020:2020.02.05.936013.](https://doi.org/10.1101/2020.02.05.936013)
 
+13 February 2020 - [Pfab J, Si D. DeepTracer: Predicting Backbone Atomic Structure from High Resolution Cryo-EM Density Maps of Protein Complexes. bioRxiv. February 2020:2020.02.12.946772.](https://doi.org/10.1101/2020.02.12.946772)
+
 13 February 2020 - [WU C, Zheng S, Chen Y, Zheng M. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCoV, in the nasal tissue. medRxiv. February 2020:2020.02.11.20022228.](https://doi.org/10.1101/2020.02.11.20022228)
 
 13 February 2020 - [Zhang J, Ma X, Yu F, et al. Teicoplanin potently blocks the cell entry of 2019-nCoV. bioRxiv. February 2020:2020.02.05.935387.](https://doi.org/10.1101/2020.02.05.935387)
+
+15 February 2020 - [Wrapp D, Wang N, Corbett KS, et al. Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation. bioRxiv. February 2020:2020.02.11.944462.](https://doi.org/10.1101/2020.02.11.944462)
+
+16 February 2020 - [Meng T, Cao H, Zhang H, et al. The insert sequence in SARS-CoV-2 enhances spike protein cleavage by TMPRSS. bioRxiv. February 2020:2020.02.08.926006.](https://doi.org/10.1101/2020.02.08.926006)
 
 ## <a id="therapeutics"></a> Potential Therapeutics
 28 January 2020 - [Xu Z, Peng C, Shi Y, et al. Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation. bioRxiv. 2020:2020.01.27.921627.](https://doi.org/10.1101/2020.01.27.921627)
@@ -735,9 +773,15 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 11 February 2020 - [Sarkar B, Ullah MA, Johora FT, Taniya MA, Araf Y. The Essential Facts of Wuhan Novel Coronavirus Outbreak in China and Epitope-based Vaccine Designing against 2019-nCoV. bioRxiv. February 2020:2020.02.05.935072.](https://doi.org/10.1101/2020.02.05.935072)
 
+12 February 2020 - [McCarty MF, DiNicolantonio JJ. Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus. Prog Cardiovasc Dis. February 2020.](https://doi.org/10.1016/j.pcad.2020.02.007)
+
+13 February 2020 - [de Wit E, Feldmann F, Cronin J, et al. Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci. February 2020:201922083.](https://doi.org/10.1073/pnas.1922083117)
+
 13 February 2020 - [Nguyen D, Gao K, Chen J, Wang R, Wei G. Potentially highly potent drugs for 2019-nCoV. bioRxiv. February 2020:2020.02.05.936013.](https://doi.org/10.1101/2020.02.05.936013)
 
 13 February 2020 - [Zhang J, Ma X, Yu F, et al. Teicoplanin potently blocks the cell entry of 2019-nCoV. bioRxiv. February 2020:2020.02.05.935387.](https://doi.org/10.1101/2020.02.05.935387)
+
+14 February 2020 - [Lim J, Jeon S, Shin H-Y, et al. Case of the Index Patient Who Caused Tertiary Transmission of COVID-19 Infection in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Infected Pneumonia Monitored by Quantitative RT-PCR. J Korean Med Sci. 2020;35(6).](https://doi.org/10.3346/jkms.2020.35.e79)
 
 ## <a id="other"></a> Other studies
 14 January 2020 - [Hui DS, I Azhar E, Madani TA, et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China. Int J Infect Dis. 2020;91:264-266.](https://doi.org/10.1016/j.ijid.2020.01.009)
