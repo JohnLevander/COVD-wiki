@@ -97,9 +97,13 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 24 January 2020 - [Riou J, Althaus CL. Pattern of early human-to-human transmission of Wuhan 2019-nCoV. bioRxiv. 2020:2020.01.23.917351.](https://doi.org/10.1101/2020.01.23.917351)
 
-28 January 2020 - [Linton NM, Kobayashi T, Yang Y, et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. 2020:2020.01.26.20018754.](https://doi.org/10.1101/2020.01.26.20018754)
+28 January 2020 - Linton NM, Kobayashi T, Yang Y, et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. 2020:2020.01.26.20018754.
+- [Review, Outbreak Science PREreview](https://outbreaksci.prereview.org/10.1101/2020.01.26.20018754)
+- [medRxiv](https://doi.org/10.1101/2020.01.26.20018754)
 
-28 January 2020 - [Read JM, Bridgen JRE, Cummings DAT, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020:2020.01.23.20018549.](https://doi.org/10.1101/2020.01.23.20018549)
+28 January 2020 - Read JM, Bridgen JRE, Cummings DAT, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020:2020.01.23.20018549.
+- [Review, Outbreak Science PREreview](https://outbreaksci.prereview.org/10.1101/2020.01.23.20018549)
+- [medRxiv](https://doi.org/10.1101/2020.01.23.20018549)
 
 29 January 2020 - [Cao Z, Zhang Q, Lu X, et al. Estimating the effective reproduction number of the 2019-nCoV in China. medRxiv. 2020:2020.01.27.20018952.](https://www.medrxiv.org/content/10.1101/2020.01.27.20018952v1)
 
@@ -130,6 +134,7 @@ All documents listed below have been added to a Mendeley reference library. An X
 6 February 2020 - Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20–28 January 2020. Eurosurveillance. 2020;25(5):20-28.
 - [Eurosurveillance](https://doi.org/10.2807/1560-7917.ES.2020.25.5.2000062)
 - [medRxiv](https://doi.org/10.1101/2020.01.27.20018986)
+- [Review, Outbreak Science PREreview](https://outbreaksci.prereview.org/10.1101/2020.01.27.20018986)
 
 7 February 2020 - [Battegay M, Kuehl R, Tschudin-Sutter S, Hirsch HH, Widmer AF, Neher RA. 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate - a word of caution. Swiss Med Wkly. 2020;150:w20203-w20203.](https://doi.org/10.4414/smw.2020.20203)
 
@@ -208,7 +213,9 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 2 February 2020 - [Quilty B, Clifford S, Flasche S, Eggo RM. Effectiveness of airport screening at detecting travellers infected with 2019-nCoV. medRxiv. 2020:2020.01.31.20019265.](https://doi.org/10.1101/2020.01.31.20019265)
 
-2 February 2020 - [Tian H, Li Y, Liu Y, et al. Early evaluation of the Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. 2020:2020.01.30.20019844.](https://doi.org/10.1101/2020.01.30.20019844)
+2 February 2020 - Tian H, Li Y, Liu Y, et al. Early evaluation of the Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. 2020:2020.01.30.20019844.
+- [Review, Outbreak Science PREreview](https://outbreaksci.prereview.org/10.1101/2020.01.30.20019844)
+- [medRxiv](https://doi.org/10.1101/2020.01.30.20019844)
 
 3 February 2020 - [Gostic K, Gomez ACR, Mummah RO, Kucharski AJ, Lloyd-Smith JO. Estimated effectiveness of traveller screening to prevent international spread of 2019 novel coronavirus (2019-nCoV). medRxiv. 2020:2020.01.28.20019224.](https://doi.org/10.1101/2020.01.28.20019224)
 
@@ -269,7 +276,9 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 28 January 2020 - [Chen Z, Zhang W, Lu Y, et al. From SARS-CoV to Wuhan 2019-nCoV Outbreak: Similarity of Early Epidemic and Prediction of Future Trends. bioRxiv. 2020:2020.01.24.919241.](https://doi.org/10.1101/2020.01.24.919241)
 
-28 January 2020 - [ Read JM, Bridgen JRE, Cummings DAT, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020:2020.01.23.20018549.](https://doi.org/10.1101/2020.01.23.20018549)
+28 January 2020 - Read JM, Bridgen JRE, Cummings DAT, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020:2020.01.23.20018549.
+- [Review, Outbreak Science PREreview](https://outbreaksci.prereview.org/10.1101/2020.01.23.20018549)
+- [medRxiv](https://doi.org/10.1101/2020.01.23.20018549)
 
 28 January 2020 - [Shao P, Shan Y. Beware of asymptomatic transmission: Study on 2019-nCoV prevention and control measures based on extended SEIR model. bioRxiv. 2020:2020.01.28.923169.](https://doi.org/10.1101/2020.01.28.923169)
 
@@ -405,7 +414,9 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 23 January 2020 - [Zhou P, Yang X-L, Wang X-G, et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv. 2020:2020.01.22.914952.](https://doi.org/10.1101/2020.01.22.914952)
 
-24 January 2020 - [Benvenuto D, Giovannetti M, Ciccozzi A, Spoto S, Angeletti S, Ciccozzi M. The 2019-new coronavirus epidemic: evidence for virus evolution. bioRxiv. 2020:2020.01.24.915157.](https://doi.org/10.1101/2020.01.24.915157)
+24 January 2020 - Benvenuto D, Giovannetti M, Ciccozzi A, Spoto S, Angeletti S, Ciccozzi M. The 2019-new coronavirus epidemic: evidence for virus evolution. bioRxiv. 2020:2020.01.24.915157.
+- [Review, Outbreak Science PREreview](https://outbreaksci.prereview.org/10.1101/2020.01.24.915157)
+- [bioRxiv](https://doi.org/10.1101/2020.01.24.915157)
 
 24 January 2020 - [Tan W, Zhao X, Ma X, Wang W, Niu P, Xu W. Notes from the Field A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases — Wuhan , China 2019 − 2020. China CDC Wkly. 2020;1(3):2-3.](http://weekly.chinacdc.cn/en/article/id/a3907201-f64f-4154-a19e-4253b453d10c)
 
@@ -479,7 +490,9 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 24 January 2020 - [Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020:NEJMoa2001017.](https://doi.org/10.1056/NEJNEJMoa2001017)
 
-28 January 2020 - [Linton NM, Kobayashi T, Yang Y, et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. 2020:2020.01.26.20018754.](https://doi.org/10.1101/2020.01.26.20018754)
+28 January 2020 - Linton NM, Kobayashi T, Yang Y, et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. 2020:2020.01.26.20018754.
+- [Review, Outbreak Science PREreview](https://outbreaksci.prereview.org/10.1101/2020.01.26.20018754)
+- [medRxiv](https://doi.org/10.1101/2020.01.26.20018754)
 
 28 January 2020 - [Lodge EK, Schatz AM, Drake JM. Protective Population Behavior Change in Outbreaks of Emerging Infectious Disease. bioRxiv. 2020:2020.01.27.921536.](https://doi.org/10.1101/2020.01.27.921536)
 
