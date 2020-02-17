@@ -57,7 +57,11 @@ All documents listed below have been added to a Mendeley reference library. An X
 * 6 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-06 report](https://github.com/midas-network/COVID-19/blob/master/documents/reports/outbreak_reports/global/sitreps_jhu_chs/2020-02-06_2019-nCoV.pdf)
 * 7 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-07 report](https://github.com/midas-network/COVID-19/blob/master/documents/reports/outbreak_reports/global/sitreps_jhu_chs/2020-02-07_2019-nCoV.pdf)
 * 9 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-09 report](https://github.com/midas-network/COVID-19/blob/master/documents/reports/outbreak_reports/global/sitreps_jhu_chs/2020-02-09_2019-nCoV.pdf)
-
+* 10 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-10 report](https://github.com/midas-network/COVID-19/blob/master/documents/reports/outbreak_reports/global/sitreps_jhu_chs/2020-02-10_2019-nCoV.pdf)
+* 11 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-11 report](https://github.com/midas-network/COVID-19/blob/master/documents/reports/outbreak_reports/global/sitreps_jhu_chs/2020-02-11_2019-nCoV.pdf)
+* 12 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-12 report](https://github.com/midas-network/COVID-19/blob/master/documents/reports/outbreak_reports/global/sitreps_jhu_chs/2020-02-12_2019-nCoV.pdf)
+* 13 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-13 report](https://github.com/midas-network/COVID-19/blob/master/documents/reports/outbreak_reports/global/sitreps_jhu_chs/2020-02-13_2019-nCoV.pdf)
+* 14 February 2020 - [Center for Health Security. 2020. 2019 nCoV 2020-02-14 report](https://github.com/midas-network/COVID-19/blob/master/documents/reports/outbreak_reports/global/sitreps_jhu_chs/2020-02-14_2019-nCoV.pdf)
 
 ## <a id="model"></a> Modelling reports
 ### China
@@ -69,6 +73,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 * 25 January 2020 - [Imai N, Cori A, Dorigatti I, et al. Report 3: Transmissibility of 2019-NCoV. London; 2020.](https://github.com/midas-network/COVID-19/blob/master/documents/reports/model_reports/china/reports_imperial_college/2020-01-25_Report_3_Transmissibility.pdf)
 
 * 10 February 2020 - [Dorigatti I, Okell L, Cori A, et al. Report 4: Severity of 2019-Novel Coronavirus (NCoV). London; 2020.](https://github.com/midas-network/COVID-19/blob/master/documents/reports/model_reports/china/reports_imperial_college/2020-02-10_Report_4_Severity.pdf)
+
+* 15 February 2020 - [Volz E, Baguelin M, Bhatia S, et al. Report 5: Phylogenetic Analysis of SARS-CoV-2. London; 2020.](https://github.com/midas-network/COVID-19/blob/master/documents/reports/model_reports/china/reports_imperial_college/2020-02-15_Report_5_Phylogenetic_Analysis.pdf)
 
 ### Global
 #### [Preliminary assessment of the International Spreading Risk Associated with the 2019 novel Coronavirus (2019-nCoV) outbreak in Wuhan](https://github.com/midas-network/COVID-19/tree/master/documents/reports/model_reports/global/risk_assessment_mobs) ([metadata](https://github.com/midas-network/COVID-19/blob/master/documents/reports/model_reports/global/risk_assessment_mobs/collection_metadata.csv))
