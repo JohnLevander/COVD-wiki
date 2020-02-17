@@ -359,6 +359,8 @@ All documents listed below have been added to a Mendeley reference library. An X
 
 16 February 2020 - [Zhu X, Zhang A, Xu S, et al. Spatially Explicit Modeling of 2019-nCoV Epidemic Trend based on Mobile Phone Data in Mainland China. medRxiv. February 2020:2020.02.09.20021360.](https://doi.org/10.1101/2020.02.09.20021360)
 
+17 February 2020 - [Luo W, Majumder MS, Liu D, et al. The role of absolute humidity on transmission rates of the COVID-19 outbreak. medRxiv. January 2020:2020.02.12.20022467.](https://doi.org/10.1101/2020.02.12.20022467)
+
 17 February 2020 - [Neher RA, Dyrdak R, Druelle V, Hodcroft EB, Albert J. Impact of seasonal forcing on a potential SARS-CoV-2 pandemic. medRxiv. February 2020:2020.02.13.20022806.](https://doi.org/10.1101/2020.02.13.20022806)
 
 ## <a id="impact"></a> Impact of Interventions
