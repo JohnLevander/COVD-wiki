@@ -38,7 +38,7 @@ To contribute to the COVID-19 repository with GitHub:
 4. Create a pull-request to update your collection into the repository, a MIDAS staff member will review it before adding it to the repository. 
 
 ### <a id="parameter"></a>Contributing parameter estimates
-1. Read the [Data Guide for Parameter Estimates](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_estimates_data_guide_v1.0.1_12Feb2020.csv) to ensure your data contains most of the necessary information to contribute to the repository.
+1. Read the [Data Guide for Parameter Estimates](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_estimates_data_guide_v1.1_18Feb2020.csv) to ensure your data contains most of the necessary information to contribute to the repository.
 2. Create an [issue](https://github.com/midas-network/COVID-19/issues) to have a MIDAS staff member add an estimate, or create a pull request to the [estimates.csv file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv) to directly append your estimate to the main repository. 
 3. A MIDAS staff member can add the new estimate to the estimate [readme.md file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/README.md), or create a pull request to the [readme.md file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/README.md) to update the listing.  
 
